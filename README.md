@@ -1,3 +1,5 @@
+![Reader Preview](preview.jpg)
+
 # Counter:Side Story Reader
 This is a reader for the game Counter:Side. It runs in the web-browser, but because there's so many huge files, you need a webserver.
 **Disclaimer:** Scripts are available in all supported languages. But, story displaynames have not been translated yet.
