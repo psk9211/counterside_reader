@@ -8,7 +8,7 @@ This is a reader for the game Counter:Side. It runs in the web-browser, but beca
 **免責事項:** シナリオのテキストはすべての対応言語で利用可能ですが、ストーリーの表示名（Displayname）はまだ翻訳されていません。  
 
 First, download the folder by clicking **"Code"** -> **"Download ZIP"**.  
-먼저 **"Code"** -> **"Download ZIP"**을 클릭하여 폴더를 다운로드하세요.  
+먼저 **"Code"** -> **"Download ZIP"** 을 클릭하여 폴더를 다운로드하세요.  
 首先，點擊 **"Code"** -> **"Download ZIP"** 下載資料夾。  
 まず、**"Code"** -> **"Download ZIP"** をクリックしてフォルダをダウンロードしてください。
 ![Download the zip](download.png)
