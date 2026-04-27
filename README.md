@@ -3,14 +3,17 @@
 # Counter:Side Story Reader
 This is a reader for the game Counter:Side. It runs in the web-browser, but because there's so many huge files, you need a webserver.  
 
-**공지:** 스크립트는 지원되는 모든 언어로 제공되지만, 스토리 표시 이름(Displayname)은 아직 번역되지 않았습니다.  
-**聲明：** 劇情文本已支援所有語言，但劇情顯示名稱（Displayname）目前尚未翻譯。  
-**免責事項:** シナリオのテキストはすべての対応言語で利用可能ですが、ストーリーの表示名（Displayname）はまだ翻訳されていません。  
+**공지:** 일부 UI 요소는 아직 현지화되지 않았을 수 있으나, 전체 스토리 텍스트는 이용 가능합니다.  
+**聲明:** 部分使用者介面元素可能尚未本地化，但完整的故事文本已發布。  
+**免責事項:** 一部のUI要素はまだローカライズされていない可能性がありますが、ストーリーの全文はお読みいただけます。  
+
+[Roadmap](./notes/ROADMAP.md) | [ロードマップ](./notes/ROADMAP.JP.md) | [로드맵](./notes/ROADMAP.KR.md) | [項目路線圖](./notes/ROADMAP.TW.md)
 
 First, download the folder by clicking **"Code"** -> **"Download ZIP"**.  
 먼저 **"Code"** -> **"Download ZIP"** 을 클릭하여 폴더를 다운로드하세요.  
 首先，點擊 **"Code"** -> **"Download ZIP"** 下載資料夾。  
-まず、**"Code"** -> **"Download ZIP"** をクリックしてフォルダをダウンロードしてください。
+まず、**"Code"** -> **"Download ZIP"** をクリックしてフォルダをダウンロードしてください。 
+
 ![Download the zip](download.png)
 
 On Windows, you can just:
@@ -30,7 +33,6 @@ You need to give the files permission to run first:
 
 ---
 
-## 🇰🇷 Korean (한국어)
 # 카운터사이드 스토리 리더 (Counter:Side Story Reader)
 본 프로그램은 카운터사이드용 스토리 리더입니다. 웹 브라우저에서 실행되지만, 대용량 파일이 많기 때문에 별도의 웹 서버가 필요합니다.
 
@@ -50,7 +52,6 @@ You need to give the files permission to run first:
 
 ---
 
-## 🇹🇼 Traditional Chinese / Taiwan (繁體中文)
 # 異界事務所 劇情閱讀器 (Counter:Side Story Reader)
 這是一個為《異界事務所》開發的劇情閱讀器。雖然在瀏覽器中執行，但由於檔案較大，需要透過網頁伺服器運作。
 
@@ -70,7 +71,6 @@ You need to give the files permission to run first:
 
 ---
 
-## 🇯🇵 Japanese (日本語)
 # カウンターサイド ストーリーリーダー (Counter:Side Story Reader)
 このプログラムは「カウンターサイド」のストーリー閲覧用リーダーです。ウェブブラウザ上で動作しますが、大容量ファイルを扱うためウェブサーバーが必要になります。
 
@@ -91,6 +91,6 @@ You need to give the files permission to run first:
 
 ## Credits & Licenses
 
-- **Counterside Story Reader**: Created by [Your Name/Handle].
+- **Counterside Story Reader**: Created by myrhhcaiah.
 - **Game Content**: All assets and data are property of Studiobside.
 - **Web Server**: This distribution includes [miniserve](https://github.com/svenstaro/miniserve), licensed under the MIT License. See `licenses/MINISERVE-LICENSE.txt` for details.
