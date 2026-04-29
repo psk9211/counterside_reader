@@ -1,5 +1,3 @@
-![Reader Preview](preview.jpg)
-
 # Counter:Side Story Reader
 This is a reader for the game Counter:Side. It runs in the web-browser, but because there's so many huge files, you need a webserver.  
 
@@ -9,6 +7,15 @@ This is a reader for the game Counter:Side. It runs in the web-browser, but beca
 
 [Roadmap](./notes/ROADMAP.md) | [ロードマップ](./notes/ROADMAP.JP.md) | [로드맵](./notes/ROADMAP.KR.md) | [項目路線圖](./notes/ROADMAP.TW.md)
 
+<a href="browser.jpg">
+  <img src="browser.jpg" width="400" alt="Story Browser">
+</a><a href="reader.jpg">
+  <img src="reader.jpg" width="400" alt="Reader">
+</a><a href="viewer.jpg">
+  <img src="viewer.jpg" width="400" alt="Model Viewer">
+</a>
+
+## Installation
 First, download the folder by clicking **"Code"** -> **"Download ZIP"**.  
 먼저 **"Code"** -> **"Download ZIP"** 을 클릭하여 폴더를 다운로드하세요.  
 首先，點擊 **"Code"** -> **"Download ZIP"** 下載資料夾。  
