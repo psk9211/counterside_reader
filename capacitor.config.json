@@ -2,7 +2,10 @@
   "appId": "com.myrhh.csreader",
   "appName": "CSReader",
   "webDir": "dist",
-  "android": {
-    "screenOrientation": "landscape"
+  "plugins": {
+    "SystemBars": {
+      "hidden": true,
+      "animation": "NONE"
+    }
   }
 }
