@@ -1,0 +1,181 @@
+
+FX_SKILL_CUTIN_NKM_UNIT_C_ADMIN_NA_YUBIN.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b1
+  rotate: false
+  xy: 556, 379
+  size: 186, 530
+  orig: 186, 530
+  offset: 0, 0
+  index: -1
+b2
+  rotate: false
+  xy: 744, 405
+  size: 91, 504
+  orig: 91, 504
+  offset: 0, 0
+  index: -1
+b3
+  rotate: false
+  xy: 263, 371
+  size: 291, 538
+  orig: 291, 538
+  offset: 0, 0
+  index: -1
+b4
+  rotate: false
+  xy: 837, 383
+  size: 165, 202
+  orig: 165, 202
+  offset: 0, 0
+  index: -1
+b5
+  rotate: false
+  xy: 263, 166
+  size: 339, 203
+  orig: 339, 203
+  offset: 0, 0
+  index: -1
+b6
+  rotate: false
+  xy: 138, 215
+  size: 58, 42
+  orig: 58, 42
+  offset: 0, 0
+  index: -1
+b7
+  rotate: true
+  xy: 746, 157
+  size: 80, 136
+  orig: 80, 136
+  offset: 0, 0
+  index: -1
+f1
+  rotate: true
+  xy: 1000, 993
+  size: 29, 22
+  orig: 29, 22
+  offset: 0, 0
+  index: -1
+f2
+  rotate: false
+  xy: 1000, 972
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+f3
+  rotate: false
+  xy: 791, 383
+  size: 42, 20
+  orig: 42, 20
+  offset: 0, 0
+  index: -1
+f4
+  rotate: false
+  xy: 441, 39
+  size: 29, 23
+  orig: 29, 23
+  offset: 0, 0
+  index: -1
+f5
+  rotate: false
+  xy: 186, 20
+  size: 30, 7
+  orig: 30, 7
+  offset: 0, 0
+  index: -1
+f6
+  rotate: false
+  xy: 744, 383
+  size: 45, 20
+  orig: 45, 20
+  offset: 0, 0
+  index: -1
+f7
+  rotate: false
+  xy: 2, 2
+  size: 33, 12
+  orig: 33, 12
+  offset: 0, 0
+  index: -1
+h1
+  rotate: false
+  xy: 746, 239
+  size: 183, 142
+  orig: 183, 142
+  offset: 0, 0
+  index: -1
+h2
+  rotate: true
+  xy: 2, 16
+  size: 184, 182
+  orig: 184, 182
+  offset: 0, 0
+  index: -1
+l1
+  rotate: false
+  xy: 2, 202
+  size: 134, 820
+  orig: 134, 820
+  offset: 0, 0
+  index: -1
+l2
+  rotate: false
+  xy: 138, 259
+  size: 123, 763
+  orig: 123, 763
+  offset: 0, 0
+  index: -1
+la1
+  rotate: false
+  xy: 441, 64
+  size: 245, 100
+  orig: 245, 100
+  offset: 0, 0
+  index: -1
+la2
+  rotate: true
+  xy: 940, 656
+  size: 253, 81
+  orig: 253, 81
+  offset: 0, 0
+  index: -1
+la3
+  rotate: false
+  xy: 186, 29
+  size: 253, 135
+  orig: 253, 135
+  offset: 0, 0
+  index: -1
+lh1
+  rotate: true
+  xy: 931, 254
+  size: 127, 80
+  orig: 127, 80
+  offset: 0, 0
+  index: -1
+lh2
+  rotate: true
+  xy: 604, 166
+  size: 211, 140
+  orig: 211, 140
+  offset: 0, 0
+  index: -1
+ra
+  rotate: false
+  xy: 837, 587
+  size: 101, 322
+  orig: 101, 322
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 263, 911
+  size: 735, 111
+  orig: 735, 111
+  offset: 0, 0
+  index: -1

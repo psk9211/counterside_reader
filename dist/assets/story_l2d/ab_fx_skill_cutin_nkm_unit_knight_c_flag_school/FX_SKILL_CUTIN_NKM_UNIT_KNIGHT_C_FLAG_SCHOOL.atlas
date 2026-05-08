@@ -1,0 +1,132 @@
+
+FX_SKILL_CUTIN_NKM_UNIT_KNIGHT_C_FLAG_SCHOOL.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+EYE_L_BALL
+  rotate: false
+  xy: 1859, 25
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+EYE_L_BROW
+  rotate: false
+  xy: 40, 7
+  size: 55, 15
+  orig: 55, 15
+  offset: 0, 0
+  index: -1
+EYE_L_INBROW
+  rotate: false
+  xy: 1859, 82
+  size: 49, 26
+  orig: 49, 26
+  offset: 0, 0
+  index: -1
+EYE_L_INNER
+  rotate: false
+  xy: 2015, 998
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1
+EYE_L_TEAR
+  rotate: false
+  xy: 1885, 49
+  size: 5, 4
+  orig: 5, 4
+  offset: 0, 0
+  index: -1
+EYE_L_UNBROW
+  rotate: false
+  xy: 97, 14
+  size: 24, 8
+  orig: 24, 8
+  offset: 0, 0
+  index: -1
+EYE_R_BALL
+  rotate: false
+  xy: 2015, 940
+  size: 20, 27
+  orig: 20, 27
+  offset: 0, 0
+  index: -1
+EYE_R_BROW
+  rotate: false
+  xy: 2, 2
+  size: 36, 20
+  orig: 36, 20
+  offset: 0, 0
+  index: -1
+EYE_R_INBROW
+  rotate: false
+  xy: 1859, 55
+  size: 37, 25
+  orig: 37, 25
+  offset: 0, 0
+  index: -1
+EYE_R_INNER
+  rotate: false
+  xy: 2015, 969
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+EYE_R_TEAR
+  rotate: false
+  xy: 97, 2
+  size: 22, 10
+  orig: 22, 10
+  offset: 0, 0
+  index: -1
+EYE_R_UNBROW
+  rotate: false
+  xy: 2015, 929
+  size: 19, 9
+  orig: 19, 9
+  offset: 0, 0
+  index: -1
+HEAD_SWEET_1
+  rotate: false
+  xy: 2042, 990
+  size: 4, 6
+  orig: 4, 6
+  offset: 0, 0
+  index: -1
+MESH
+  rotate: false
+  xy: 2, 24
+  size: 1855, 998
+  orig: 1855, 998
+  offset: 0, 0
+  index: -1
+MOUTH_1
+  rotate: false
+  xy: 1910, 82
+  size: 23, 7
+  orig: 23, 7
+  offset: 0, 0
+  index: -1
+MOUTH_SUB_1
+  rotate: false
+  xy: 1910, 91
+  size: 30, 17
+  orig: 30, 17
+  offset: 0, 0
+  index: -1
+NOSE
+  rotate: false
+  xy: 1898, 62
+  size: 12, 18
+  orig: 12, 18
+  offset: 0, 0
+  index: -1
+SWORD_2
+  rotate: false
+  xy: 1859, 110
+  size: 154, 912
+  orig: 154, 912
+  offset: 0, 0
+  index: -1

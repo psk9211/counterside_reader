@@ -1,0 +1,293 @@
+
+FX_SKILL_CUTIN_NKM_UNIT_KNIGHT_C_FLAG.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+F_hair1
+  rotate: true
+  xy: 1124, 320
+  size: 166, 399
+  orig: 166, 399
+  offset: 0, 0
+  index: -1
+Flag
+  rotate: false
+  xy: 1884, 770
+  size: 155, 249
+  orig: 155, 249
+  offset: 0, 0
+  index: -1
+Flag_end
+  rotate: true
+  xy: 536, 160
+  size: 233, 442
+  orig: 233, 442
+  offset: 0, 0
+  index: -1
+L_arm_down
+  rotate: false
+  xy: 1665, 695
+  size: 209, 84
+  orig: 209, 84
+  offset: 0, 0
+  index: -1
+L_arm_dress
+  rotate: true
+  xy: 1704, 29
+  size: 125, 193
+  orig: 125, 193
+  offset: 0, 0
+  index: -1
+L_eye1
+  rotate: false
+  xy: 1626, 12
+  size: 53, 22
+  orig: 53, 22
+  offset: 0, 0
+  index: -1
+L_eye2
+  rotate: true
+  xy: 1124, 655
+  size: 57, 21
+  orig: 57, 21
+  offset: 0, 0
+  index: -1
+L_eye3
+  rotate: false
+  xy: 454, 189
+  size: 48, 25
+  orig: 48, 25
+  offset: 0, 0
+  index: -1
+L_hand
+  rotate: true
+  xy: 980, 320
+  size: 125, 96
+  orig: 125, 96
+  offset: 0, 0
+  index: -1
+Line_E
+  rotate: false
+  xy: 2, 43
+  size: 323, 14
+  orig: 323, 14
+  offset: 0, 0
+  index: -1
+MESH_E
+  rotate: false
+  xy: 1375, 2
+  size: 249, 316
+  orig: 249, 316
+  offset: 0, 0
+  index: -1
+MESH_E2
+  rotate: false
+  xy: 980, 32
+  size: 393, 286
+  orig: 393, 286
+  offset: 0, 0
+  index: -1
+MESH_E_SMILE
+  rotate: false
+  xy: 454, 160
+  size: 21, 27
+  orig: 21, 27
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 1649, 323
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+Neck
+  rotate: false
+  xy: 1859, 227
+  size: 89, 116
+  orig: 89, 116
+  offset: 0, 0
+  index: -1
+Nose
+  rotate: false
+  xy: 1652, 708
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: -1
+R_eye1
+  rotate: false
+  xy: 327, 50
+  size: 40, 7
+  orig: 40, 7
+  offset: 0, 0
+  index: -1
+R_eye2
+  rotate: true
+  xy: 2022, 305
+  size: 38, 24
+  orig: 38, 24
+  offset: 0, 0
+  index: -1
+R_eye3
+  rotate: false
+  xy: 932, 136
+  size: 25, 22
+  orig: 25, 22
+  offset: 0, 0
+  index: -1
+Weapon
+  rotate: true
+  xy: 1153, 781
+  size: 238, 729
+  orig: 238, 729
+  offset: 0, 0
+  index: -1
+Weapon_E
+  rotate: false
+  xy: 1626, 36
+  size: 76, 282
+  orig: 76, 282
+  offset: 0, 0
+  index: -1
+belt
+  rotate: false
+  xy: 1649, 340
+  size: 200, 104
+  orig: 200, 104
+  offset: 0, 0
+  index: -1
+belt_ac
+  rotate: false
+  xy: 2, 2
+  size: 155, 39
+  orig: 155, 39
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 216
+  size: 532, 496
+  orig: 532, 496
+  offset: 0, 0
+  index: -1
+body_Ribone
+  rotate: false
+  xy: 1078, 409
+  size: 41, 36
+  orig: 41, 36
+  offset: 0, 0
+  index: -1
+body_ac2
+  rotate: false
+  xy: 1652, 446
+  size: 359, 247
+  orig: 359, 247
+  offset: 0, 0
+  index: -1
+body_ac3
+  rotate: false
+  xy: 536, 395
+  size: 435, 317
+  orig: 435, 317
+  offset: 0, 0
+  index: -1
+body_back
+  rotate: false
+  xy: 454, 77
+  size: 220, 81
+  orig: 220, 81
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: true
+  xy: 1525, 320
+  size: 166, 122
+  orig: 166, 122
+  offset: 0, 0
+  index: -1
+hair_ac_L
+  rotate: false
+  xy: 1859, 166
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+hair_ac_R
+  rotate: true
+  xy: 676, 92
+  size: 66, 119
+  orig: 66, 119
+  offset: 0, 0
+  index: -1
+hair_back1
+  rotate: true
+  xy: 2, 714
+  size: 305, 1149
+  orig: 305, 1149
+  offset: 0, 0
+  index: -1
+hair_back_L
+  rotate: true
+  xy: 973, 447
+  size: 265, 149
+  orig: 265, 149
+  offset: 0, 0
+  index: -1
+hair_back_R
+  rotate: false
+  xy: 1851, 345
+  size: 182, 99
+  orig: 182, 99
+  offset: 0, 0
+  index: -1
+hair_ribbone1
+  rotate: false
+  xy: 159, 11
+  size: 149, 30
+  orig: 149, 30
+  offset: 0, 0
+  index: -1
+hair_ribbone2
+  rotate: false
+  xy: 797, 114
+  size: 133, 44
+  orig: 133, 44
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 1704, 156
+  size: 153, 182
+  orig: 153, 182
+  offset: 0, 0
+  index: -1
+leg_l
+  rotate: true
+  xy: 2, 59
+  size: 155, 450
+  orig: 155, 450
+  offset: 0, 0
+  index: -1
+leg_r
+  rotate: true
+  xy: 1153, 488
+  size: 234, 497
+  orig: 234, 497
+  offset: 0, 0
+  index: -1
+neck_ribone
+  rotate: true
+  xy: 1950, 240
+  size: 103, 70
+  orig: 103, 70
+  offset: 0, 0
+  index: -1
+stick
+  rotate: true
+  xy: 1153, 724
+  size: 55, 510
+  orig: 55, 510
+  offset: 0, 0
+  index: -1

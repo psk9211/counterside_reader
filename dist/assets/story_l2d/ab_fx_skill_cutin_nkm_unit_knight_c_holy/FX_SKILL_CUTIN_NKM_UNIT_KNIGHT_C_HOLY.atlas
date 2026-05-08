@@ -1,0 +1,307 @@
+
+FX_SKILL_CUTIN_NKM_UNIT_KNIGHT_C_HOLY.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Acc
+  rotate: false
+  xy: 1863, 154
+  size: 150, 55
+  orig: 150, 55
+  offset: 0, 0
+  index: -1
+Acc_01
+  rotate: true
+  xy: 249, 8
+  size: 27, 143
+  orig: 27, 143
+  offset: 0, 0
+  index: -1
+Acc_02
+  rotate: true
+  xy: 2, 9
+  size: 26, 245
+  orig: 26, 245
+  offset: 0, 0
+  index: -1
+Acc_03
+  rotate: false
+  xy: 2021, 373
+  size: 25, 134
+  orig: 25, 134
+  offset: 0, 0
+  index: -1
+Acc_04
+  rotate: true
+  xy: 409, 2
+  size: 44, 259
+  orig: 44, 259
+  offset: 0, 0
+  index: -1
+Back_Cloak
+  rotate: false
+  xy: 2, 665
+  size: 1006, 356
+  orig: 1006, 356
+  offset: 0, 0
+  index: -1
+Back_Fur
+  rotate: false
+  xy: 1318, 67
+  size: 77, 47
+  orig: 77, 47
+  offset: 0, 0
+  index: -1
+Back_Hair
+  rotate: false
+  xy: 409, 48
+  size: 319, 615
+  orig: 319, 615
+  offset: 0, 0
+  index: -1
+Back_Hairup
+  rotate: false
+  xy: 1485, 453
+  size: 188, 204
+  orig: 188, 204
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 1669, 716
+  size: 231, 277
+  orig: 231, 277
+  offset: 0, 0
+  index: -1
+Face
+  rotate: true
+  xy: 860, 2
+  size: 125, 60
+  orig: 125, 60
+  offset: 0, 0
+  index: -1
+Front_Hair
+  rotate: false
+  xy: 1866, 509
+  size: 162, 202
+  orig: 162, 202
+  offset: 0, 0
+  index: -1
+Left_Arm
+  rotate: false
+  xy: 730, 129
+  size: 130, 534
+  orig: 130, 534
+  offset: 0, 0
+  index: -1
+Left_Back_Fur
+  rotate: true
+  xy: 1675, 321
+  size: 192, 182
+  orig: 192, 182
+  offset: 0, 0
+  index: -1
+Left_Belt
+  rotate: true
+  xy: 1003, 368
+  size: 114, 417
+  orig: 114, 417
+  offset: 0, 0
+  index: -1
+Left_Cloak
+  rotate: true
+  xy: 986, 110
+  size: 62, 178
+  orig: 62, 178
+  offset: 0, 0
+  index: -1
+Left_Fur
+  rotate: false
+  xy: 1344, 224
+  size: 68, 142
+  orig: 68, 142
+  offset: 0, 0
+  index: -1
+Left_Hand
+  rotate: false
+  xy: 1405, 148
+  size: 56, 62
+  orig: 56, 62
+  offset: 0, 0
+  index: -1
+Left_Leg
+  rotate: true
+  xy: 1003, 484
+  size: 173, 480
+  orig: 173, 480
+  offset: 0, 0
+  index: -1
+Ribbon
+  rotate: false
+  xy: 1028, 10
+  size: 103, 98
+  orig: 103, 98
+  offset: 0, 0
+  index: -1
+Right_Acc
+  rotate: true
+  xy: 1667, 165
+  size: 64, 194
+  orig: 64, 194
+  offset: 0, 0
+  index: -1
+Right_Back_Belt
+  rotate: true
+  xy: 1166, 60
+  size: 54, 150
+  orig: 54, 150
+  offset: 0, 0
+  index: -1
+Right_Belt
+  rotate: true
+  xy: 1003, 262
+  size: 104, 339
+  orig: 104, 339
+  offset: 0, 0
+  index: -1
+Right_Cloak
+  rotate: false
+  xy: 2, 37
+  size: 405, 626
+  orig: 405, 626
+  offset: 0, 0
+  index: -1
+Right_Cloak_arm
+  rotate: false
+  xy: 1902, 713
+  size: 137, 280
+  orig: 137, 280
+  offset: 0, 0
+  index: -1
+Right_Fur
+  rotate: false
+  xy: 1675, 515
+  size: 189, 199
+  orig: 189, 199
+  offset: 0, 0
+  index: -1
+Right_Hand
+  rotate: true
+  xy: 1003, 174
+  size: 86, 312
+  orig: 86, 312
+  offset: 0, 0
+  index: -1
+Right_Leg
+  rotate: false
+  xy: 862, 199
+  size: 139, 464
+  orig: 139, 464
+  offset: 0, 0
+  index: -1
+Weapon
+  rotate: true
+  xy: 1010, 995
+  size: 26, 974
+  orig: 26, 974
+  offset: 0, 0
+  index: -1
+Weapontop
+  rotate: true
+  xy: 1010, 659
+  size: 334, 657
+  orig: 334, 657
+  offset: 0, 0
+  index: -1
+bodyup
+  rotate: false
+  xy: 1422, 212
+  size: 243, 239
+  orig: 243, 239
+  offset: 0, 0
+  index: -1
+bodyup_chest
+  rotate: true
+  xy: 730, 9
+  size: 118, 128
+  orig: 118, 128
+  offset: 0, 0
+  index: -1
+eyeFX
+  rotate: true
+  xy: 1667, 231
+  size: 88, 210
+  orig: 88, 210
+  offset: 0, 0
+  index: -1
+eyebrow_l
+  rotate: false
+  xy: 1422, 473
+  size: 44, 9
+  orig: 44, 9
+  offset: 0, 0
+  index: -1
+eyebrow_r
+  rotate: false
+  xy: 1986, 1003
+  size: 54, 18
+  orig: 54, 18
+  offset: 0, 0
+  index: -1
+eyelash
+  rotate: true
+  xy: 2021, 259
+  size: 112, 24
+  orig: 112, 24
+  offset: 0, 0
+  index: -1
+face_change
+  rotate: false
+  xy: 862, 131
+  size: 122, 66
+  orig: 122, 66
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 1879, 211
+  size: 138, 140
+  orig: 138, 140
+  offset: 0, 0
+  index: -1
+head_sha
+  rotate: false
+  xy: 922, 10
+  size: 104, 98
+  orig: 104, 98
+  offset: 0, 0
+  index: -1
+headacc
+  rotate: false
+  xy: 1166, 116
+  size: 157, 56
+  orig: 157, 56
+  offset: 0, 0
+  index: -1
+headacc_cover
+  rotate: false
+  xy: 1859, 351
+  size: 160, 156
+  orig: 160, 156
+  offset: 0, 0
+  index: -1
+l_handtumb
+  rotate: true
+  xy: 986, 181
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+leg_chain
+  rotate: true
+  xy: 1325, 116
+  size: 106, 78
+  orig: 106, 78
+  offset: 0, 0
+  index: -1

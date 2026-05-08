@@ -1,0 +1,174 @@
+
+FX_SKILL_CUTIN_NKM_UNIT_PUPPET_C_WHIP_WEDDING.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ARM_1
+  rotate: false
+  xy: 1575, 22
+  size: 351, 445
+  orig: 351, 445
+  offset: 0, 0
+  index: -1
+BACK_ITEM_1
+  rotate: false
+  xy: 2, 608
+  size: 1123, 380
+  orig: 1123, 380
+  offset: 0, 0
+  index: -1
+BODY_MAIN_1
+  rotate: false
+  xy: 2, 83
+  size: 698, 523
+  orig: 698, 523
+  offset: 0, 0
+  index: -1
+EYE_L_BALL
+  rotate: true
+  xy: 1709, 469
+  size: 29, 25
+  orig: 29, 25
+  offset: 0, 0
+  index: -1
+EYE_L_BROW
+  rotate: false
+  xy: 1114, 87
+  size: 77, 12
+  orig: 77, 12
+  offset: 0, 0
+  index: -1
+EYE_L_CORE
+  rotate: false
+  xy: 2038, 979
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+EYE_L_INBROW
+  rotate: false
+  xy: 2, 49
+  size: 71, 32
+  orig: 71, 32
+  offset: 0, 0
+  index: -1
+EYE_L_INNER
+  rotate: false
+  xy: 1114, 67
+  size: 47, 18
+  orig: 47, 18
+  offset: 0, 0
+  index: -1
+EYE_R_BALL
+  rotate: false
+  xy: 1736, 475
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+EYE_R_BROW
+  rotate: false
+  xy: 75, 50
+  size: 49, 31
+  orig: 49, 31
+  offset: 0, 0
+  index: -1
+EYE_R_CORE
+  rotate: true
+  xy: 2038, 970
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+EYE_R_INBROW
+  rotate: false
+  xy: 1956, 655
+  size: 53, 35
+  orig: 53, 35
+  offset: 0, 0
+  index: -1
+EYE_R_INNER
+  rotate: true
+  xy: 2011, 657
+  size: 33, 21
+  orig: 33, 21
+  offset: 0, 0
+  index: -1
+HAIR_FRONT_1
+  rotate: false
+  xy: 1709, 692
+  size: 327, 296
+  orig: 327, 296
+  offset: 0, 0
+  index: -1
+HEAD
+  rotate: true
+  xy: 1709, 500
+  size: 190, 245
+  orig: 190, 245
+  offset: 0, 0
+  index: -1
+LEG_1
+  rotate: false
+  xy: 702, 62
+  size: 410, 544
+  orig: 410, 544
+  offset: 0, 0
+  index: -1
+MOUTH_INNER
+  rotate: false
+  xy: 2, 2
+  size: 22, 16
+  orig: 22, 16
+  offset: 0, 0
+  index: -1
+MOUTH_THEETH
+  rotate: true
+  xy: 1114, 583
+  size: 23, 11
+  orig: 23, 11
+  offset: 0, 0
+  index: -1
+MOUTH_TOUNGUE
+  rotate: true
+  xy: 54, 26
+  size: 21, 13
+  orig: 21, 13
+  offset: 0, 0
+  index: -1
+MOUTH_UNDER
+  rotate: false
+  xy: 2, 20
+  size: 50, 27
+  orig: 50, 27
+  offset: 0, 0
+  index: -1
+MOUTH_UPPER
+  rotate: false
+  xy: 1956, 629
+  size: 51, 24
+  orig: 51, 24
+  offset: 0, 0
+  index: -1
+NOSE
+  rotate: false
+  xy: 126, 59
+  size: 19, 22
+  orig: 19, 22
+  offset: 0, 0
+  index: -1
+SKIRT_BACK_1
+  rotate: false
+  xy: 1127, 469
+  size: 580, 519
+  orig: 580, 519
+  offset: 0, 0
+  index: -1
+SKIRT_BACK_2
+  rotate: true
+  xy: 1114, 101
+  size: 366, 459
+  orig: 366, 459
+  offset: 0, 0
+  index: -1

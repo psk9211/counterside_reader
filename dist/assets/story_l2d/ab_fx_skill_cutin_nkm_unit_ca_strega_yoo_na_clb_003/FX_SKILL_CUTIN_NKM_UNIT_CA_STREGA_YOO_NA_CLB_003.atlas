@@ -1,0 +1,202 @@
+
+FX_SKILL_CUTIN_NKM_UNIT_CA_STREGA_YOO_NA_CLB_003.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ARM
+  rotate: false
+  xy: 1064, 709
+  size: 368, 313
+  orig: 368, 313
+  offset: 0, 0
+  index: -1
+ARM_L_UNDER_2
+  rotate: false
+  xy: 656, 146
+  size: 466, 420
+  orig: 466, 420
+  offset: 0, 0
+  index: -1
+BIRD_A
+  rotate: false
+  xy: 2, 165
+  size: 652, 401
+  orig: 652, 401
+  offset: 0, 0
+  index: -1
+BIRD_B
+  rotate: false
+  xy: 2, 568
+  size: 729, 454
+  orig: 729, 454
+  offset: 0, 0
+  index: -1
+BODY_KIT_BACK
+  rotate: false
+  xy: 212, 62
+  size: 203, 101
+  orig: 203, 101
+  offset: 0, 0
+  index: -1
+BODY_MAIN
+  rotate: false
+  xy: 733, 602
+  size: 329, 420
+  orig: 329, 420
+  offset: 0, 0
+  index: -1
+BODY_NECK
+  rotate: false
+  xy: 1686, 591
+  size: 291, 197
+  orig: 291, 197
+  offset: 0, 0
+  index: -1
+EYE_L_BALL
+  rotate: false
+  xy: 344, 32
+  size: 20, 28
+  orig: 20, 28
+  offset: 0, 0
+  index: -1
+EYE_L_BROW
+  rotate: false
+  xy: 128, 8
+  size: 27, 12
+  orig: 27, 12
+  offset: 0, 0
+  index: -1
+EYE_L_INNER
+  rotate: false
+  xy: 288, 6
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+EYE_L_LIGHT
+  rotate: false
+  xy: 157, 3
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+EYE_L_UNBROW
+  rotate: false
+  xy: 178, 7
+  size: 21, 13
+  orig: 21, 13
+  offset: 0, 0
+  index: -1
+EYE_L_UPBROW
+  rotate: false
+  xy: 265, 36
+  size: 40, 24
+  orig: 40, 24
+  offset: 0, 0
+  index: -1
+EYE_R_BALL
+  rotate: false
+  xy: 318, 8
+  size: 24, 29
+  orig: 24, 29
+  offset: 0, 0
+  index: -1
+EYE_R_BROW
+  rotate: false
+  xy: 58, 10
+  size: 44, 10
+  orig: 44, 10
+  offset: 0, 0
+  index: -1
+EYE_R_INNER
+  rotate: false
+  xy: 213, 2
+  size: 36, 32
+  orig: 36, 32
+  offset: 0, 0
+  index: -1
+EYE_R_LIGHT
+  rotate: false
+  xy: 104, 5
+  size: 22, 15
+  orig: 22, 15
+  offset: 0, 0
+  index: -1
+EYE_R_UNBROW
+  rotate: false
+  xy: 307, 39
+  size: 26, 21
+  orig: 26, 21
+  offset: 0, 0
+  index: -1
+EYE_R_UPBROW
+  rotate: false
+  xy: 212, 36
+  size: 51, 24
+  orig: 51, 24
+  offset: 0, 0
+  index: -1
+HAIR_BACK
+  rotate: false
+  xy: 1686, 790
+  size: 299, 232
+  orig: 299, 232
+  offset: 0, 0
+  index: -1
+HAIR_FRONT
+  rotate: false
+  xy: 1124, 15
+  size: 337, 174
+  orig: 337, 174
+  offset: 0, 0
+  index: -1
+HAIR_ROOT
+  rotate: false
+  xy: 2, 22
+  size: 208, 141
+  orig: 208, 141
+  offset: 0, 0
+  index: -1
+HEAD_MAIN
+  rotate: false
+  xy: 1686, 377
+  size: 159, 212
+  orig: 159, 212
+  offset: 0, 0
+  index: -1
+LEG
+  rotate: false
+  xy: 1124, 284
+  size: 234, 423
+  orig: 234, 423
+  offset: 0, 0
+  index: -1
+MOUTH_2
+  rotate: false
+  xy: 2, 2
+  size: 54, 18
+  orig: 54, 18
+  offset: 0, 0
+  index: -1
+MOUTH_MAIN
+  rotate: false
+  xy: 251, 6
+  size: 35, 28
+  orig: 35, 28
+  offset: 0, 0
+  index: -1
+NOSE
+  rotate: false
+  xy: 201, 8
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+WEAPON_A
+  rotate: false
+  xy: 1434, 191
+  size: 250, 831
+  orig: 250, 831
+  offset: 0, 0
+  index: -1

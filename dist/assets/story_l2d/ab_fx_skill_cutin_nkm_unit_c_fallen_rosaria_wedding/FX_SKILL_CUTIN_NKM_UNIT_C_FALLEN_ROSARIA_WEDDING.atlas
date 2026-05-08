@@ -1,0 +1,13 @@
+
+FX_SKILL_CUTIN_NKM_UNIT_C_FALLEN_ROSARIA_WEDDING.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PARTS_1
+  rotate: false
+  xy: 2, 2
+  size: 995, 1002
+  orig: 995, 1002
+  offset: 0, 0
+  index: -1

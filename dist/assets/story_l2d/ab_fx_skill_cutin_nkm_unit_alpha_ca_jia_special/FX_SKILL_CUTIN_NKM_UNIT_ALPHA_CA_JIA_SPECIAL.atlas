@@ -1,0 +1,258 @@
+
+FX_SKILL_CUTIN_NKM_UNIT_ALPHA_CA_JIA_SPECIAL.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ARM_1
+  rotate: true
+  xy: 288, 77
+  size: 124, 246
+  orig: 124, 246
+  offset: 0, 0
+  index: -1
+BODY_MAIN_1
+  rotate: false
+  xy: 1088, 256
+  size: 394, 408
+  orig: 394, 408
+  offset: 0, 0
+  index: -1
+EFFECT_LIGHT_1
+  rotate: false
+  xy: 1966, 338
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+EFFECT_LIGHT_2
+  rotate: false
+  xy: 1983, 971
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+EFFECT_LIGHT_3
+  rotate: false
+  xy: 1329, 187
+  size: 67, 67
+  orig: 67, 67
+  offset: 0, 0
+  index: -1
+EYE_L_BALL
+  rotate: false
+  xy: 1966, 313
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+EYE_L_BROW
+  rotate: false
+  xy: 680, 71
+  size: 49, 8
+  orig: 49, 8
+  offset: 0, 0
+  index: -1
+EYE_L_CORE
+  rotate: false
+  xy: 731, 71
+  size: 5, 8
+  orig: 5, 8
+  offset: 0, 0
+  index: -1
+EYE_L_INBROW
+  rotate: false
+  xy: 2, 2
+  size: 55, 25
+  orig: 55, 25
+  offset: 0, 0
+  index: -1
+EYE_L_INNER
+  rotate: false
+  xy: 1622, 698
+  size: 35, 13
+  orig: 35, 13
+  offset: 0, 0
+  index: -1
+EYE_L_LIGHT
+  rotate: true
+  xy: 1079, 179
+  size: 22, 4
+  orig: 22, 4
+  offset: 0, 0
+  index: -1
+EYE_R_BALL
+  rotate: false
+  xy: 288, 30
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1
+EYE_R_BROW
+  rotate: false
+  xy: 1983, 954
+  size: 32, 15
+  orig: 32, 15
+  offset: 0, 0
+  index: -1
+EYE_R_CORE
+  rotate: false
+  xy: 856, 104
+  size: 6, 8
+  orig: 6, 8
+  offset: 0, 0
+  index: -1
+EYE_R_INBROW
+  rotate: true
+  xy: 1589, 666
+  size: 45, 31
+  orig: 45, 31
+  offset: 0, 0
+  index: -1
+EYE_R_INNER
+  rotate: false
+  xy: 59, 12
+  size: 27, 15
+  orig: 27, 15
+  offset: 0, 0
+  index: -1
+EYE_R_LIGHT
+  rotate: false
+  xy: 1329, 179
+  size: 17, 6
+  orig: 17, 6
+  offset: 0, 0
+  index: -1
+EYE_R_NOSE
+  rotate: false
+  xy: 338, 60
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+HAIR_BACK_1
+  rotate: false
+  xy: 1088, 666
+  size: 499, 352
+  orig: 499, 352
+  offset: 0, 0
+  index: -1
+HAIR_FRONT
+  rotate: false
+  xy: 2, 29
+  size: 284, 172
+  orig: 284, 172
+  offset: 0, 0
+  index: -1
+HAND_A
+  rotate: false
+  xy: 811, 114
+  size: 132, 87
+  orig: 132, 87
+  offset: 0, 0
+  index: -1
+HAND_C
+  rotate: false
+  xy: 945, 116
+  size: 132, 85
+  orig: 132, 85
+  offset: 0, 0
+  index: -1
+HAND_L_1
+  rotate: false
+  xy: 1088, 172
+  size: 135, 82
+  orig: 135, 82
+  offset: 0, 0
+  index: -1
+HAND_R_1
+  rotate: false
+  xy: 1225, 178
+  size: 102, 76
+  orig: 102, 76
+  offset: 0, 0
+  index: -1
+HEAD_MAIN
+  rotate: true
+  xy: 536, 65
+  size: 136, 142
+  orig: 136, 142
+  offset: 0, 0
+  index: -1
+HEAD_SUB_1
+  rotate: false
+  xy: 680, 81
+  size: 129, 120
+  orig: 129, 120
+  offset: 0, 0
+  index: -1
+LEG_L_1
+  rotate: false
+  xy: 1484, 190
+  size: 229, 474
+  orig: 229, 474
+  offset: 0, 0
+  index: -1
+LEG_R_1
+  rotate: false
+  xy: 1715, 38
+  size: 249, 342
+  orig: 249, 342
+  offset: 0, 0
+  index: -1
+MOUTH
+  rotate: false
+  xy: 1398, 239
+  size: 34, 15
+  orig: 34, 15
+  offset: 0, 0
+  index: -1
+MOUTH_INNER
+  rotate: true
+  xy: 2032, 993
+  size: 25, 11
+  orig: 25, 11
+  offset: 0, 0
+  index: -1
+MOUTH_THEETH
+  rotate: true
+  xy: 2010, 356
+  size: 24, 10
+  orig: 24, 10
+  offset: 0, 0
+  index: -1
+MOUTH_UNDER
+  rotate: false
+  xy: 288, 51
+  size: 48, 24
+  orig: 48, 24
+  offset: 0, 0
+  index: -1
+MOUTH_UPPER
+  rotate: false
+  xy: 811, 87
+  size: 43, 25
+  orig: 43, 25
+  offset: 0, 0
+  index: -1
+SKIRT_BACK_1
+  rotate: false
+  xy: 2, 203
+  size: 1084, 815
+  orig: 1084, 815
+  offset: 0, 0
+  index: -1
+SKIRT_FRONT_1
+  rotate: true
+  xy: 1715, 382
+  size: 329, 305
+  orig: 329, 305
+  offset: 0, 0
+  index: -1
+SKIRT_L_1
+  rotate: true
+  xy: 1589, 713
+  size: 305, 392
+  orig: 305, 392
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,300 @@
+
+FX_SKILL_CUTIN_NKM_UNIT_C_STREGA_LAURA_WEDDING.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ARM_1
+  rotate: true
+  xy: 1685, 105
+  size: 357, 328
+  orig: 357, 328
+  offset: 0, 0
+  index: -1
+ARM_L_FINGER_1
+  rotate: true
+  xy: 434, 15
+  size: 29, 22
+  orig: 29, 22
+  offset: 0, 0
+  index: -1
+ARM_L_FINGER_2
+  rotate: true
+  xy: 405, 2
+  size: 42, 27
+  orig: 42, 27
+  offset: 0, 0
+  index: -1
+ARM_L_FINGER_3
+  rotate: false
+  xy: 1334, 2
+  size: 50, 23
+  orig: 50, 23
+  offset: 0, 0
+  index: -1
+ARM_L_FINGER_4
+  rotate: true
+  xy: 1953, 668
+  size: 54, 17
+  orig: 54, 17
+  offset: 0, 0
+  index: -1
+ARM_L_FINGER_5
+  rotate: false
+  xy: 1232, 5
+  size: 100, 52
+  orig: 100, 52
+  offset: 0, 0
+  index: -1
+ARM_L_HAND
+  rotate: false
+  xy: 1232, 502
+  size: 116, 74
+  orig: 116, 74
+  offset: 0, 0
+  index: -1
+ARM_R_FINGER_1
+  rotate: true
+  xy: 1270, 464
+  size: 36, 35
+  orig: 36, 35
+  offset: 0, 0
+  index: -1
+ARM_R_FINGER_2
+  rotate: false
+  xy: 1750, 68
+  size: 39, 35
+  orig: 39, 35
+  offset: 0, 0
+  index: -1
+ARM_R_FINGER_3
+  rotate: false
+  xy: 494, 165
+  size: 40, 32
+  orig: 40, 32
+  offset: 0, 0
+  index: -1
+ARM_R_FINGER_4
+  rotate: true
+  xy: 1982, 989
+  size: 33, 64
+  orig: 33, 64
+  offset: 0, 0
+  index: -1
+ARM_R_FINGER_5
+  rotate: false
+  xy: 405, 79
+  size: 72, 78
+  orig: 72, 78
+  offset: 0, 0
+  index: -1
+ARM_R_HAND
+  rotate: false
+  xy: 405, 159
+  size: 87, 72
+  orig: 87, 72
+  offset: 0, 0
+  index: -1
+BODY_MAIN
+  rotate: true
+  xy: 1368, 464
+  size: 258, 546
+  orig: 258, 546
+  offset: 0, 0
+  index: -1
+BODY_RIBBON_1
+  rotate: false
+  xy: 780, 578
+  size: 586, 444
+  orig: 586, 444
+  offset: 0, 0
+  index: -1
+EFFECT_1
+  rotate: false
+  xy: 240, 18
+  size: 163, 213
+  orig: 163, 213
+  offset: 0, 0
+  index: -1
+EYE_L_BALL
+  rotate: false
+  xy: 1232, 464
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+EYE_L_BROW
+  rotate: true
+  xy: 1916, 583
+  size: 60, 19
+  orig: 60, 19
+  offset: 0, 0
+  index: -1
+EYE_L_CLOSE
+  rotate: false
+  xy: 1982, 968
+  size: 61, 19
+  orig: 61, 19
+  offset: 0, 0
+  index: -1
+EYE_L_CORE
+  rotate: false
+  xy: 1937, 628
+  size: 8, 15
+  orig: 8, 15
+  offset: 0, 0
+  index: -1
+EYE_L_INBROW
+  rotate: true
+  xy: 1916, 645
+  size: 77, 35
+  orig: 77, 35
+  offset: 0, 0
+  index: -1
+EYE_L_INNER
+  rotate: false
+  xy: 494, 199
+  size: 60, 32
+  orig: 60, 32
+  offset: 0, 0
+  index: -1
+EYE_L_LIGHT
+  rotate: false
+  xy: 240, 2
+  size: 34, 14
+  orig: 34, 14
+  offset: 0, 0
+  index: -1
+EYE_L_UNBROW
+  rotate: true
+  xy: 1350, 538
+  size: 38, 16
+  orig: 38, 16
+  offset: 0, 0
+  index: -1
+EYE_R_BALL
+  rotate: false
+  xy: 1982, 931
+  size: 31, 35
+  orig: 31, 35
+  offset: 0, 0
+  index: -1
+EYE_R_BROW
+  rotate: false
+  xy: 1307, 478
+  size: 59, 22
+  orig: 59, 22
+  offset: 0, 0
+  index: -1
+EYE_R_CLOSE
+  rotate: false
+  xy: 1334, 27
+  size: 56, 30
+  orig: 56, 30
+  offset: 0, 0
+  index: -1
+EYE_R_CORE
+  rotate: false
+  xy: 479, 142
+  size: 9, 15
+  orig: 9, 15
+  offset: 0, 0
+  index: -1
+EYE_R_INBROW
+  rotate: false
+  xy: 1685, 60
+  size: 63, 43
+  orig: 63, 43
+  offset: 0, 0
+  index: -1
+EYE_R_INNER
+  rotate: false
+  xy: 405, 46
+  size: 51, 31
+  orig: 51, 31
+  offset: 0, 0
+  index: -1
+EYE_R_LIGHT
+  rotate: true
+  xy: 1350, 502
+  size: 34, 11
+  orig: 34, 11
+  offset: 0, 0
+  index: -1
+EYE_R_UNBROW
+  rotate: true
+  xy: 458, 41
+  size: 36, 15
+  orig: 36, 15
+  offset: 0, 0
+  index: -1
+HAIR_BACK_1
+  rotate: true
+  xy: 780, 2
+  size: 574, 450
+  orig: 574, 450
+  offset: 0, 0
+  index: -1
+HAIR_FRONT_1
+  rotate: false
+  xy: 1368, 724
+  size: 612, 298
+  orig: 612, 298
+  offset: 0, 0
+  index: -1
+HEAD
+  rotate: true
+  xy: 2, 10
+  size: 221, 236
+  orig: 221, 236
+  offset: 0, 0
+  index: -1
+LEG_1
+  rotate: false
+  xy: 1232, 59
+  size: 451, 403
+  orig: 451, 403
+  offset: 0, 0
+  index: -1
+MOUTH_HATE
+  rotate: false
+  xy: 2015, 936
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1
+MOUTH_LAUGH
+  rotate: false
+  xy: 1392, 39
+  size: 44, 18
+  orig: 44, 18
+  offset: 0, 0
+  index: -1
+MOUTH_NOMAL
+  rotate: false
+  xy: 1307, 464
+  size: 21, 12
+  orig: 21, 12
+  offset: 0, 0
+  index: -1
+MOUTH_SURPRISE
+  rotate: false
+  xy: 556, 207
+  size: 45, 24
+  orig: 45, 24
+  offset: 0, 0
+  index: -1
+NOSE
+  rotate: false
+  xy: 1916, 561
+  size: 15, 20
+  orig: 15, 20
+  offset: 0, 0
+  index: -1
+SKIRT_BACK_1
+  rotate: false
+  xy: 2, 233
+  size: 776, 789
+  orig: 776, 789
+  offset: 0, 0
+  index: -1

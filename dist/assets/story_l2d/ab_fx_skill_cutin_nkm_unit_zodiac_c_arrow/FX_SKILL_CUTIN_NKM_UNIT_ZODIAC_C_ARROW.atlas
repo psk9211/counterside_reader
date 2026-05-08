@@ -1,0 +1,13 @@
+
+FX_SKILL_CUTIN_NKM_UNIT_ZODIAC_C_ARROW.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX_SKILL_CUTIN_NKM_UNIT_ZODIAC_C_ARROW
+  rotate: false
+  xy: 0, 0
+  size: 1023, 995
+  orig: 1024, 1024
+  offset: 0, 29
+  index: -1

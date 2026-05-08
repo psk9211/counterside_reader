@@ -1,0 +1,188 @@
+
+FX_SKILL_CUTIN_NKM_UNIT_HARMONY_CA_CONDUCT_WEDDING.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ARM_1
+  rotate: false
+  xy: 477, 35
+  size: 227, 312
+  orig: 227, 312
+  offset: 0, 0
+  index: -1
+ARM_2
+  rotate: false
+  xy: 894, 100
+  size: 102, 113
+  orig: 102, 113
+  offset: 0, 0
+  index: -1
+BACK_1
+  rotate: false
+  xy: 2, 349
+  size: 1382, 673
+  orig: 1382, 673
+  offset: 0, 0
+  index: -1
+BODY_1
+  rotate: false
+  xy: 1386, 422
+  size: 579, 600
+  orig: 579, 600
+  offset: 0, 0
+  index: -1
+EFFECT_LIGHT_1
+  rotate: false
+  xy: 1822, 88
+  size: 73, 74
+  orig: 73, 74
+  offset: 0, 0
+  index: -1
+EFFECT_LIGHT_2
+  rotate: false
+  xy: 1964, 338
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+EFFECT_LIGHT_3
+  rotate: false
+  xy: 1822, 164
+  size: 116, 116
+  orig: 116, 116
+  offset: 0, 0
+  index: -1
+EFFECT_LIGHT_A
+  rotate: false
+  xy: 894, 215
+  size: 132, 132
+  orig: 132, 132
+  offset: 0, 0
+  index: -1
+EFFECT_LIGHT_B
+  rotate: false
+  xy: 1822, 282
+  size: 140, 138
+  orig: 140, 138
+  offset: 0, 0
+  index: -1
+EFFECT_LIGHT_C
+  rotate: false
+  xy: 1028, 244
+  size: 97, 103
+  orig: 97, 103
+  offset: 0, 0
+  index: -1
+EYE_L_BROW
+  rotate: false
+  xy: 706, 46
+  size: 70, 15
+  orig: 70, 15
+  offset: 0, 0
+  index: -1
+EYE_L_EYE
+  rotate: false
+  xy: 1967, 997
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+EYE_L_INBROW
+  rotate: false
+  xy: 894, 71
+  size: 64, 27
+  orig: 64, 27
+  offset: 0, 0
+  index: -1
+EYE_L_INNER
+  rotate: false
+  xy: 1028, 221
+  size: 50, 21
+  orig: 50, 21
+  offset: 0, 0
+  index: -1
+EYE_L_UNBROW
+  rotate: false
+  xy: 1897, 152
+  size: 27, 10
+  orig: 27, 10
+  offset: 0, 0
+  index: -1
+EYE_R_BALL
+  rotate: false
+  xy: 1964, 315
+  size: 26, 21
+  orig: 26, 21
+  offset: 0, 0
+  index: -1
+EYE_R_BROW
+  rotate: true
+  xy: 1940, 218
+  size: 62, 22
+  orig: 62, 22
+  offset: 0, 0
+  index: -1
+EYE_R_INBROW
+  rotate: false
+  xy: 477, 2
+  size: 57, 31
+  orig: 57, 31
+  offset: 0, 0
+  index: -1
+EYE_R_INNER
+  rotate: false
+  xy: 1127, 330
+  size: 40, 17
+  orig: 40, 17
+  offset: 0, 0
+  index: -1
+EYE_R_UNBROW
+  rotate: false
+  xy: 1822, 75
+  size: 27, 11
+  orig: 27, 11
+  offset: 0, 0
+  index: -1
+HAND_1
+  rotate: false
+  xy: 1386, 25
+  size: 434, 395
+  orig: 434, 395
+  offset: 0, 0
+  index: -1
+HEAD_1
+  rotate: false
+  xy: 706, 63
+  size: 186, 284
+  orig: 186, 284
+  offset: 0, 0
+  index: -1
+LEG_1
+  rotate: false
+  xy: 2, 16
+  size: 473, 331
+  orig: 473, 331
+  offset: 0, 0
+  index: -1
+MOUTH_UNDER
+  rotate: true
+  xy: 998, 167
+  size: 46, 27
+  orig: 46, 27
+  offset: 0, 0
+  index: -1
+MOUTH_UPPER
+  rotate: false
+  xy: 536, 2
+  size: 47, 31
+  orig: 47, 31
+  offset: 0, 0
+  index: -1
+NOSE
+  rotate: false
+  xy: 585, 13
+  size: 13, 20
+  orig: 13, 20
+  offset: 0, 0
+  index: -1

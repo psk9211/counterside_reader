@@ -1,0 +1,307 @@
+
+FX_SKILL_CUTIN_NKM_UNIT_REAPER_C_SAW.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_arm_lower
+  rotate: true
+  xy: 205, 9
+  size: 300, 98
+  orig: 300, 98
+  offset: 0, 0
+  index: -1
+L_arm_lower_low
+  rotate: true
+  xy: 930, 500
+  size: 25, 91
+  orig: 25, 91
+  offset: 0, 0
+  index: -1
+L_arm_lower_s
+  rotate: false
+  xy: 697, 20
+  size: 88, 176
+  orig: 88, 176
+  offset: 0, 0
+  index: -1
+L_arm_upper
+  rotate: false
+  xy: 930, 527
+  size: 70, 71
+  orig: 70, 71
+  offset: 0, 0
+  index: -1
+L_arm_upper2_s
+  rotate: false
+  xy: 787, 4
+  size: 79, 63
+  orig: 79, 63
+  offset: 0, 0
+  index: -1
+L_arm_upper_s
+  rotate: true
+  xy: 540, 451
+  size: 93, 133
+  orig: 93, 133
+  offset: 0, 0
+  index: -1
+L_hand
+  rotate: true
+  xy: 2, 13
+  size: 74, 78
+  orig: 74, 78
+  offset: 0, 0
+  index: -1
+L_hand_s
+  rotate: false
+  xy: 961, 839
+  size: 59, 75
+  orig: 59, 75
+  offset: 0, 0
+  index: -1
+L_leg
+  rotate: true
+  xy: 447, 310
+  size: 136, 342
+  orig: 136, 342
+  offset: 0, 0
+  index: -1
+R_arm_lower
+  rotate: true
+  xy: 675, 451
+  size: 93, 127
+  orig: 93, 127
+  offset: 0, 0
+  index: -1
+R_arm_upper
+  rotate: false
+  xy: 697, 198
+  size: 89, 110
+  orig: 89, 110
+  offset: 0, 0
+  index: -1
+R_foot
+  rotate: true
+  xy: 82, 15
+  size: 72, 111
+  orig: 72, 111
+  offset: 0, 0
+  index: -1
+R_hand
+  rotate: true
+  xy: 950, 10
+  size: 57, 58
+  orig: 57, 58
+  offset: 0, 0
+  index: -1
+R_leg
+  rotate: true
+  xy: 446, 203
+  size: 105, 249
+  orig: 105, 249
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 446, 6
+  size: 195, 201
+  orig: 195, 201
+  offset: 0, 0
+  index: -1
+bodylow
+  rotate: true
+  xy: 804, 600
+  size: 133, 118
+  orig: 133, 118
+  offset: 0, 0
+  index: -1
+eyebase_l
+  rotate: false
+  xy: 649, 2
+  size: 36, 23
+  orig: 36, 23
+  offset: 0, 0
+  index: -1
+eyebase_r
+  rotate: false
+  xy: 979, 605
+  size: 33, 21
+  orig: 33, 21
+  offset: 0, 0
+  index: -1
+eyebrow_l
+  rotate: true
+  xy: 186, 149
+  size: 41, 17
+  orig: 41, 17
+  offset: 0, 0
+  index: -1
+eyebrow_r
+  rotate: true
+  xy: 186, 109
+  size: 38, 11
+  orig: 38, 11
+  offset: 0, 0
+  index: -1
+eyelash_l
+  rotate: true
+  xy: 984, 965
+  size: 55, 29
+  orig: 55, 29
+  offset: 0, 0
+  index: -1
+eyelash_r
+  rotate: true
+  xy: 984, 916
+  size: 47, 27
+  orig: 47, 27
+  offset: 0, 0
+  index: -1
+eyepupil_l
+  rotate: true
+  xy: 924, 600
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+eyepupil_r
+  rotate: true
+  xy: 953, 603
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+hairback
+  rotate: false
+  xy: 2, 636
+  size: 541, 278
+  orig: 541, 278
+  offset: 0, 0
+  index: -1
+hairfront__l
+  rotate: true
+  xy: 2, 89
+  size: 101, 182
+  orig: 101, 182
+  offset: 0, 0
+  index: -1
+hairfront_m
+  rotate: false
+  xy: 804, 480
+  size: 124, 118
+  orig: 124, 118
+  offset: 0, 0
+  index: -1
+hairfront_r
+  rotate: false
+  xy: 447, 448
+  size: 91, 186
+  orig: 91, 186
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 804, 735
+  size: 155, 179
+  orig: 155, 179
+  offset: 0, 0
+  index: -1
+head_sha
+  rotate: false
+  xy: 305, 22
+  size: 124, 130
+  orig: 124, 130
+  offset: 0, 0
+  index: -1
+headacc_l
+  rotate: true
+  xy: 787, 69
+  size: 49, 221
+  orig: 49, 221
+  offset: 0, 0
+  index: -1
+headacc_r
+  rotate: false
+  xy: 649, 27
+  size: 46, 174
+  orig: 46, 174
+  offset: 0, 0
+  index: -1
+headback
+  rotate: true
+  xy: 305, 154
+  size: 155, 139
+  orig: 155, 139
+  offset: 0, 0
+  index: -1
+mask
+  rotate: false
+  xy: 930, 454
+  size: 89, 44
+  orig: 89, 44
+  offset: 0, 0
+  index: -1
+mask_s
+  rotate: true
+  xy: 961, 737
+  size: 100, 53
+  orig: 100, 53
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 305, 2
+  size: 35, 18
+  orig: 35, 18
+  offset: 0, 0
+  index: -1
+neck
+  rotate: true
+  xy: 868, 5
+  size: 62, 80
+  orig: 62, 80
+  offset: 0, 0
+  index: -1
+neckacc
+  rotate: true
+  xy: 924, 628
+  size: 105, 97
+  orig: 105, 97
+  offset: 0, 0
+  index: -1
+skirt
+  rotate: true
+  xy: 791, 120
+  size: 329, 210
+  orig: 329, 210
+  offset: 0, 0
+  index: -1
+skirtLOW
+  rotate: true
+  xy: 2, 192
+  size: 442, 201
+  orig: 442, 201
+  offset: 0, 0
+  index: -1
+skirtUP
+  rotate: true
+  xy: 545, 546
+  size: 368, 257
+  orig: 368, 257
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 2, 920
+  size: 980, 100
+  orig: 980, 100
+  offset: 0, 0
+  index: -1
+weapon_blade
+  rotate: false
+  xy: 205, 311
+  size: 240, 323
+  orig: 240, 323
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,167 @@
+
+FX_SKILL_CUTIN_NKM_UNIT_C_YG_HARIM_CLB_003.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ARM_R_1
+  rotate: false
+  xy: 339, 84
+  size: 307, 235
+  orig: 307, 235
+  offset: 0, 0
+  index: -1
+BODY_MAIN
+  rotate: false
+  xy: 814, 443
+  size: 548, 578
+  orig: 548, 578
+  offset: 0, 0
+  index: -1
+CLOCK_PART_1
+  rotate: false
+  xy: 125, 54
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+COAT_BACK_1
+  rotate: false
+  xy: 1364, 555
+  size: 476, 466
+  orig: 476, 466
+  offset: 0, 0
+  index: -1
+COAT_FRONT_1
+  rotate: false
+  xy: 875, 64
+  size: 487, 377
+  orig: 487, 377
+  offset: 0, 0
+  index: -1
+EFFECT_1
+  rotate: false
+  xy: 1842, 760
+  size: 166, 261
+  orig: 166, 261
+  offset: 0, 0
+  index: -1
+EYE_L_BALL
+  rotate: false
+  xy: 242, 30
+  size: 35, 39
+  orig: 35, 39
+  offset: 0, 0
+  index: -1
+EYE_L_BROW
+  rotate: false
+  xy: 2, 37
+  size: 76, 32
+  orig: 76, 32
+  offset: 0, 0
+  index: -1
+EYE_L_INBROW
+  rotate: false
+  xy: 339, 5
+  size: 73, 77
+  orig: 73, 77
+  offset: 0, 0
+  index: -1
+EYE_L_INNER
+  rotate: false
+  xy: 96, 3
+  size: 58, 39
+  orig: 58, 39
+  offset: 0, 0
+  index: -1
+EYE_L_UNBROW
+  rotate: false
+  xy: 80, 57
+  size: 27, 12
+  orig: 27, 12
+  offset: 0, 0
+  index: -1
+EYE_R_BALL
+  rotate: false
+  xy: 279, 35
+  size: 28, 34
+  orig: 28, 34
+  offset: 0, 0
+  index: -1
+EYE_R_BROW
+  rotate: false
+  xy: 156, 33
+  size: 41, 36
+  orig: 41, 36
+  offset: 0, 0
+  index: -1
+EYE_R_INBROW
+  rotate: false
+  xy: 1842, 625
+  size: 75, 133
+  orig: 75, 133
+  offset: 0, 0
+  index: -1
+EYE_R_INNER
+  rotate: false
+  xy: 199, 33
+  size: 41, 36
+  orig: 41, 36
+  offset: 0, 0
+  index: -1
+EYE_R_UNBROW
+  rotate: false
+  xy: 80, 44
+  size: 20, 11
+  orig: 20, 11
+  offset: 0, 0
+  index: -1
+HAIR_BACK_1
+  rotate: false
+  xy: 1364, 201
+  size: 474, 352
+  orig: 474, 352
+  offset: 0, 0
+  index: -1
+HAIR_FRONT_1
+  rotate: false
+  xy: 2, 71
+  size: 335, 248
+  orig: 335, 248
+  offset: 0, 0
+  index: -1
+HEAD_1
+  rotate: false
+  xy: 648, 81
+  size: 225, 238
+  orig: 225, 238
+  offset: 0, 0
+  index: -1
+LEG_1
+  rotate: false
+  xy: 2, 321
+  size: 810, 700
+  orig: 810, 700
+  offset: 0, 0
+  index: -1
+MOUTH_1
+  rotate: false
+  xy: 2, 2
+  size: 45, 33
+  orig: 45, 33
+  offset: 0, 0
+  index: -1
+MOUTH_2
+  rotate: false
+  xy: 49, 7
+  size: 45, 28
+  orig: 45, 28
+  offset: 0, 0
+  index: -1
+NOSE_ROOT
+  rotate: false
+  xy: 109, 47
+  size: 14, 22
+  orig: 14, 22
+  offset: 0, 0
+  index: -1

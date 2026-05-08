@@ -1,0 +1,13 @@
+
+FX_SKILL_CUTIN_NKM_UNIT_FRONTBAY_C_HARPOON.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX_SKILL_CUTIN_NKM_UNIT_FRONTBAY_C_HARPOON
+  rotate: false
+  xy: 0, 0
+  size: 2045, 940
+  orig: 2048, 1024
+  offset: 1, 83
+  index: -1

@@ -1,0 +1,13 @@
+
+FX_SKILL_CUTIN_NKM_UNIT_PUPPET_C_BLIND_HALLOWEEN.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Mesh
+  rotate: false
+  xy: 2, 2
+  size: 2008, 1020
+  orig: 2008, 1020
+  offset: 0, 0
+  index: -1

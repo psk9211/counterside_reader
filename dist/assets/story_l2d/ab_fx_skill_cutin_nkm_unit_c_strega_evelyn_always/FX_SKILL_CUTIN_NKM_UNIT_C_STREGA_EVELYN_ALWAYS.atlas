@@ -1,0 +1,13 @@
+
+FX_SKILL_CUTIN_NKM_UNIT_C_STREGA_EVELYN_ALWAYS.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+MESH
+  rotate: false
+  xy: 2, 2
+  size: 888, 984
+  orig: 888, 984
+  offset: 0, 0
+  index: -1

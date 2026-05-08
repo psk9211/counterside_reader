@@ -1,0 +1,391 @@
+﻿
+FX_SKILL_CUTIN_NKM_UNIT_C_JAPAN_CHIHIRO.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back_skirt
+  rotate: false
+  xy: 313, 167
+  size: 202, 196
+  orig: 202, 196
+  offset: 0, 0
+  index: -1
+belt_1
+  rotate: false
+  xy: 313, 2
+  size: 171, 15
+  orig: 171, 15
+  offset: 0, 0
+  index: -1
+belt_2
+  rotate: true
+  xy: 327, 422
+  size: 30, 465
+  orig: 30, 465
+  offset: 0, 0
+  index: -1
+belt_3
+  rotate: false
+  xy: 285, 2
+  size: 26, 386
+  orig: 26, 386
+  offset: 0, 0
+  index: -1
+belt_4
+  rotate: false
+  xy: 1007, 774
+  size: 15, 119
+  orig: 15, 119
+  offset: 0, 0
+  index: -1
+body_1
+  rotate: true
+  xy: 793, 28
+  size: 148, 27
+  orig: 148, 27
+  offset: 0, 0
+  index: -1
+body_10
+  rotate: true
+  xy: 327, 816
+  size: 108, 607
+  orig: 108, 607
+  offset: 0, 0
+  index: -1
+body_2
+  rotate: false
+  xy: 2, 22
+  size: 133, 46
+  orig: 133, 46
+  offset: 0, 0
+  index: -1
+body_3
+  rotate: true
+  xy: 2, 2
+  size: 18, 76
+  orig: 18, 76
+  offset: 0, 0
+  index: -1
+body_4
+  rotate: false
+  xy: 950, 320
+  size: 16, 80
+  orig: 16, 80
+  offset: 0, 0
+  index: -1
+body_5
+  rotate: false
+  xy: 822, 120
+  size: 58, 63
+  orig: 58, 63
+  offset: 0, 0
+  index: -1
+body_6
+  rotate: false
+  xy: 759, 454
+  size: 126, 88
+  orig: 126, 88
+  offset: 0, 0
+  index: -1
+body_7
+  rotate: true
+  xy: 487, 2
+  size: 154, 105
+  orig: 154, 105
+  offset: 0, 0
+  index: -1
+body_8
+  rotate: true
+  xy: 313, 19
+  size: 146, 172
+  orig: 146, 172
+  offset: 0, 0
+  index: -1
+body_9
+  rotate: false
+  xy: 2, 390
+  size: 323, 632
+  orig: 323, 632
+  offset: 0, 0
+  index: -1
+face_1
+  rotate: false
+  xy: 768, 406
+  size: 22, 14
+  orig: 22, 14
+  offset: 0, 0
+  index: -1
+face_10
+  rotate: false
+  xy: 875, 211
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+face_11
+  rotate: false
+  xy: 902, 309
+  size: 23, 8
+  orig: 23, 8
+  offset: 0, 0
+  index: -1
+face_12
+  rotate: false
+  xy: 885, 397
+  size: 14, 3
+  orig: 14, 3
+  offset: 0, 0
+  index: -1
+face_2
+  rotate: true
+  xy: 313, 366
+  size: 22, 12
+  orig: 22, 12
+  offset: 0, 0
+  index: -1
+face_3
+  rotate: true
+  xy: 80, 2
+  size: 18, 9
+  orig: 18, 9
+  offset: 0, 0
+  index: -1
+face_4
+  rotate: false
+  xy: 572, 159
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+face_5
+  rotate: true
+  xy: 936, 816
+  size: 18, 9
+  orig: 18, 9
+  offset: 0, 0
+  index: -1
+face_6
+  rotate: false
+  xy: 970, 868
+  size: 12, 25
+  orig: 12, 25
+  offset: 0, 0
+  index: -1
+face_7
+  rotate: false
+  xy: 759, 582
+  size: 39, 11
+  orig: 39, 11
+  offset: 0, 0
+  index: -1
+face_8
+  rotate: false
+  xy: 137, 58
+  size: 32, 10
+  orig: 32, 10
+  offset: 0, 0
+  index: -1
+face_9
+  rotate: true
+  xy: 972, 423
+  size: 23, 8
+  orig: 23, 8
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: true
+  xy: 695, 11
+  size: 12, 85
+  orig: 12, 85
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: false
+  xy: 695, 25
+  size: 96, 143
+  orig: 96, 143
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: true
+  xy: 798, 221
+  size: 39, 101
+  orig: 39, 101
+  offset: 0, 0
+  index: -1
+hair_4
+  rotate: false
+  xy: 948, 603
+  size: 57, 104
+  orig: 57, 104
+  offset: 0, 0
+  index: -1
+hair_5
+  rotate: true
+  xy: 970, 895
+  size: 127, 46
+  orig: 127, 46
+  offset: 0, 0
+  index: -1
+hair_6
+  rotate: false
+  xy: 948, 709
+  size: 54, 125
+  orig: 54, 125
+  offset: 0, 0
+  index: -1
+hair_7
+  rotate: false
+  xy: 885, 402
+  size: 85, 44
+  orig: 85, 44
+  offset: 0, 0
+  index: -1
+hair_8
+  rotate: false
+  xy: 936, 836
+  size: 32, 88
+  orig: 32, 88
+  offset: 0, 0
+  index: -1
+head_1
+  rotate: true
+  xy: 857, 41
+  size: 77, 23
+  orig: 77, 23
+  offset: 0, 0
+  index: -1
+head_2
+  rotate: false
+  xy: 794, 397
+  size: 89, 55
+  orig: 89, 55
+  offset: 0, 0
+  index: -1
+head_3
+  rotate: false
+  xy: 887, 448
+  size: 103, 94
+  orig: 103, 94
+  offset: 0, 0
+  index: -1
+l_arm_1
+  rotate: true
+  xy: 822, 43
+  size: 75, 33
+  orig: 75, 33
+  offset: 0, 0
+  index: -1
+l_arm_10
+  rotate: false
+  xy: 2, 70
+  size: 179, 318
+  orig: 179, 318
+  offset: 0, 0
+  index: -1
+l_arm_2
+  rotate: false
+  xy: 798, 185
+  size: 75, 34
+  orig: 75, 34
+  offset: 0, 0
+  index: -1
+l_arm_3
+  rotate: false
+  xy: 327, 454
+  size: 430, 139
+  orig: 430, 139
+  offset: 0, 0
+  index: -1
+l_arm_4
+  rotate: false
+  xy: 798, 262
+  size: 102, 133
+  orig: 102, 133
+  offset: 0, 0
+  index: -1
+l_arm_5
+  rotate: false
+  xy: 948, 549
+  size: 26, 52
+  orig: 26, 52
+  offset: 0, 0
+  index: -1
+l_arm_6
+  rotate: false
+  xy: 327, 365
+  size: 228, 55
+  orig: 228, 55
+  offset: 0, 0
+  index: -1
+l_arm_6_2
+  rotate: true
+  xy: 517, 158
+  size: 205, 53
+  orig: 205, 53
+  offset: 0, 0
+  index: -1
+l_arm_7
+  rotate: false
+  xy: 902, 319
+  size: 46, 81
+  orig: 46, 81
+  offset: 0, 0
+  index: -1
+l_arm_8
+  rotate: true
+  xy: 741, 178
+  size: 189, 55
+  orig: 189, 55
+  offset: 0, 0
+  index: -1
+l_arm_9
+  rotate: false
+  xy: 594, 9
+  size: 99, 159
+  orig: 99, 159
+  offset: 0, 0
+  index: -1
+l_leg
+  rotate: true
+  xy: 557, 369
+  size: 51, 209
+  orig: 51, 209
+  offset: 0, 0
+  index: -1
+r_arm_1
+  rotate: true
+  xy: 803, 544
+  size: 270, 143
+  orig: 270, 143
+  offset: 0, 0
+  index: -1
+r_arm_2
+  rotate: false
+  xy: 572, 170
+  size: 167, 197
+  orig: 167, 197
+  offset: 0, 0
+  index: -1
+r_leg
+  rotate: true
+  xy: 327, 926
+  size: 96, 641
+  orig: 96, 641
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 327, 595
+  size: 474, 219
+  orig: 474, 219
+  offset: 0, 0
+  index: -1
+레이어 207
+  rotate: false
+  xy: 183, 9
+  size: 100, 379
+  orig: 100, 379
+  offset: 0, 0
+  index: -1

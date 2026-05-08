@@ -1,0 +1,356 @@
+
+FX_SKILL_CUTIN_NKM_UNIT_JAPAN_C_OROCHI.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Barst_C
+  rotate: false
+  xy: 1989, 132
+  size: 53, 35
+  orig: 53, 35
+  offset: 0, 0
+  index: -1
+Barst_L
+  rotate: false
+  xy: 1681, 69
+  size: 107, 102
+  orig: 108, 107
+  offset: 0, 5
+  index: -1
+Barst_L_C
+  rotate: true
+  xy: 1691, 173
+  size: 61, 119
+  orig: 61, 119
+  offset: 0, 0
+  index: -1
+Barst_R
+  rotate: false
+  xy: 1821, 120
+  size: 166, 159
+  orig: 166, 160
+  offset: 0, 1
+  index: -1
+Barst_R_C
+  rotate: false
+  xy: 1979, 860
+  size: 36, 162
+  orig: 37, 164
+  offset: 0, 1
+  index: -1
+Body_B_Ribone
+  rotate: false
+  xy: 1790, 18
+  size: 147, 100
+  orig: 148, 101
+  offset: 0, 1
+  index: -1
+F_Hair
+  rotate: false
+  xy: 1691, 236
+  size: 128, 186
+  orig: 128, 186
+  offset: 0, 0
+  index: -1
+F_Hair2
+  rotate: false
+  xy: 1917, 513
+  size: 73, 191
+  orig: 73, 191
+  offset: 0, 0
+  index: -1
+Hand_R
+  rotate: false
+  xy: 1917, 463
+  size: 55, 48
+  orig: 55, 49
+  offset: 0, 1
+  index: -1
+Head
+  rotate: true
+  xy: 1560, 62
+  size: 115, 119
+  orig: 116, 120
+  offset: 0, 1
+  index: -1
+LC_E_01
+  rotate: true
+  xy: 1979, 797
+  size: 61, 32
+  orig: 61, 32
+  offset: 0, 0
+  index: -1
+LC_E_02
+  rotate: true
+  xy: 2034, 980
+  size: 42, 12
+  orig: 42, 12
+  offset: 0, 0
+  index: -1
+LC_E_04
+  rotate: true
+  xy: 1974, 472
+  size: 39, 11
+  orig: 39, 11
+  offset: 0, 0
+  index: -1
+LC_E_05
+  rotate: true
+  xy: 1979, 707
+  size: 43, 17
+  orig: 43, 17
+  offset: 0, 0
+  index: -1
+LC_E_06
+  rotate: true
+  xy: 1787, 425
+  size: 34, 16
+  orig: 34, 16
+  offset: 0, 0
+  index: -1
+LC_E_07
+  rotate: true
+  xy: 2017, 976
+  size: 46, 15
+  orig: 46, 15
+  offset: 0, 0
+  index: -1
+LC_E_08
+  rotate: false
+  xy: 1463, 14
+  size: 46, 8
+  orig: 46, 8
+  offset: 0, 0
+  index: -1
+L_Eye1
+  rotate: true
+  xy: 1790, 126
+  size: 45, 18
+  orig: 45, 19
+  offset: 0, 1
+  index: -1
+L_Eye2
+  rotate: false
+  xy: 2, 5
+  size: 38, 27
+  orig: 38, 27
+  offset: 0, 0
+  index: -1
+L_Eye3
+  rotate: false
+  xy: 1760, 51
+  size: 28, 16
+  orig: 28, 16
+  offset: 0, 0
+  index: -1
+L_Eye4
+  rotate: true
+  xy: 2044, 152
+  size: 6, 2
+  orig: 6, 2
+  offset: 0, 0
+  index: -1
+L_Eye5
+  rotate: false
+  xy: 2017, 956
+  size: 15, 18
+  orig: 16, 18
+  offset: 1, 0
+  index: -1
+L_Eye6
+  rotate: false
+  xy: 42, 16
+  size: 24, 16
+  orig: 24, 16
+  offset: 0, 0
+  index: -1
+L_Finger_End
+  rotate: true
+  xy: 1610, 4
+  size: 56, 74
+  orig: 56, 74
+  offset: 0, 0
+  index: -1
+L_Hand_End
+  rotate: true
+  xy: 1463, 24
+  size: 53, 91
+  orig: 53, 92
+  offset: 0, 1
+  index: -1
+L_Leg
+  rotate: true
+  xy: 1151, 8
+  size: 69, 310
+  orig: 69, 310
+  offset: 0, 0
+  index: -1
+L_Upper tul
+  rotate: false
+  xy: 1939, 39
+  size: 52, 79
+  orig: 52, 79
+  offset: 0, 0
+  index: -1
+L_Upper tul_B
+  rotate: true
+  xy: 1979, 752
+  size: 43, 34
+  orig: 44, 35
+  offset: 0, 1
+  index: -1
+Len_E
+  rotate: true
+  xy: 1556, 2
+  size: 58, 52
+  orig: 58, 52
+  offset: 0, 0
+  index: -1
+Mesh_1
+  rotate: false
+  xy: 2, 34
+  size: 1147, 988
+  orig: 1147, 988
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: true
+  xy: 1812, 222
+  size: 12, 7
+  orig: 12, 7
+  offset: 0, 0
+  index: -1
+Mouth2
+  rotate: true
+  xy: 1810, 126
+  size: 11, 6
+  orig: 11, 6
+  offset: 0, 0
+  index: -1
+Neck_Tul
+  rotate: true
+  xy: 1939, 2
+  size: 35, 68
+  orig: 36, 69
+  offset: 0, 1
+  index: -1
+Nose
+  rotate: true
+  xy: 1805, 436
+  size: 6, 14
+  orig: 6, 14
+  offset: 0, 0
+  index: -1
+Pinger_R
+  rotate: false
+  xy: 1686, 3
+  size: 72, 64
+  orig: 72, 65
+  offset: 0, 1
+  index: -1
+R_Eye1
+  rotate: true
+  xy: 2034, 942
+  size: 36, 12
+  orig: 36, 12
+  offset: 0, 0
+  index: -1
+R_Eye2
+  rotate: true
+  xy: 1810, 139
+  size: 32, 9
+  orig: 33, 9
+  offset: 0, 0
+  index: -1
+R_Eye3
+  rotate: false
+  xy: 1989, 122
+  size: 27, 8
+  orig: 28, 9
+  offset: 0, 1
+  index: -1
+R_Eye4
+  rotate: true
+  xy: 2044, 160
+  size: 7, 2
+  orig: 7, 2
+  offset: 0, 0
+  index: -1
+R_Eye5
+  rotate: false
+  xy: 1805, 444
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+R_Eye6
+  rotate: false
+  xy: 1760, 38
+  size: 21, 11
+  orig: 21, 11
+  offset: 0, 0
+  index: -1
+R_Leg
+  rotate: true
+  xy: 1151, 79
+  size: 77, 401
+  orig: 77, 401
+  offset: 0, 0
+  index: -1
+R_Tul
+  rotate: true
+  xy: 1989, 169
+  size: 51, 57
+  orig: 51, 57
+  offset: 0, 0
+  index: -1
+Snake_Body
+  rotate: true
+  xy: 1787, 706
+  size: 316, 190
+  orig: 316, 190
+  offset: 0, 0
+  index: -1
+Snake_Head
+  rotate: false
+  xy: 1560, 179
+  size: 129, 243
+  orig: 130, 243
+  offset: 0, 0
+  index: -1
+Snake_Head_E
+  rotate: true
+  xy: 1787, 461
+  size: 243, 128
+  orig: 244, 129
+  offset: 0, 1
+  index: -1
+Snake_Neck
+  rotate: true
+  xy: 1151, 158
+  size: 264, 407
+  orig: 264, 408
+  offset: 0, 1
+  index: -1
+Weapon_E
+  rotate: true
+  xy: 1821, 281
+  size: 178, 172
+  orig: 178, 173
+  offset: 0, 1
+  index: -1
+Weapon_E2
+  rotate: false
+  xy: 1989, 222
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+hair_back_Mesh
+  rotate: false
+  xy: 1151, 424
+  size: 634, 598
+  orig: 634, 598
+  offset: 0, 0
+  index: -1

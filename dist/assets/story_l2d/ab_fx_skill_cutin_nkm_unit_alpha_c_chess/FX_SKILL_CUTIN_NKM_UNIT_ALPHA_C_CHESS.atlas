@@ -1,0 +1,153 @@
+
+FX_SKILL_CUTIN_NKM_UNIT_ALPHA_C_CHESS.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+EYE_L_BALL
+  rotate: false
+  xy: 271, 2
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+EYE_L_BROW
+  rotate: false
+  xy: 2, 10
+  size: 66, 8
+  orig: 66, 8
+  offset: 0, 0
+  index: -1
+EYE_L_INNER
+  rotate: false
+  xy: 1996, 963
+  size: 43, 26
+  orig: 43, 26
+  offset: 0, 0
+  index: -1
+EYE_L_LIGHT
+  rotate: false
+  xy: 1996, 896
+  size: 24, 16
+  orig: 24, 16
+  offset: 0, 0
+  index: -1
+EYE_L_LIGHT_2
+  rotate: false
+  xy: 2026, 916
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+EYE_L_UNDER
+  rotate: false
+  xy: 1996, 942
+  size: 39, 19
+  orig: 39, 19
+  offset: 0, 0
+  index: -1
+EYE_L_UPPER
+  rotate: false
+  xy: 151, 33
+  size: 62, 25
+  orig: 62, 25
+  offset: 0, 0
+  index: -1
+EYE_R_BALL
+  rotate: false
+  xy: 1996, 914
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+EYE_R_BROW
+  rotate: false
+  xy: 1996, 991
+  size: 48, 31
+  orig: 48, 31
+  offset: 0, 0
+  index: -1
+EYE_R_INNER
+  rotate: false
+  xy: 324, 34
+  size: 44, 24
+  orig: 44, 24
+  offset: 0, 0
+  index: -1
+EYE_R_LIGHT
+  rotate: false
+  xy: 1996, 877
+  size: 23, 17
+  orig: 23, 17
+  offset: 0, 0
+  index: -1
+EYE_R_LIGHT_2
+  rotate: false
+  xy: 301, 9
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: -1
+EYE_R_UNDER
+  rotate: false
+  xy: 453, 44
+  size: 35, 14
+  orig: 35, 14
+  offset: 0, 0
+  index: -1
+EYE_R_UPPER
+  rotate: false
+  xy: 215, 28
+  size: 54, 30
+  orig: 54, 30
+  offset: 0, 0
+  index: -1
+MESH
+  rotate: false
+  xy: 2, 60
+  size: 1992, 962
+  orig: 1992, 962
+  offset: 0, 0
+  index: -1
+MOUTH_INNER
+  rotate: false
+  xy: 271, 32
+  size: 51, 26
+  orig: 51, 26
+  offset: 0, 0
+  index: -1
+MOUTH_THEETH_1
+  rotate: false
+  xy: 413, 46
+  size: 38, 12
+  orig: 38, 12
+  offset: 0, 0
+  index: -1
+MOUTH_THEETH_2
+  rotate: false
+  xy: 370, 41
+  size: 41, 17
+  orig: 41, 17
+  offset: 0, 0
+  index: -1
+MOUTH_UNDER
+  rotate: false
+  xy: 2, 20
+  size: 71, 38
+  orig: 71, 38
+  offset: 0, 0
+  index: -1
+MOUTH_UPPER
+  rotate: false
+  xy: 75, 26
+  size: 74, 32
+  orig: 74, 32
+  offset: 0, 0
+  index: -1
+NOSE
+  rotate: false
+  xy: 1996, 860
+  size: 8, 15
+  orig: 8, 15
+  offset: 0, 0
+  index: -1

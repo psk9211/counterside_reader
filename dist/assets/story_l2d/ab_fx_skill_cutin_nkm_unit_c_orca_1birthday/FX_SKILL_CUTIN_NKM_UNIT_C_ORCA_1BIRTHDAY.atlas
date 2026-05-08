@@ -1,0 +1,160 @@
+
+FX_SKILL_CUTIN_NKM_UNIT_C_ORCA_1BIRTHDAY.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ARM_1
+  rotate: true
+  xy: 762, 488
+  size: 196, 255
+  orig: 196, 255
+  offset: 0, 0
+  index: -1
+EYE_L_BALL
+  rotate: false
+  xy: 736, 534
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1
+EYE_L_BROW
+  rotate: true
+  xy: 370, 2
+  size: 46, 17
+  orig: 46, 17
+  offset: 0, 0
+  index: -1
+EYE_L_INBROW
+  rotate: false
+  xy: 449, 145
+  size: 50, 27
+  orig: 50, 27
+  offset: 0, 0
+  index: -1
+EYE_L_INNER
+  rotate: false
+  xy: 902, 421
+  size: 41, 31
+  orig: 41, 31
+  offset: 0, 0
+  index: -1
+EYE_L_LIGHT
+  rotate: false
+  xy: 501, 166
+  size: 7, 6
+  orig: 7, 6
+  offset: 0, 0
+  index: -1
+EYE_L_UNBROW
+  rotate: false
+  xy: 449, 134
+  size: 32, 9
+  orig: 32, 9
+  offset: 0, 0
+  index: -1
+EYE_R_BALL
+  rotate: false
+  xy: 973, 454
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+EYE_R_BROW
+  rotate: true
+  xy: 1008, 955
+  size: 67, 12
+  orig: 67, 12
+  offset: 0, 0
+  index: -1
+EYE_R_INBROW
+  rotate: false
+  xy: 902, 454
+  size: 69, 32
+  orig: 69, 32
+  offset: 0, 0
+  index: -1
+EYE_R_INNER
+  rotate: false
+  xy: 370, 79
+  size: 54, 29
+  orig: 54, 29
+  offset: 0, 0
+  index: -1
+EYE_R_LIGHT
+  rotate: false
+  xy: 902, 413
+  size: 7, 6
+  orig: 7, 6
+  offset: 0, 0
+  index: -1
+EYE_R_UNBROW
+  rotate: true
+  xy: 1008, 918
+  size: 35, 11
+  orig: 35, 11
+  offset: 0, 0
+  index: -1
+HAIR_FRONT_1
+  rotate: false
+  xy: 677, 50
+  size: 249, 194
+  orig: 249, 194
+  offset: 0, 0
+  index: -1
+HAIR_SHADOW
+  rotate: false
+  xy: 370, 110
+  size: 77, 62
+  orig: 77, 62
+  offset: 0, 0
+  index: -1
+HEAD
+  rotate: false
+  xy: 677, 246
+  size: 223, 240
+  orig: 223, 240
+  offset: 0, 0
+  index: -1
+ITEM_1
+  rotate: false
+  xy: 370, 174
+  size: 305, 390
+  orig: 305, 390
+  offset: 0, 0
+  index: -1
+LEG_HAIR_1
+  rotate: false
+  xy: 2, 566
+  size: 758, 456
+  orig: 758, 456
+  offset: 0, 0
+  index: -1
+MOUTH
+  rotate: true
+  xy: 677, 488
+  size: 76, 57
+  orig: 76, 57
+  offset: 0, 0
+  index: -1
+NECK_RIBBON
+  rotate: false
+  xy: 762, 686
+  size: 244, 336
+  orig: 244, 336
+  offset: 0, 0
+  index: -1
+NOSE
+  rotate: false
+  xy: 426, 101
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+SKIRT_BACK_1
+  rotate: true
+  xy: 2, 2
+  size: 562, 366
+  orig: 562, 366
+  offset: 0, 0
+  index: -1

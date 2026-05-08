@@ -1,0 +1,202 @@
+
+FX_SKILL_CUTIN_NKM_UNIT_MAID_C_MASK.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_left_1
+  rotate: false
+  xy: 745, 60
+  size: 154, 49
+  orig: 154, 49
+  offset: 0, 0
+  index: -1
+arm_left_2
+  rotate: false
+  xy: 343, 9
+  size: 93, 89
+  orig: 93, 89
+  offset: 0, 0
+  index: -1
+arm_left_3
+  rotate: true
+  xy: 932, 180
+  size: 114, 72
+  orig: 114, 72
+  offset: 0, 0
+  index: -1
+arm_right_1
+  rotate: false
+  xy: 932, 295
+  size: 46, 167
+  orig: 46, 167
+  offset: 0, 0
+  index: -1
+arm_right_2
+  rotate: false
+  xy: 886, 120
+  size: 107, 59
+  orig: 107, 59
+  offset: 0, 0
+  index: -1
+arm_right_3
+  rotate: true
+  xy: 190, 99
+  size: 341, 257
+  orig: 341, 257
+  offset: 0, 0
+  index: -1
+belt_1
+  rotate: false
+  xy: 448, 78
+  size: 173, 123
+  orig: 173, 123
+  offset: 0, 0
+  index: -1
+belt_2
+  rotate: false
+  xy: 152, 412
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 448, 202
+  size: 200, 317
+  orig: 200, 317
+  offset: 0, 0
+  index: -1
+dress_1
+  rotate: true
+  xy: 649, 265
+  size: 265, 109
+  orig: 265, 109
+  offset: 0, 0
+  index: -1
+dress_2
+  rotate: true
+  xy: 628, 531
+  size: 489, 184
+  orig: 489, 184
+  offset: 0, 0
+  index: -1
+dress_3
+  rotate: false
+  xy: 720, 1
+  size: 135, 58
+  orig: 135, 58
+  offset: 0, 0
+  index: -1
+dress_ribbon
+  rotate: false
+  xy: 1, 8
+  size: 188, 345
+  orig: 188, 345
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 366, 443
+  size: 56, 76
+  orig: 56, 76
+  offset: 0, 0
+  index: -1
+granade_1
+  rotate: true
+  xy: 190, 23
+  size: 75, 152
+  orig: 75, 152
+  offset: 0, 0
+  index: -1
+granade_2
+  rotate: true
+  xy: 437, 8
+  size: 69, 143
+  orig: 69, 143
+  offset: 0, 0
+  index: -1
+granade_3
+  rotate: true
+  xy: 581, 5
+  size: 70, 138
+  orig: 70, 138
+  offset: 0, 0
+  index: -1
+granade_4
+  rotate: true
+  xy: 745, 110
+  size: 69, 140
+  orig: 69, 140
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: false
+  xy: 759, 318
+  size: 172, 144
+  orig: 172, 144
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: false
+  xy: 759, 180
+  size: 172, 137
+  orig: 172, 137
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: true
+  xy: 622, 76
+  size: 112, 122
+  orig: 112, 122
+  offset: 0, 0
+  index: -1
+hair_4
+  rotate: false
+  xy: 813, 463
+  size: 171, 557
+  orig: 171, 557
+  offset: 0, 0
+  index: -1
+hair_5
+  rotate: false
+  xy: 152, 441
+  size: 213, 579
+  orig: 213, 579
+  offset: 0, 0
+  index: -1
+hair_ac_1
+  rotate: false
+  xy: 966, 50
+  size: 47, 69
+  orig: 47, 69
+  offset: 0, 0
+  index: -1
+hair_ac_2
+  rotate: false
+  xy: 649, 189
+  size: 105, 75
+  orig: 105, 75
+  offset: 0, 0
+  index: -1
+left_right
+  rotate: false
+  xy: 1, 354
+  size: 150, 666
+  orig: 150, 666
+  offset: 0, 0
+  index: -1
+leg_left
+  rotate: false
+  xy: 366, 520
+  size: 261, 500
+  orig: 261, 500
+  offset: 0, 0
+  index: -1
+neck_ribbon
+  rotate: false
+  xy: 900, 57
+  size: 65, 62
+  orig: 65, 62
+  offset: 0, 0
+  index: -1

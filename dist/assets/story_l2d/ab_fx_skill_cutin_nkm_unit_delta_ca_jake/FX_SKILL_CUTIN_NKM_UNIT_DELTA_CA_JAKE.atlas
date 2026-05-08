@@ -1,0 +1,279 @@
+
+FX_SKILL_CUTIN_NKM_UNIT_DELTA_CA_JAKE.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+acc_1
+  rotate: true
+  xy: 1000, 2
+  size: 71, 72
+  orig: 71, 72
+  offset: 0, 0
+  index: -1
+acc_2
+  rotate: true
+  xy: 1741, 705
+  size: 113, 298
+  orig: 113, 298
+  offset: 0, 0
+  index: -1
+back_coat
+  rotate: true
+  xy: 2, 38
+  size: 241, 497
+  orig: 241, 497
+  offset: 0, 0
+  index: -1
+belt_1
+  rotate: true
+  xy: 1321, 385
+  size: 188, 563
+  orig: 188, 563
+  offset: 0, 0
+  index: -1
+body_1
+  rotate: true
+  xy: 818, 701
+  size: 321, 615
+  orig: 321, 615
+  offset: 0, 0
+  index: -1
+body_2
+  rotate: false
+  xy: 2, 281
+  size: 814, 741
+  orig: 814, 741
+  offset: 0, 0
+  index: -1
+effect1_1
+  rotate: true
+  xy: 1024, 348
+  size: 351, 295
+  orig: 351, 295
+  offset: 0, 0
+  index: -1
+effect2_1
+  rotate: true
+  xy: 1860, 77
+  size: 90, 113
+  orig: 90, 113
+  offset: 0, 0
+  index: -1
+face_1
+  rotate: false
+  xy: 2, 9
+  size: 49, 27
+  orig: 49, 27
+  offset: 0, 0
+  index: -1
+face_2
+  rotate: false
+  xy: 97, 19
+  size: 36, 17
+  orig: 36, 17
+  offset: 0, 0
+  index: -1
+face_3
+  rotate: true
+  xy: 135, 23
+  size: 13, 26
+  orig: 13, 26
+  offset: 0, 0
+  index: -1
+face_4
+  rotate: false
+  xy: 53, 17
+  size: 42, 19
+  orig: 42, 19
+  offset: 0, 0
+  index: -1
+fx
+  rotate: true
+  xy: 1636, 34
+  size: 88, 136
+  orig: 88, 136
+  offset: 0, 0
+  index: -1
+glasses
+  rotate: true
+  xy: 1804, 70
+  size: 122, 54
+  orig: 122, 54
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: false
+  xy: 1447, 2
+  size: 97, 85
+  orig: 97, 85
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: false
+  xy: 814, 7
+  size: 111, 107
+  orig: 111, 107
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: true
+  xy: 1906, 841
+  size: 181, 137
+  orig: 181, 137
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 1125, 187
+  size: 142, 159
+  orig: 142, 159
+  offset: 0, 0
+  index: -1
+l_arm_1
+  rotate: true
+  xy: 1741, 580
+  size: 123, 154
+  orig: 123, 154
+  offset: 0, 0
+  index: -1
+l_arm_2
+  rotate: false
+  xy: 1447, 89
+  size: 187, 103
+  orig: 187, 103
+  offset: 0, 0
+  index: -1
+l_arm_3
+  rotate: false
+  xy: 1886, 423
+  size: 144, 155
+  orig: 144, 155
+  offset: 0, 0
+  index: -1
+l_arm_light_1
+  rotate: false
+  xy: 1321, 575
+  size: 110, 124
+  orig: 110, 124
+  offset: 0, 0
+  index: -1
+l_leg
+  rotate: true
+  xy: 1321, 194
+  size: 189, 514
+  orig: 189, 514
+  offset: 0, 0
+  index: -1
+r_arm_light_1
+  rotate: false
+  xy: 927, 2
+  size: 71, 112
+  orig: 71, 112
+  offset: 0, 0
+  index: -1
+r_arm_light_2
+  rotate: true
+  xy: 1269, 76
+  size: 116, 176
+  orig: 116, 176
+  offset: 0, 0
+  index: -1
+r_weapon
+  rotate: true
+  xy: 1435, 597
+  size: 425, 304
+  orig: 425, 304
+  offset: 0, 0
+  index: -1
+weapon_1
+  rotate: false
+  xy: 1125, 10
+  size: 100, 175
+  orig: 100, 175
+  offset: 0, 0
+  index: -1
+weapon_2
+  rotate: true
+  xy: 501, 154
+  size: 125, 315
+  orig: 125, 315
+  offset: 0, 0
+  index: -1
+weapon_3
+  rotate: true
+  xy: 1636, 124
+  size: 68, 166
+  orig: 68, 166
+  offset: 0, 0
+  index: -1
+weapon_4
+  rotate: false
+  xy: 1024, 75
+  size: 99, 271
+  orig: 99, 271
+  offset: 0, 0
+  index: -1
+weapon_5
+  rotate: false
+  xy: 1741, 820
+  size: 163, 202
+  orig: 163, 202
+  offset: 0, 0
+  index: -1
+weapon_6
+  rotate: false
+  xy: 818, 116
+  size: 204, 583
+  orig: 204, 583
+  offset: 0, 0
+  index: -1
+weapon_ex_1
+  rotate: true
+  xy: 769, 62
+  size: 44, 40
+  orig: 44, 40
+  offset: 0, 0
+  index: -1
+weapon_ex_2
+  rotate: true
+  xy: 769, 22
+  size: 38, 37
+  orig: 38, 37
+  offset: 0, 0
+  index: -1
+weapon_ex_3
+  rotate: true
+  xy: 1269, 293
+  size: 53, 48
+  orig: 53, 48
+  offset: 0, 0
+  index: -1
+weapon_ex_4
+  rotate: false
+  xy: 769, 108
+  size: 43, 44
+  orig: 43, 44
+  offset: 0, 0
+  index: -1
+weapon_light_1
+  rotate: true
+  xy: 1897, 600
+  size: 103, 140
+  orig: 103, 140
+  offset: 0, 0
+  index: -1
+weapon_light_2
+  rotate: true
+  xy: 1886, 169
+  size: 252, 142
+  orig: 252, 142
+  offset: 0, 0
+  index: -1
+weapon_light_3
+  rotate: false
+  xy: 501, 2
+  size: 266, 150
+  orig: 266, 150
+  offset: 0, 0
+  index: -1

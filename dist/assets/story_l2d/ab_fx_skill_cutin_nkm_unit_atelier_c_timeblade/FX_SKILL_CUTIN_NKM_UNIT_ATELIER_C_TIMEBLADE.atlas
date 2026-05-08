@@ -1,0 +1,13 @@
+
+FX_SKILL_CUTIN_NKM_UNIT_ATELIER_C_TIMEBLADE.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX_SKILL_CUTIN_NKM_UNIT_ATELIER_C_TIMEBLADE
+  rotate: false
+  xy: 0, 0
+  size: 1024, 1024
+  orig: 1024, 1024
+  offset: 0, 0
+  index: -1

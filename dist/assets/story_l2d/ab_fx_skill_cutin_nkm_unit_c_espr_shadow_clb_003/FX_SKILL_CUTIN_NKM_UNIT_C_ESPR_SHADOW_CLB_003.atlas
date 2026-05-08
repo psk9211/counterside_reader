@@ -1,0 +1,125 @@
+
+FX_SKILL_CUTIN_NKM_UNIT_C_ESPR_SHADOW_CLB_003.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+EYE_L_BALL
+  rotate: false
+  xy: 1811, 968
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+EYE_L_BROW
+  rotate: false
+  xy: 30, 3
+  size: 34, 12
+  orig: 34, 12
+  offset: 0, 0
+  index: -1
+EYE_L_CLOSE
+  rotate: false
+  xy: 1673, 565
+  size: 28, 14
+  orig: 28, 14
+  offset: 0, 0
+  index: -1
+EYE_L_INBROW
+  rotate: false
+  xy: 1578, 516
+  size: 30, 34
+  orig: 30, 34
+  offset: 0, 0
+  index: -1
+EYE_L_INNER
+  rotate: false
+  xy: 1821, 996
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+EYE_L_UNBROW
+  rotate: false
+  xy: 1629, 552
+  size: 11, 6
+  orig: 11, 6
+  offset: 0, 0
+  index: -1
+EYE_R_BALL
+  rotate: false
+  xy: 1777, 931
+  size: 23, 31
+  orig: 23, 31
+  offset: 0, 0
+  index: -1
+EYE_R_BROW
+  rotate: false
+  xy: 1629, 560
+  size: 42, 19
+  orig: 42, 19
+  offset: 0, 0
+  index: -1
+EYE_R_CLOSE
+  rotate: false
+  xy: 1777, 996
+  size: 42, 26
+  orig: 42, 26
+  offset: 0, 0
+  index: -1
+EYE_R_INBROW
+  rotate: false
+  xy: 1578, 552
+  size: 49, 27
+  orig: 49, 27
+  offset: 0, 0
+  index: -1
+EYE_R_INNER
+  rotate: false
+  xy: 1777, 964
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+EYE_R_UNBROW
+  rotate: false
+  xy: 1578, 473
+  size: 23, 11
+  orig: 23, 11
+  offset: 0, 0
+  index: -1
+HAND_SUB_A
+  rotate: false
+  xy: 1578, 581
+  size: 197, 441
+  orig: 197, 441
+  offset: 0, 0
+  index: -1
+MESH_1
+  rotate: false
+  xy: 2, 17
+  size: 1574, 1005
+  orig: 1574, 1005
+  offset: 0, 0
+  index: -1
+MOUTH_CLOSE
+  rotate: false
+  xy: 2, 2
+  size: 26, 13
+  orig: 26, 13
+  offset: 0, 0
+  index: -1
+MOUTH_OPEN
+  rotate: false
+  xy: 1578, 486
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1
+NOSE
+  rotate: false
+  xy: 1610, 539
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1

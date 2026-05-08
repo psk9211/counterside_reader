@@ -1,0 +1,139 @@
+
+FX_SKILL_CUTIN_NKM_UNIT_JUNIOR_C_RULER.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG_ITEM_1
+  rotate: false
+  xy: 880, 310
+  size: 657, 712
+  orig: 657, 712
+  offset: 0, 0
+  index: -1
+BODY_1
+  rotate: false
+  xy: 2, 132
+  size: 876, 890
+  orig: 876, 890
+  offset: 0, 0
+  index: -1
+BROW_L
+  rotate: true
+  xy: 2030, 969
+  size: 53, 14
+  orig: 53, 14
+  offset: 0, 0
+  index: -1
+BROW_R
+  rotate: false
+  xy: 2, 2
+  size: 50, 46
+  orig: 50, 46
+  offset: 0, 0
+  index: -1
+EFFECT_1
+  rotate: true
+  xy: 2, 50
+  size: 80, 271
+  orig: 80, 271
+  offset: 0, 0
+  index: -1
+EYE_L_BALL
+  rotate: false
+  xy: 381, 93
+  size: 26, 37
+  orig: 26, 37
+  offset: 0, 0
+  index: -1
+EYE_L_INBROW
+  rotate: false
+  xy: 275, 87
+  size: 58, 43
+  orig: 58, 43
+  offset: 0, 0
+  index: -1
+EYE_L_INNER
+  rotate: false
+  xy: 109, 9
+  size: 41, 39
+  orig: 41, 39
+  offset: 0, 0
+  index: -1
+EYE_L_LIGHT
+  rotate: false
+  xy: 152, 2
+  size: 26, 19
+  orig: 26, 19
+  offset: 0, 0
+  index: -1
+EYE_R_BALL
+  rotate: false
+  xy: 1482, 199
+  size: 30, 38
+  orig: 30, 38
+  offset: 0, 0
+  index: -1
+EYE_R_INBROW
+  rotate: true
+  xy: 1482, 239
+  size: 69, 36
+  orig: 69, 36
+  offset: 0, 0
+  index: -1
+EYE_R_INNER
+  rotate: false
+  xy: 335, 88
+  size: 44, 42
+  orig: 44, 42
+  offset: 0, 0
+  index: -1
+EYE_R_LIGHT
+  rotate: false
+  xy: 152, 23
+  size: 29, 25
+  orig: 29, 25
+  offset: 0, 0
+  index: -1
+HAIR_BACK_1
+  rotate: true
+  xy: 1539, 309
+  size: 713, 489
+  orig: 713, 489
+  offset: 0, 0
+  index: -1
+HAIR_FRONT_1
+  rotate: false
+  xy: 880, 110
+  size: 385, 198
+  orig: 385, 198
+  offset: 0, 0
+  index: -1
+HEAD_EAR_L
+  rotate: true
+  xy: 1267, 109
+  size: 199, 213
+  orig: 199, 213
+  offset: 0, 0
+  index: -1
+MOUTH_1
+  rotate: false
+  xy: 275, 66
+  size: 48, 19
+  orig: 48, 19
+  offset: 0, 0
+  index: -1
+MOUTH_2
+  rotate: false
+  xy: 54, 8
+  size: 53, 40
+  orig: 53, 40
+  offset: 0, 0
+  index: -1
+NOSE
+  rotate: false
+  xy: 1520, 297
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1
