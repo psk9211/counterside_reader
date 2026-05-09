@@ -1,23 +1,48 @@
 # Counter:Side Story Reader
-This is a reader for the game Counter:Side. It runs in the web-browser, but because there's so many huge files, you need a webserver.  
+This is a reader for the game Counter:Side. It runs in the web-browser, served on your local machine. Supports Windows, Linux, Mac, and Android.  
+카운터사이드 리더기입니다. 로컬 환경의 웹 브라우저에서 구동되며, Windows, Linux, Mac 및 Android를 지원합니다.  
+カウンターサイドのリーダー（閲覧機）です。ローカルマシンのウェブブラウザ上で動作します。Windows, Linux, Mac, Android に対応しています。  
+這是《未來戰》的閱覽器。於本地端瀏覽器運行，支援 Windows、Linux、Mac 及 Android 系統。 
 
 [Roadmap](./notes/ROADMAP.md) | [ロードマップ](./notes/ROADMAP.JP.md) | [로드맵](./notes/ROADMAP.KR.md) | [項目路線圖](./notes/ROADMAP.TW.md)
 
-<a href="images/browser.webp">
-  <img src="images/browser.webp" width="400" alt="Story Browser">
-</a><a href="images/reader.webp">
-  <img src="images/reader.webp" width="400" alt="Reader">
-</a><a href="images/viewer.webp">
-  <img src="images/viewer.webp" width="400" alt="Model Viewer">
-</a>
+### Screenshots
 
-<a href="images/mobile_browser.webp">
-  <img src="images/mobile_browser.webp" height="400" alt="Story Browser">
-</a><a href="images/mobile_reader.webp">
-  <img src="images/mobile_reader.webp" height="400" alt="Reader">
-</a><a href="images/viewer.webp">
-  <img src="images/mobile_viewer.webp" height="400" alt="Model Viewer">
-</a>
+#### Story Reader
+<table>
+  <tr>
+    <td>
+      <a href="images/reader.webp"><img src="images/reader.webp" width="400" alt="Reader"></a>
+    </td>
+    <td>
+      <a href="images/mobile_reader.webp"><img src="images/mobile_reader.webp" height="400" alt="Reader"></a>
+    </td>
+  </tr>
+</table>
+
+#### Story Browser
+<table>
+  <tr>
+    <td>
+      <a href="images/browser.webp"><img src="images/browser.webp" width="400" alt="Story Browser"></a>
+    </td>
+    <td>
+      <a href="images/mobile_browser.webp"><img src="images/mobile_browser.webp" height="400" alt="Story Browser"></a>
+    </td>
+  </tr>
+</table>
+
+#### Model Viewer
+<table>
+  <tr>
+    <td>
+      <a href="images/viewer.webp"><img src="images/viewer.webp" width="400" alt="Model Viewer"></a>
+    </td>
+    <td>
+      <a href="images/viewer.webp"><img src="images/mobile_viewer.webp" height="400" alt="Model Viewer"></a>
+    </td>
+  </tr>
+</table>
 
 ## Installation
 
@@ -52,7 +77,6 @@ You need to give the files permission to run first:
 ---
 
 # 카운터사이드 스토리 리더 (Counter:Side Story Reader)
-본 프로그램은 카운터사이드용 스토리 리더입니다. 웹 브라우저에서 실행되지만, 대용량 파일이 많기 때문에 별도의 웹 서버가 필요합니다.
 
 **Windows 사용자:**
 1. `LaunchReader.bat` 파일을 더블 클릭하세요.
@@ -71,7 +95,6 @@ You need to give the files permission to run first:
 ---
 
 # 異界事務所 劇情閱讀器 (Counter:Side Story Reader)
-這是一個為《異界事務所》開發的劇情閱讀器。雖然在瀏覽器中執行，但由於檔案較大，需要透過網頁伺服器運作。
 
 **Windows 用戶：**
 1. 雙擊執行 `LaunchReader.bat`。
@@ -90,7 +113,6 @@ You need to give the files permission to run first:
 ---
 
 # カウンターサイド ストーリーリーダー (Counter:Side Story Reader)
-このプログラムは「カウンターサイド」のストーリー閲覧用リーダーです。ウェブブラウザ上で動作しますが、大容量ファイルを扱うためウェブサーバーが必要になります。
 
 **Windowsの場合:**
 1. `LaunchReader.bat` ファイルをダブルクリックしてください。
