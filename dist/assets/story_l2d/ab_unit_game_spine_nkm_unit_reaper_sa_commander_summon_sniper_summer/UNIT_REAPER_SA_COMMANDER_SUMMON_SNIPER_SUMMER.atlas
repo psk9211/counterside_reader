@@ -1,0 +1,237 @@
+
+UNIT_REAPER_SA_COMMANDER_SUMMON_SNIPER_SUMMER.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX_SHOT_2_2
+  rotate: true
+  xy: 782, 449
+  size: 209, 120
+  orig: 211, 122
+  offset: 1, 1
+  index: -1
+f_Hair
+  rotate: false
+  xy: 901, 323
+  size: 102, 100
+  orig: 102, 101
+  offset: 0, 1
+  index: -1
+face_a
+  rotate: true
+  xy: 985, 865
+  size: 78, 28
+  orig: 78, 28
+  offset: 0, 0
+  index: -1
+face_b
+  rotate: true
+  xy: 985, 786
+  size: 78, 28
+  orig: 78, 28
+  offset: 0, 0
+  index: -1
+front_body
+  rotate: false
+  xy: 841, 723
+  size: 143, 299
+  orig: 144, 300
+  offset: 0, 1
+  index: -1
+front_body_ac_1
+  rotate: false
+  xy: 890, 110
+  size: 68, 81
+  orig: 68, 81
+  offset: 0, 0
+  index: -1
+front_body_ac_2
+  rotate: true
+  xy: 890, 44
+  size: 65, 84
+  orig: 65, 85
+  offset: 0, 1
+  index: -1
+front_face_eyebrow
+  rotate: false
+  xy: 782, 311
+  size: 69, 4
+  orig: 70, 5
+  offset: 0, 1
+  index: -1
+front_head
+  rotate: false
+  xy: 782, 316
+  size: 118, 132
+  orig: 119, 133
+  offset: 0, 1
+  index: -1
+front_hood_1
+  rotate: true
+  xy: 533, 302
+  size: 356, 248
+  orig: 356, 248
+  offset: 0, 0
+  index: -1
+front_hood_1_light
+  rotate: false
+  xy: 533, 53
+  size: 356, 248
+  orig: 356, 248
+  offset: 0, 0
+  index: -1
+front_hood_2
+  rotate: false
+  xy: 903, 561
+  size: 92, 161
+  orig: 92, 162
+  offset: 0, 1
+  index: -1
+front_hood_3
+  rotate: false
+  xy: 1, 102
+  size: 377, 556
+  orig: 378, 556
+  offset: 0, 0
+  index: -1
+front_left_leg_3
+  rotate: false
+  xy: 890, 192
+  size: 84, 123
+  orig: 85, 123
+  offset: 0, 0
+  index: -1
+front_left_leg_parts_2
+  rotate: false
+  xy: 713, 2
+  size: 77, 50
+  orig: 77, 50
+  offset: 0, 0
+  index: -1
+front_right_arm_1
+  rotate: false
+  xy: 379, 105
+  size: 136, 40
+  orig: 136, 40
+  offset: 0, 0
+  index: -1
+front_right_arm_2
+  rotate: false
+  xy: 379, 146
+  size: 140, 39
+  orig: 140, 39
+  offset: 0, 0
+  index: -1
+front_right_arm_3a
+  rotate: false
+  xy: 841, 669
+  size: 55, 53
+  orig: 55, 55
+  offset: 0, 1
+  index: -1
+front_right_arm_3b
+  rotate: false
+  xy: 791, 1
+  size: 68, 51
+  orig: 68, 51
+  offset: 0, 0
+  index: -1
+front_right_leg_3
+  rotate: true
+  xy: 903, 424
+  size: 136, 108
+  orig: 136, 108
+  offset: 0, 0
+  index: -1
+front_right_leg_parts_2
+  rotate: true
+  xy: 470, 35
+  size: 69, 62
+  orig: 70, 63
+  offset: 0, 1
+  index: -1
+glasses
+  rotate: true
+  xy: 985, 944
+  size: 78, 31
+  orig: 78, 32
+  offset: 0, 1
+  index: -1
+hand_e
+  rotate: false
+  xy: 627, 12
+  size: 85, 40
+  orig: 85, 40
+  offset: 0, 0
+  index: -1
+hand_g
+  rotate: true
+  xy: 975, 231
+  size: 91, 42
+  orig: 107, 42
+  offset: 0, 0
+  index: -1
+head_gear
+  rotate: true
+  xy: 975, 176
+  size: 54, 46
+  orig: 55, 46
+  offset: 1, 0
+  index: -1
+left_leg
+  rotate: true
+  xy: 1, 14
+  size: 87, 468
+  orig: 87, 468
+  offset: 0, 0
+  index: -1
+mouth_a
+  rotate: false
+  xy: 379, 102
+  size: 5, 2
+  orig: 6, 3
+  offset: 0, 1
+  index: -1
+right_leg
+  rotate: false
+  xy: 379, 186
+  size: 153, 472
+  orig: 153, 473
+  offset: 0, 1
+  index: -1
+weapon_1a
+  rotate: false
+  xy: 1, 841
+  size: 839, 181
+  orig: 839, 181
+  offset: 0, 0
+  index: -1
+weapon_1a_light
+  rotate: false
+  xy: 1, 659
+  size: 839, 181
+  orig: 839, 181
+  offset: 0, 0
+  index: -1
+weapon_1b
+  rotate: false
+  xy: 533, 37
+  size: 93, 15
+  orig: 94, 16
+  offset: 0, 1
+  index: -1
+weapon_1c
+  rotate: false
+  xy: 1004, 392
+  size: 19, 31
+  orig: 19, 32
+  offset: 0, 0
+  index: -1
+weapon_cc
+  rotate: true
+  xy: 959, 150
+  size: 41, 15
+  orig: 42, 16
+  offset: 0, 1
+  index: -1

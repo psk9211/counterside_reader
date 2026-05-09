@@ -1,0 +1,83 @@
+
+UNIT_ALT_CA_SEO_YOON_SUMMON.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX_SHOT_1
+  rotate: false
+  xy: 232, 26
+  size: 141, 146
+  orig: 141, 146
+  offset: 0, 0
+  index: -1
+FX_SHOT_1_2
+  rotate: false
+  xy: 319, 233
+  size: 134, 121
+  orig: 134, 121
+  offset: 0, 0
+  index: -1
+FX_SHOT_1_3
+  rotate: false
+  xy: 679, 380
+  size: 224, 130
+  orig: 224, 130
+  offset: 0, 0
+  index: -1
+FX_SHOT_1_4
+  rotate: true
+  xy: 905, 344
+  size: 166, 94
+  orig: 166, 94
+  offset: 0, 0
+  index: -1
+gun_1
+  rotate: false
+  xy: 325, 391
+  size: 352, 119
+  orig: 352, 119
+  offset: 0, 0
+  index: -1
+gun_1_fx
+  rotate: false
+  xy: 325, 356
+  size: 145, 33
+  orig: 145, 33
+  offset: 0, 0
+  index: -1
+gun_1_fx_1
+  rotate: true
+  xy: 232, 174
+  size: 182, 85
+  orig: 182, 85
+  offset: 0, 0
+  index: -1
+gun_3
+  rotate: true
+  xy: 111, 52
+  size: 304, 119
+  orig: 304, 119
+  offset: 0, 0
+  index: -1
+gun_3_fx_1
+  rotate: false
+  xy: 472, 304
+  size: 135, 85
+  orig: 135, 85
+  offset: 0, 0
+  index: -1
+gun_4
+  rotate: true
+  xy: 2, 2
+  size: 354, 107
+  orig: 354, 107
+  offset: 0, 0
+  index: -1
+gun_4_fx_1
+  rotate: false
+  xy: 2, 358
+  size: 321, 152
+  orig: 321, 152
+  offset: 0, 0
+  index: -1

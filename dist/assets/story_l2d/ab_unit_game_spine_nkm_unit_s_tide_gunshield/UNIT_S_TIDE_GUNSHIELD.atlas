@@ -1,0 +1,314 @@
+
+UNIT_S_TIDE_GUNSHIELD.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_bag
+  rotate: false
+  xy: 634, 861
+  size: 234, 161
+  orig: 234, 161
+  offset: 0, 0
+  index: -1
+body_bag_ac_3
+  rotate: true
+  xy: 2, 6
+  size: 30, 181
+  orig: 30, 181
+  offset: 0, 0
+  index: -1
+body_bag_ac_4
+  rotate: false
+  xy: 583, 110
+  size: 27, 167
+  orig: 27, 167
+  offset: 0, 0
+  index: -1
+front_body_1
+  rotate: true
+  xy: 2, 38
+  size: 229, 313
+  orig: 229, 313
+  offset: 0, 0
+  index: -1
+front_body_2
+  rotate: false
+  xy: 756, 501
+  size: 152, 81
+  orig: 152, 81
+  offset: 0, 0
+  index: -1
+front_body_2_ac
+  rotate: false
+  xy: 586, 585
+  size: 171, 179
+  orig: 171, 179
+  offset: 0, 0
+  index: -1
+front_body_ac_1
+  rotate: false
+  xy: 582, 279
+  size: 50, 226
+  orig: 50, 226
+  offset: 0, 0
+  index: -1
+front_body_ac_2
+  rotate: false
+  xy: 885, 637
+  size: 107, 149
+  orig: 107, 149
+  offset: 0, 0
+  index: -1
+front_body_ac_3
+  rotate: false
+  xy: 759, 584
+  size: 124, 180
+  orig: 124, 180
+  offset: 0, 0
+  index: -1
+front_body_top
+  rotate: true
+  xy: 317, 60
+  size: 207, 141
+  orig: 207, 141
+  offset: 0, 0
+  index: -1
+front_head
+  rotate: false
+  xy: 878, 788
+  size: 125, 138
+  orig: 125, 138
+  offset: 0, 0
+  index: -1
+front_left_arm_1
+  rotate: true
+  xy: 460, 74
+  size: 179, 121
+  orig: 179, 121
+  offset: 0, 0
+  index: -1
+front_left_arm_2
+  rotate: false
+  xy: 586, 513
+  size: 168, 70
+  orig: 168, 70
+  offset: 0, 0
+  index: -1
+front_left_arm_3
+  rotate: true
+  xy: 922, 115
+  size: 79, 57
+  orig: 79, 57
+  offset: 0, 0
+  index: -1
+front_left_arm_ac_1
+  rotate: false
+  xy: 866, 255
+  size: 134, 46
+  orig: 134, 46
+  offset: 0, 0
+  index: -1
+front_left_arm_ac_2
+  rotate: false
+  xy: 317, 2
+  size: 131, 56
+  orig: 131, 56
+  offset: 0, 0
+  index: -1
+front_left_arm_ac_3
+  rotate: false
+  xy: 724, 231
+  size: 88, 93
+  orig: 88, 93
+  offset: 0, 0
+  index: -1
+front_left_leg_1
+  rotate: false
+  xy: 477, 507
+  size: 107, 258
+  orig: 107, 258
+  offset: 0, 0
+  index: -1
+front_left_leg_2
+  rotate: true
+  xy: 634, 766
+  size: 93, 242
+  orig: 93, 242
+  offset: 0, 0
+  index: -1
+front_left_leg_2_ac
+  rotate: false
+  xy: 776, 42
+  size: 76, 78
+  orig: 76, 78
+  offset: 0, 0
+  index: -1
+front_left_leg_3
+  rotate: false
+  xy: 740, 326
+  size: 130, 77
+  orig: 130, 77
+  offset: 0, 0
+  index: -1
+front_left_leg_3_ac
+  rotate: true
+  xy: 814, 218
+  size: 106, 50
+  orig: 106, 50
+  offset: 0, 0
+  index: -1
+front_left_shoulder_a
+  rotate: true
+  xy: 866, 196
+  size: 57, 113
+  orig: 57, 113
+  offset: 0, 0
+  index: -1
+front_right_arm_1
+  rotate: true
+  xy: 634, 330
+  size: 181, 104
+  orig: 181, 104
+  offset: 0, 0
+  index: -1
+front_right_arm_1_ac
+  rotate: false
+  xy: 910, 478
+  size: 104, 104
+  orig: 104, 104
+  offset: 0, 0
+  index: -1
+front_right_arm_2
+  rotate: false
+  xy: 460, 2
+  size: 171, 70
+  orig: 171, 70
+  offset: 0, 0
+  index: -1
+front_right_arm_ac_1
+  rotate: true
+  xy: 612, 128
+  size: 149, 41
+  orig: 149, 41
+  offset: 0, 0
+  index: -1
+front_right_arm_ac_2
+  rotate: false
+  xy: 885, 584
+  size: 125, 51
+  orig: 125, 51
+  offset: 0, 0
+  index: -1
+front_right_leg_1
+  rotate: false
+  xy: 477, 767
+  size: 155, 255
+  orig: 155, 255
+  offset: 0, 0
+  index: -1
+front_right_leg_2
+  rotate: false
+  xy: 477, 255
+  size: 103, 250
+  orig: 103, 250
+  offset: 0, 0
+  index: -1
+front_right_leg_2_ac
+  rotate: false
+  xy: 633, 30
+  size: 77, 82
+  orig: 77, 82
+  offset: 0, 0
+  index: -1
+front_right_leg_3
+  rotate: false
+  xy: 655, 114
+  size: 77, 98
+  orig: 77, 98
+  offset: 0, 0
+  index: -1
+front_right_leg_3_ac
+  rotate: true
+  xy: 854, 55
+  size: 70, 57
+  orig: 70, 57
+  offset: 0, 0
+  index: -1
+front_right_shoulder
+  rotate: false
+  xy: 892, 372
+  size: 125, 104
+  orig: 125, 104
+  offset: 0, 0
+  index: -1
+fx_01
+  rotate: true
+  xy: 583, 74
+  size: 34, 30
+  orig: 34, 30
+  offset: 0, 0
+  index: -1
+fx_02
+  rotate: false
+  xy: 655, 214
+  size: 67, 114
+  orig: 67, 114
+  offset: 0, 0
+  index: -1
+fx_03
+  rotate: true
+  xy: 872, 303
+  size: 67, 136
+  orig: 67, 136
+  offset: 0, 0
+  index: -1
+hand_a
+  rotate: true
+  xy: 712, 25
+  size: 87, 62
+  orig: 87, 62
+  offset: 0, 0
+  index: -1
+hand_b
+  rotate: false
+  xy: 809, 127
+  size: 111, 67
+  orig: 111, 67
+  offset: 0, 0
+  index: -1
+shield_11
+  rotate: false
+  xy: 2, 269
+  size: 239, 753
+  orig: 239, 753
+  offset: 0, 0
+  index: -1
+shield_1_fx
+  rotate: true
+  xy: 734, 122
+  size: 107, 73
+  orig: 107, 73
+  offset: 0, 0
+  index: -1
+shield_back11
+  rotate: false
+  xy: 243, 269
+  size: 232, 753
+  orig: 232, 753
+  offset: 0, 0
+  index: -1
+weapon1
+  rotate: false
+  xy: 870, 928
+  size: 152, 94
+  orig: 152, 94
+  offset: 0, 0
+  index: -1
+weapon2
+  rotate: false
+  xy: 740, 405
+  size: 150, 94
+  orig: 150, 94
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,90 @@
+
+UNIT_C_ESPR_FROZEN_WALL.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_de_ice_wall_1
+  rotate: true
+  xy: 458, 632
+  size: 386, 513
+  orig: 386, 513
+  offset: 0, 0
+  index: -1
+fx_de_ice_wall_1_break
+  rotate: true
+  xy: 259, 529
+  size: 386, 191
+  orig: 386, 191
+  offset: 0, 0
+  index: -1
+fx_de_ice_wall_2
+  rotate: false
+  xy: 2, 312
+  size: 255, 706
+  orig: 255, 706
+  offset: 0, 0
+  index: -1
+fx_de_ice_wall_2_break
+  rotate: false
+  xy: 458, 186
+  size: 254, 125
+  orig: 254, 125
+  offset: 0, 0
+  index: -1
+fx_de_ice_wall_3
+  rotate: false
+  xy: 770, 18
+  size: 249, 612
+  orig: 249, 612
+  offset: 0, 0
+  index: -1
+fx_de_ice_wall_3_break
+  rotate: false
+  xy: 452, 531
+  size: 249, 99
+  orig: 249, 99
+  offset: 0, 0
+  index: -1
+fx_de_ice_wall_4
+  rotate: false
+  xy: 211, 53
+  size: 245, 257
+  orig: 245, 257
+  offset: 0, 0
+  index: -1
+fx_de_ice_wall_4_break
+  rotate: false
+  xy: 259, 917
+  size: 196, 101
+  orig: 196, 101
+  offset: 0, 0
+  index: -1
+fx_de_ice_wall_5
+  rotate: true
+  xy: 259, 313
+  size: 214, 509
+  orig: 214, 509
+  offset: 0, 0
+  index: -1
+fx_de_ice_wall_5_break
+  rotate: false
+  xy: 458, 92
+  size: 214, 92
+  orig: 214, 92
+  offset: 0, 0
+  index: -1
+fx_de_ice_wall_6
+  rotate: true
+  xy: 2, 2
+  size: 308, 127
+  orig: 308, 127
+  offset: 0, 0
+  index: -1
+fx_de_ice_wall_6_break
+  rotate: true
+  xy: 131, 2
+  size: 308, 78
+  orig: 308, 78
+  offset: 0, 0
+  index: -1

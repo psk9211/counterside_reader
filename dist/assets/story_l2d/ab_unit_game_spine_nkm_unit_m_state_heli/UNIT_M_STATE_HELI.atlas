@@ -1,0 +1,139 @@
+
+UNIT_M_STATE_HELI.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_1
+  rotate: true
+  xy: 748, 704
+  size: 309, 212
+  orig: 309, 212
+  offset: 0, 0
+  index: -1
+body_2
+  rotate: false
+  xy: 702, 40
+  size: 182, 112
+  orig: 182, 112
+  offset: 0, 0
+  index: -1
+body_3
+  rotate: true
+  xy: 2, 98
+  size: 366, 264
+  orig: 366, 264
+  offset: 0, 0
+  index: -1
+body_4
+  rotate: false
+  xy: 376, 283
+  size: 322, 232
+  orig: 322, 232
+  offset: 0, 0
+  index: -1
+body_5
+  rotate: false
+  xy: 712, 525
+  size: 300, 177
+  orig: 300, 177
+  offset: 0, 0
+  index: -1
+body_right
+  rotate: true
+  xy: 268, 82
+  size: 382, 106
+  orig: 382, 106
+  offset: 0, 0
+  index: -1
+damage_body_1
+  rotate: false
+  xy: 2, 466
+  size: 364, 309
+  orig: 364, 309
+  offset: 0, 0
+  index: -1
+damage_body_2
+  rotate: false
+  xy: 368, 517
+  size: 342, 258
+  orig: 342, 258
+  offset: 0, 0
+  index: -1
+damage_body_3
+  rotate: false
+  xy: 376, 51
+  size: 324, 230
+  orig: 324, 230
+  offset: 0, 0
+  index: -1
+damage_body_4
+  rotate: false
+  xy: 712, 346
+  size: 299, 177
+  orig: 299, 177
+  offset: 0, 0
+  index: -1
+damage_weapon
+  rotate: false
+  xy: 702, 250
+  size: 227, 94
+  orig: 227, 94
+  offset: 0, 0
+  index: -1
+fx_shot_1
+  rotate: true
+  xy: 962, 930
+  size: 83, 47
+  orig: 83, 47
+  offset: 0, 0
+  index: -1
+fx_shot_2
+  rotate: false
+  xy: 931, 271
+  size: 71, 73
+  orig: 71, 73
+  offset: 0, 0
+  index: -1
+fx_shot_3
+  rotate: true
+  xy: 886, 85
+  size: 67, 61
+  orig: 67, 61
+  offset: 0, 0
+  index: -1
+shell
+  rotate: false
+  xy: 712, 762
+  size: 32, 13
+  orig: 32, 13
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 2, 2
+  size: 229, 94
+  orig: 229, 94
+  offset: 0, 0
+  index: -1
+weapon_light
+  rotate: false
+  xy: 702, 154
+  size: 223, 94
+  orig: 223, 94
+  offset: 0, 0
+  index: -1
+wing_moving
+  rotate: false
+  xy: 2, 836
+  size: 744, 177
+  orig: 744, 177
+  offset: 0, 0
+  index: -1
+wing_original
+  rotate: false
+  xy: 2, 777
+  size: 743, 57
+  orig: 743, 57
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+UNIT_C_JAPAN_SETSUNA_RA_SUMMON.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+flower_1
+  rotate: true
+  xy: 2, 2
+  size: 101, 321
+  orig: 108, 336
+  offset: 3, 6
+  index: -1
+flower_2
+  rotate: false
+  xy: 348, 12
+  size: 148, 241
+  orig: 150, 241
+  offset: 1, 0
+  index: -1
+flower_3
+  rotate: true
+  xy: 2, 105
+  size: 148, 344
+  orig: 150, 345
+  offset: 1, 1
+  index: -1

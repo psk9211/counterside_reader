@@ -1,0 +1,237 @@
+
+UNIT_M_FUTURE_HARPY_AIR.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+front_body_1_a
+  rotate: false
+  xy: 2, 547
+  size: 571, 475
+  orig: 571, 475
+  offset: 0, 0
+  index: -1
+front_body_1_b
+  rotate: false
+  xy: 2, 221
+  size: 340, 324
+  orig: 340, 324
+  offset: 0, 0
+  index: -1
+front_body_1_c
+  rotate: false
+  xy: 575, 534
+  size: 280, 247
+  orig: 280, 247
+  offset: 0, 0
+  index: -1
+front_body_1_d
+  rotate: false
+  xy: 575, 783
+  size: 295, 239
+  orig: 295, 239
+  offset: 0, 0
+  index: -1
+front_body_1_e
+  rotate: true
+  xy: 881, 137
+  size: 70, 81
+  orig: 70, 81
+  offset: 0, 0
+  index: -1
+front_body_1_f
+  rotate: true
+  xy: 888, 2
+  size: 62, 69
+  orig: 62, 69
+  offset: 0, 0
+  index: -1
+front_body_l_part_1
+  rotate: false
+  xy: 419, 122
+  size: 124, 107
+  orig: 124, 107
+  offset: 0, 0
+  index: -1
+front_body_r_part_1
+  rotate: false
+  xy: 810, 353
+  size: 208, 166
+  orig: 208, 166
+  offset: 0, 0
+  index: -1
+front_eye
+  rotate: false
+  xy: 623, 26
+  size: 109, 109
+  orig: 109, 109
+  offset: 0, 0
+  index: -1
+front_eye_2
+  rotate: false
+  xy: 492, 258
+  size: 50, 52
+  orig: 50, 52
+  offset: 0, 0
+  index: -1
+front_gun_1
+  rotate: false
+  xy: 872, 916
+  size: 150, 106
+  orig: 150, 106
+  offset: 0, 0
+  index: -1
+front_gun_2
+  rotate: false
+  xy: 353, 2
+  size: 136, 118
+  orig: 136, 118
+  offset: 0, 0
+  index: -1
+front_gun_3
+  rotate: false
+  xy: 491, 2
+  size: 130, 118
+  orig: 130, 118
+  offset: 0, 0
+  index: -1
+front_left_propeller_1
+  rotate: false
+  xy: 809, 284
+  size: 108, 67
+  orig: 108, 67
+  offset: 0, 0
+  index: -1
+front_left_propeller_2
+  rotate: true
+  xy: 794, 137
+  size: 70, 85
+  orig: 70, 85
+  offset: 0, 0
+  index: -1
+front_right_arm_0
+  rotate: false
+  xy: 794, 209
+  size: 108, 73
+  orig: 108, 73
+  offset: 0, 0
+  index: -1
+front_right_arm_2
+  rotate: false
+  xy: 673, 137
+  size: 119, 119
+  orig: 119, 119
+  offset: 0, 0
+  index: -1
+front_right_arm_3
+  rotate: false
+  xy: 734, 3
+  size: 69, 132
+  orig: 69, 132
+  offset: 0, 0
+  index: -1
+front_right_propeller_1
+  rotate: true
+  xy: 872, 721
+  size: 193, 144
+  orig: 193, 144
+  offset: 0, 0
+  index: -1
+front_right_propeller_2
+  rotate: true
+  xy: 744, 286
+  size: 86, 63
+  orig: 86, 63
+  offset: 0, 0
+  index: -1
+front_right_propeller_3
+  rotate: false
+  xy: 888, 66
+  size: 69, 69
+  orig: 69, 69
+  offset: 0, 0
+  index: -1
+front_right_weapon_2
+  rotate: false
+  xy: 344, 231
+  size: 146, 79
+  orig: 146, 79
+  offset: 0, 0
+  index: -1
+front_right_weapon_3
+  rotate: false
+  xy: 2, 4
+  size: 240, 39
+  orig: 240, 39
+  offset: 0, 0
+  index: -1
+front_right_weapon_4
+  rotate: false
+  xy: 2, 45
+  size: 349, 75
+  orig: 349, 75
+  offset: 0, 0
+  index: -1
+front_right_weapon_5
+  rotate: false
+  xy: 2, 122
+  size: 415, 97
+  orig: 415, 97
+  offset: 0, 0
+  index: -1
+front_right_weapon_6
+  rotate: true
+  xy: 857, 521
+  size: 198, 141
+  orig: 198, 141
+  offset: 0, 0
+  index: -1
+front_right_weapon_7
+  rotate: false
+  xy: 244, 5
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1
+wing_1
+  rotate: true
+  xy: 567, 374
+  size: 158, 241
+  orig: 158, 241
+  offset: 0, 0
+  index: -1
+wing_2_a
+  rotate: false
+  xy: 545, 143
+  size: 126, 113
+  orig: 126, 113
+  offset: 0, 0
+  index: -1
+wing_2_b
+  rotate: true
+  xy: 919, 285
+  size: 66, 103
+  orig: 66, 103
+  offset: 0, 0
+  index: -1
+wing_3
+  rotate: false
+  xy: 805, 51
+  size: 81, 84
+  orig: 81, 84
+  offset: 0, 0
+  index: -1
+wing_propeller_a
+  rotate: false
+  xy: 344, 312
+  size: 221, 233
+  orig: 221, 233
+  offset: 0, 0
+  index: -1
+wing_propeller_b
+  rotate: true
+  xy: 567, 258
+  size: 114, 175
+  orig: 114, 175
+  offset: 0, 0
+  index: -1

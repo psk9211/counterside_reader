@@ -1,0 +1,419 @@
+
+UNIT_ESPR_C_SNIPER_BUNNY.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BOLT_BODY
+  rotate: false
+  xy: 829, 915
+  size: 122, 21
+  orig: 125, 21
+  offset: 0, 0
+  index: -1
+BOLT_HANDLE
+  rotate: true
+  xy: 539, 400
+  size: 25, 19
+  orig: 26, 20
+  offset: 0, 0
+  index: -1
+BOLT_HANDLE_HEAD
+  rotate: false
+  xy: 236, 225
+  size: 16, 16
+  orig: 20, 20
+  offset: 2, 2
+  index: -1
+arm_inside_right
+  rotate: true
+  xy: 164, 269
+  size: 264, 46
+  orig: 268, 48
+  offset: 0, 1
+  index: -1
+back_body_tail
+  rotate: false
+  xy: 401, 303
+  size: 49, 52
+  orig: 49, 52
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 327, 589
+  size: 149, 331
+  orig: 150, 331
+  offset: 1, 0
+  index: -1
+body_ac
+  rotate: false
+  xy: 739, 852
+  size: 28, 41
+  orig: 28, 41
+  offset: 0, 0
+  index: -1
+breast
+  rotate: false
+  xy: 829, 937
+  size: 125, 86
+  orig: 146, 89
+  offset: 19, 0
+  index: -1
+collar_acc
+  rotate: false
+  xy: 211, 220
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+common_hair_center
+  rotate: false
+  xy: 211, 398
+  size: 115, 135
+  orig: 115, 135
+  offset: 0, 0
+  index: -1
+eye1
+  rotate: true
+  xy: 410, 222
+  size: 80, 43
+  orig: 125, 144
+  offset: 42, 34
+  index: -1
+eye1_line
+  rotate: false
+  xy: 901, 873
+  size: 42, 41
+  orig: 125, 144
+  offset: 42, 36
+  index: -1
+eye2
+  rotate: false
+  xy: 454, 192
+  size: 82, 43
+  orig: 125, 144
+  offset: 40, 34
+  index: -1
+eye2_line
+  rotate: true
+  xy: 169, 220
+  size: 48, 41
+  orig: 125, 144
+  offset: 40, 36
+  index: -1
+eye3
+  rotate: false
+  xy: 451, 320
+  size: 83, 43
+  orig: 125, 144
+  offset: 39, 34
+  index: -1
+eye3_line
+  rotate: true
+  xy: 169, 116
+  size: 48, 41
+  orig: 125, 144
+  offset: 39, 36
+  index: -1
+eye4
+  rotate: true
+  xy: 454, 236
+  size: 83, 43
+  orig: 125, 144
+  offset: 39, 34
+  index: -1
+eye5
+  rotate: true
+  xy: 498, 236
+  size: 83, 43
+  orig: 125, 144
+  offset: 39, 34
+  index: -1
+footL
+  rotate: false
+  xy: 211, 300
+  size: 100, 97
+  orig: 100, 97
+  offset: 0, 0
+  index: -1
+footR
+  rotate: true
+  xy: 211, 242
+  size: 57, 107
+  orig: 57, 107
+  offset: 0, 0
+  index: -1
+front_chest
+  rotate: false
+  xy: 477, 587
+  size: 105, 72
+  orig: 105, 73
+  offset: 0, 1
+  index: -1
+front_chest_ac
+  rotate: false
+  xy: 169, 165
+  size: 45, 54
+  orig: 45, 54
+  offset: 0, 0
+  index: -1
+front_right_arm_parts
+  rotate: false
+  xy: 124, 91
+  size: 28, 21
+  orig: 28, 21
+  offset: 0, 0
+  index: -1
+gun
+  rotate: false
+  xy: 1, 234
+  size: 162, 789
+  orig: 164, 792
+  offset: 1, 1
+  index: -1
+gun_acc1
+  rotate: false
+  xy: 827, 886
+  size: 73, 28
+  orig: 77, 32
+  offset: 2, 2
+  index: -1
+gun_acc2
+  rotate: true
+  xy: 583, 560
+  size: 42, 95
+  orig: 45, 98
+  offset: 1, 2
+  index: -1
+gun_acc3
+  rotate: true
+  xy: 944, 875
+  size: 34, 37
+  orig: 36, 37
+  offset: 1, 0
+  index: -1
+gun_back
+  rotate: true
+  xy: 594, 894
+  size: 26, 173
+  orig: 164, 792
+  offset: 60, 150
+  index: -1
+gun_ribbon
+  rotate: false
+  xy: 768, 885
+  size: 58, 35
+  orig: 59, 37
+  offset: 0, 1
+  index: -1
+gun_ring
+  rotate: true
+  xy: 768, 859
+  size: 25, 55
+  orig: 29, 55
+  offset: 2, 0
+  index: -1
+gun_ring_out
+  rotate: true
+  xy: 439, 479
+  size: 17, 5
+  orig: 18, 11
+  offset: 0, 5
+  index: -1
+hair_front
+  rotate: false
+  xy: 477, 779
+  size: 116, 141
+  orig: 116, 142
+  offset: 0, 0
+  index: -1
+hair_side_back
+  rotate: true
+  xy: 594, 779
+  size: 63, 129
+  orig: 63, 129
+  offset: 0, 0
+  index: -1
+hair_side_back_0
+  rotate: true
+  xy: 569, 729
+  size: 49, 134
+  orig: 49, 135
+  offset: 0, 0
+  index: -1
+hair_side_front
+  rotate: true
+  xy: 327, 356
+  size: 57, 111
+  orig: 58, 111
+  offset: 1, 0
+  index: -1
+hair_twist
+  rotate: false
+  xy: 124, 113
+  size: 44, 120
+  orig: 44, 120
+  offset: 0, 0
+  index: -1
+hand_a
+  rotate: false
+  xy: 448, 532
+  size: 119, 54
+  orig: 119, 54
+  offset: 0, 0
+  index: -1
+hand_b
+  rotate: false
+  xy: 448, 479
+  size: 120, 52
+  orig: 120, 52
+  offset: 0, 0
+  index: -1
+hand_c
+  rotate: true
+  xy: 1, 1
+  size: 89, 54
+  orig: 89, 54
+  offset: 0, 0
+  index: -1
+hand_d
+  rotate: false
+  xy: 312, 303
+  size: 88, 52
+  orig: 88, 52
+  offset: 0, 0
+  index: -1
+hand_e
+  rotate: true
+  xy: 106, 2
+  size: 88, 46
+  orig: 88, 46
+  offset: 0, 0
+  index: -1
+hand_f
+  rotate: true
+  xy: 56, 1
+  size: 89, 49
+  orig: 89, 49
+  offset: 0, 0
+  index: -1
+hand_g
+  rotate: false
+  xy: 569, 674
+  size: 122, 54
+  orig: 122, 54
+  offset: 0, 0
+  index: -1
+hand_h
+  rotate: false
+  xy: 439, 426
+  size: 120, 52
+  orig: 120, 52
+  offset: 0, 0
+  index: -1
+hand_i
+  rotate: false
+  xy: 327, 497
+  size: 120, 91
+  orig: 120, 91
+  offset: 0, 0
+  index: -1
+hand_j
+  rotate: true
+  xy: 477, 660
+  size: 118, 91
+  orig: 118, 91
+  offset: 0, 0
+  index: -1
+hand_k
+  rotate: false
+  xy: 327, 414
+  size: 111, 82
+  orig: 111, 82
+  offset: 0, 0
+  index: -1
+hand_l
+  rotate: true
+  xy: 955, 910
+  size: 113, 68
+  orig: 113, 68
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 1, 91
+  size: 122, 142
+  orig: 125, 144
+  offset: 2, 1
+  index: -1
+head_ac_1
+  rotate: false
+  xy: 439, 364
+  size: 99, 61
+  orig: 99, 61
+  offset: 0, 0
+  index: -1
+head_ac_2
+  rotate: true
+  xy: 594, 843
+  size: 50, 144
+  orig: 51, 144
+  offset: 1, 0
+  index: -1
+head_ac_3
+  rotate: false
+  xy: 583, 603
+  size: 96, 70
+  orig: 96, 70
+  offset: 0, 0
+  index: -1
+legL
+  rotate: true
+  xy: 327, 921
+  size: 102, 501
+  orig: 102, 501
+  offset: 0, 0
+  index: -1
+legR
+  rotate: false
+  xy: 164, 534
+  size: 162, 489
+  orig: 164, 489
+  offset: 0, 0
+  index: -1
+magazine
+  rotate: true
+  xy: 319, 238
+  size: 64, 90
+  orig: 67, 92
+  offset: 1, 1
+  index: -1
+mouth1
+  rotate: false
+  xy: 982, 891
+  size: 25, 18
+  orig: 125, 144
+  offset: 70, 10
+  index: -1
+mouth2
+  rotate: true
+  xy: 704, 748
+  size: 30, 19
+  orig: 125, 144
+  offset: 66, 10
+  index: -1
+mouth3
+  rotate: true
+  xy: 724, 814
+  size: 28, 11
+  orig: 125, 144
+  offset: 69, 14
+  index: -1
+mouth4
+  rotate: true
+  xy: 692, 707
+  size: 21, 11
+  orig: 125, 144
+  offset: 74, 13
+  index: -1

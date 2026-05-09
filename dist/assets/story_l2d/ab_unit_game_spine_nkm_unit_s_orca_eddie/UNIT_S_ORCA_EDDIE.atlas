@@ -1,0 +1,230 @@
+
+UNIT_S_ORCA_EDDIE.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+front_body_1
+  rotate: true
+  xy: 486, 319
+  size: 191, 355
+  orig: 191, 355
+  offset: 0, 0
+  index: -1
+front_face_a
+  rotate: false
+  xy: 420, 53
+  size: 57, 50
+  orig: 57, 50
+  offset: 0, 0
+  index: -1
+front_head
+  rotate: false
+  xy: 281, 104
+  size: 116, 120
+  orig: 116, 120
+  offset: 0, 0
+  index: -1
+front_left_arm_1
+  rotate: false
+  xy: 2, 10
+  size: 156, 73
+  orig: 156, 73
+  offset: 0, 0
+  index: -1
+front_left_arm_2
+  rotate: true
+  xy: 958, 260
+  size: 159, 47
+  orig: 159, 47
+  offset: 0, 0
+  index: -1
+front_left_arm_3
+  rotate: true
+  xy: 773, 62
+  size: 94, 49
+  orig: 94, 49
+  offset: 0, 0
+  index: -1
+front_left_arm_9
+  rotate: false
+  xy: 824, 41
+  size: 94, 49
+  orig: 94, 49
+  offset: 0, 0
+  index: -1
+front_left_leg_1
+  rotate: true
+  xy: 2, 85
+  size: 139, 277
+  orig: 139, 277
+  offset: 0, 0
+  index: -1
+front_left_leg_2
+  rotate: false
+  xy: 843, 257
+  size: 113, 253
+  orig: 113, 253
+  offset: 0, 0
+  index: -1
+front_left_leg_3
+  rotate: true
+  xy: 160, 25
+  size: 58, 94
+  orig: 58, 94
+  offset: 0, 0
+  index: -1
+front_right_arm_1
+  rotate: false
+  xy: 829, 182
+  size: 156, 73
+  orig: 156, 73
+  offset: 0, 0
+  index: -1
+front_right_arm_2
+  rotate: true
+  xy: 780, 158
+  size: 159, 47
+  orig: 159, 47
+  offset: 0, 0
+  index: -1
+front_right_arm_3a
+  rotate: false
+  xy: 479, 61
+  size: 55, 42
+  orig: 55, 42
+  offset: 0, 0
+  index: -1
+front_right_arm_3b
+  rotate: true
+  xy: 376, 42
+  size: 60, 42
+  orig: 60, 42
+  offset: 0, 0
+  index: -1
+front_right_arm_4
+  rotate: false
+  xy: 829, 136
+  size: 104, 44
+  orig: 104, 44
+  offset: 0, 0
+  index: -1
+front_right_arm_5
+  rotate: false
+  xy: 824, 92
+  size: 104, 42
+  orig: 104, 42
+  offset: 0, 0
+  index: -1
+front_right_arm_6
+  rotate: false
+  xy: 920, 39
+  size: 86, 39
+  orig: 86, 39
+  offset: 0, 0
+  index: -1
+front_right_arm_7
+  rotate: false
+  xy: 935, 131
+  size: 87, 49
+  orig: 87, 49
+  offset: 0, 0
+  index: -1
+front_right_arm_7_2
+  rotate: false
+  xy: 536, 62
+  size: 39, 41
+  orig: 39, 41
+  offset: 0, 0
+  index: -1
+front_right_arm_8
+  rotate: false
+  xy: 930, 80
+  size: 87, 49
+  orig: 87, 49
+  offset: 0, 0
+  index: -1
+front_right_leg_1
+  rotate: true
+  xy: 486, 193
+  size: 124, 292
+  orig: 124, 292
+  offset: 0, 0
+  index: -1
+front_right_leg_2
+  rotate: true
+  xy: 399, 105
+  size: 86, 248
+  orig: 86, 248
+  offset: 0, 0
+  index: -1
+front_right_leg_3
+  rotate: true
+  xy: 281, 2
+  size: 100, 93
+  orig: 100, 93
+  offset: 0, 0
+  index: -1
+grenade
+  rotate: false
+  xy: 958, 421
+  size: 64, 89
+  orig: 64, 89
+  offset: 0, 0
+  index: -1
+side_face_a
+  rotate: true
+  xy: 376, 11
+  size: 29, 46
+  orig: 29, 46
+  offset: 0, 0
+  index: -1
+side_face_b
+  rotate: true
+  xy: 399, 196
+  size: 28, 50
+  orig: 28, 50
+  offset: 0, 0
+  index: -1
+side_face_c
+  rotate: true
+  xy: 577, 78
+  size: 25, 52
+  orig: 25, 52
+  offset: 0, 0
+  index: -1
+side_face_d
+  rotate: true
+  xy: 424, 22
+  size: 29, 46
+  orig: 29, 46
+  offset: 0, 0
+  index: -1
+side_head
+  rotate: true
+  xy: 649, 79
+  size: 112, 122
+  orig: 112, 122
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 2, 369
+  size: 482, 141
+  orig: 482, 141
+  offset: 0, 0
+  index: -1
+weapon_cc
+  rotate: true
+  xy: 1007, 378
+  size: 41, 15
+  orig: 41, 15
+  offset: 0, 0
+  index: -1
+weapon_light
+  rotate: false
+  xy: 2, 226
+  size: 482, 141
+  orig: 482, 141
+  offset: 0, 0
+  index: -1

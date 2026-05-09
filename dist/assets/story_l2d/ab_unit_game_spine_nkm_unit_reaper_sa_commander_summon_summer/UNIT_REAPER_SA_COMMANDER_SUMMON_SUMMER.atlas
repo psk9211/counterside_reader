@@ -1,0 +1,300 @@
+
+UNIT_REAPER_SA_COMMANDER_SUMMON_SUMMER.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_L_down
+  rotate: true
+  xy: 525, 22
+  size: 152, 225
+  orig: 152, 225
+  offset: 0, 0
+  index: -1
+arm_L_up
+  rotate: true
+  xy: 978, 440
+  size: 196, 326
+  orig: 196, 326
+  offset: 0, 0
+  index: -1
+arm_R_down
+  rotate: true
+  xy: 300, 2
+  size: 171, 223
+  orig: 171, 223
+  offset: 0, 0
+  index: -1
+arm_R_up
+  rotate: false
+  xy: 768, 312
+  size: 208, 324
+  orig: 208, 324
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 175
+  size: 382, 542
+  orig: 382, 542
+  offset: 0, 0
+  index: -1
+body_die
+  rotate: false
+  xy: 386, 176
+  size: 380, 541
+  orig: 380, 541
+  offset: 0, 0
+  index: -1
+cable_die
+  rotate: true
+  xy: 525, 11
+  size: 9, 102
+  orig: 9, 102
+  offset: 0, 0
+  index: -1
+cloth
+  rotate: true
+  xy: 1501, 623
+  size: 399, 509
+  orig: 399, 509
+  offset: 0, 0
+  index: -1
+cloth_left_arm
+  rotate: false
+  xy: 768, 94
+  size: 205, 216
+  orig: 205, 216
+  offset: 0, 0
+  index: -1
+cloth_right_arm2
+  rotate: true
+  xy: 1752, 410
+  size: 211, 243
+  orig: 211, 243
+  offset: 0, 0
+  index: -1
+fire_E
+  rotate: true
+  xy: 1803, 56
+  size: 87, 44
+  orig: 87, 44
+  offset: 0, 0
+  index: -1
+foot_L
+  rotate: false
+  xy: 975, 38
+  size: 196, 103
+  orig: 196, 103
+  offset: 0, 0
+  index: -1
+foot_L_ac
+  rotate: false
+  xy: 1942, 224
+  size: 72, 56
+  orig: 72, 56
+  offset: 0, 0
+  index: -1
+foot_L_ac2
+  rotate: true
+  xy: 1876, 160
+  size: 102, 64
+  orig: 102, 64
+  offset: 0, 0
+  index: -1
+foot_L_ac3
+  rotate: false
+  xy: 1532, 39
+  size: 99, 83
+  orig: 99, 83
+  offset: 0, 0
+  index: -1
+foot_side
+  rotate: false
+  xy: 1942, 182
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+hand_a
+  rotate: false
+  xy: 1173, 28
+  size: 117, 113
+  orig: 117, 113
+  offset: 0, 0
+  index: -1
+hand_b
+  rotate: true
+  xy: 1634, 2
+  size: 124, 122
+  orig: 124, 122
+  offset: 0, 0
+  index: -1
+hand_base
+  rotate: true
+  xy: 1438, 2
+  size: 120, 92
+  orig: 120, 92
+  offset: 0, 0
+  index: -1
+hand_base_ac
+  rotate: false
+  xy: 752, 18
+  size: 150, 74
+  orig: 150, 74
+  offset: 0, 0
+  index: -1
+hand_c
+  rotate: false
+  xy: 1306, 442
+  size: 147, 194
+  orig: 147, 194
+  offset: 0, 0
+  index: -1
+hand_d
+  rotate: false
+  xy: 1634, 128
+  size: 95, 135
+  orig: 95, 135
+  offset: 0, 0
+  index: -1
+hand_finger
+  rotate: false
+  xy: 1468, 725
+  size: 26, 89
+  orig: 26, 89
+  offset: 0, 0
+  index: -1
+hat
+  rotate: false
+  xy: 975, 143
+  size: 307, 103
+  orig: 307, 103
+  offset: 0, 0
+  index: -1
+hat2
+  rotate: false
+  xy: 768, 641
+  size: 109, 76
+  orig: 109, 76
+  offset: 0, 0
+  index: -1
+hat_in
+  rotate: true
+  xy: 1758, 19
+  size: 124, 43
+  orig: 124, 43
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 1940, 282
+  size: 126, 106
+  orig: 126, 106
+  offset: 0, 0
+  index: -1
+jaw
+  rotate: false
+  xy: 904, 21
+  size: 60, 71
+  orig: 60, 71
+  offset: 0, 0
+  index: -1
+knee
+  rotate: false
+  xy: 1634, 265
+  size: 111, 149
+  orig: 111, 149
+  offset: 0, 0
+  index: -1
+leg_L
+  rotate: true
+  xy: 881, 638
+  size: 176, 585
+  orig: 176, 585
+  offset: 0, 0
+  index: -1
+leg_R
+  rotate: true
+  xy: 881, 816
+  size: 206, 618
+  orig: 206, 618
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 1731, 145
+  size: 143, 117
+  orig: 143, 117
+  offset: 0, 0
+  index: -1
+pant
+  rotate: false
+  xy: 978, 248
+  size: 315, 190
+  orig: 315, 190
+  offset: 0, 0
+  index: -1
+pant_left
+  rotate: true
+  xy: 2, 2
+  size: 171, 296
+  orig: 171, 296
+  offset: 0, 0
+  index: -1
+pant_right
+  rotate: true
+  xy: 1455, 416
+  size: 205, 295
+  orig: 205, 295
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 2, 719
+  size: 877, 303
+  orig: 877, 303
+  offset: 0, 0
+  index: -1
+weapon_ac
+  rotate: true
+  xy: 2012, 791
+  size: 231, 24
+  orig: 231, 24
+  offset: 0, 0
+  index: -1
+weapon_magazine
+  rotate: true
+  xy: 1295, 247
+  size: 191, 144
+  orig: 191, 144
+  offset: 0, 0
+  index: -1
+weapon_magazine_r1
+  rotate: false
+  xy: 1441, 270
+  size: 191, 144
+  orig: 191, 144
+  offset: 0, 0
+  index: -1
+weapon_magazine_r2
+  rotate: false
+  xy: 1747, 264
+  size: 191, 144
+  orig: 191, 144
+  offset: 0, 0
+  index: -1
+weapon_magazine_r3
+  rotate: true
+  xy: 1292, 54
+  size: 191, 144
+  orig: 191, 144
+  offset: 0, 0
+  index: -1
+weapon_magazine_r4
+  rotate: false
+  xy: 1441, 124
+  size: 191, 144
+  orig: 191, 144
+  offset: 0, 0
+  index: -1

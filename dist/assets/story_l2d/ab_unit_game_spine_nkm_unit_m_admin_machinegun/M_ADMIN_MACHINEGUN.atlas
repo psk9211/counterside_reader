@@ -1,0 +1,146 @@
+
+M_ADMIN_MACHINEGUN.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 333
+  size: 731, 301
+  orig: 731, 301
+  offset: 0, 0
+  index: -1
+damage_body
+  rotate: false
+  xy: 2, 636
+  size: 744, 386
+  orig: 744, 386
+  offset: 0, 0
+  index: -1
+damage_weapon
+  rotate: false
+  xy: 605, 57
+  size: 178, 130
+  orig: 178, 130
+  offset: 0, 0
+  index: -1
+fx_booster
+  rotate: false
+  xy: 440, 7
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+fx_shot_1
+  rotate: true
+  xy: 735, 348
+  size: 93, 53
+  orig: 93, 53
+  offset: 0, 0
+  index: -1
+fx_shot_2
+  rotate: false
+  xy: 806, 459
+  size: 64, 36
+  orig: 64, 36
+  offset: 0, 0
+  index: -1
+fx_shot_3
+  rotate: true
+  xy: 370, 2
+  size: 75, 68
+  orig: 75, 68
+  offset: 0, 0
+  index: -1
+head_1
+  rotate: false
+  xy: 2, 114
+  size: 412, 217
+  orig: 412, 217
+  offset: 0, 0
+  index: -1
+head_2
+  rotate: true
+  xy: 748, 668
+  size: 354, 127
+  orig: 354, 127
+  offset: 0, 0
+  index: -1
+head_3
+  rotate: true
+  xy: 872, 505
+  size: 148, 122
+  orig: 148, 122
+  offset: 0, 0
+  index: -1
+head_4
+  rotate: true
+  xy: 416, 79
+  size: 108, 187
+  orig: 108, 187
+  offset: 0, 0
+  index: -1
+head_5
+  rotate: false
+  xy: 723, 189
+  size: 45, 73
+  orig: 45, 73
+  offset: 0, 0
+  index: -1
+weapon_1
+  rotate: true
+  xy: 877, 655
+  size: 367, 80
+  orig: 367, 80
+  offset: 0, 0
+  index: -1
+weapon_1_light
+  rotate: true
+  xy: 806, 497
+  size: 169, 64
+  orig: 169, 64
+  offset: 0, 0
+  index: -1
+weapon_2
+  rotate: false
+  xy: 416, 264
+  size: 312, 67
+  orig: 312, 67
+  offset: 0, 0
+  index: -1
+weapon_2_light
+  rotate: true
+  xy: 959, 842
+  size: 180, 53
+  orig: 180, 53
+  offset: 0, 0
+  index: -1
+weapon_3
+  rotate: false
+  xy: 2, 30
+  size: 366, 82
+  orig: 366, 82
+  offset: 0, 0
+  index: -1
+weapon_3_light
+  rotate: true
+  xy: 735, 443
+  size: 191, 69
+  orig: 191, 69
+  offset: 0, 0
+  index: -1
+weapon_4
+  rotate: false
+  xy: 416, 189
+  size: 305, 73
+  orig: 305, 73
+  offset: 0, 0
+  index: -1
+weapon_4_light
+  rotate: true
+  xy: 959, 668
+  size: 172, 60
+  orig: 172, 60
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,34 @@
+
+UNIT_KNIGHT_C_FLAG_SUMMON.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+weapon_2
+  rotate: true
+  xy: 2, 29
+  size: 37, 848
+  orig: 37, 848
+  offset: 0, 0
+  index: -1
+weapon_2_parts_1
+  rotate: false
+  xy: 2, 2
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+weapon_2_parts_2
+  rotate: false
+  xy: 818, 270
+  size: 20, 12
+  orig: 20, 12
+  offset: 0, 0
+  index: -1
+weapon_2_parts_3
+  rotate: false
+  xy: 2, 68
+  size: 814, 214
+  orig: 814, 214
+  offset: 0, 0
+  index: -1

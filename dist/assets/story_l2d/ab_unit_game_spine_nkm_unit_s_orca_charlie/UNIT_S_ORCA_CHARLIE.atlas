@@ -1,0 +1,244 @@
+
+UNIT_S_ORCA_CHARLIE.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+front_body_1
+  rotate: false
+  xy: 598, 640
+  size: 231, 379
+  orig: 231, 379
+  offset: 0, 0
+  index: -1
+front_face_a
+  rotate: false
+  xy: 591, 28
+  size: 52, 43
+  orig: 52, 43
+  offset: 0, 0
+  index: -1
+front_head
+  rotate: false
+  xy: 876, 318
+  size: 93, 112
+  orig: 93, 112
+  offset: 0, 0
+  index: -1
+front_left_arm_1
+  rotate: true
+  xy: 676, 21
+  size: 184, 92
+  orig: 184, 92
+  offset: 0, 0
+  index: -1
+front_left_arm_2
+  rotate: false
+  xy: 2, 2
+  size: 180, 69
+  orig: 180, 69
+  offset: 0, 0
+  index: -1
+front_left_arm_3
+  rotate: true
+  xy: 955, 889
+  size: 130, 67
+  orig: 130, 67
+  offset: 0, 0
+  index: -1
+front_left_arm_4
+  rotate: true
+  xy: 971, 297
+  size: 43, 26
+  orig: 43, 26
+  offset: 0, 0
+  index: -1
+front_left_arm_5
+  rotate: false
+  xy: 876, 163
+  size: 96, 69
+  orig: 96, 69
+  offset: 0, 0
+  index: -1
+front_left_arm_6
+  rotate: false
+  xy: 864, 79
+  size: 78, 82
+  orig: 78, 82
+  offset: 0, 0
+  index: -1
+front_left_arm_7
+  rotate: false
+  xy: 831, 660
+  size: 118, 71
+  orig: 118, 71
+  offset: 0, 0
+  index: -1
+front_left_leg_1
+  rotate: true
+  xy: 598, 433
+  size: 205, 288
+  orig: 205, 288
+  offset: 0, 0
+  index: -1
+front_left_leg_2
+  rotate: false
+  xy: 676, 207
+  size: 111, 224
+  orig: 111, 224
+  offset: 0, 0
+  index: -1
+front_left_leg_3
+  rotate: true
+  xy: 366, 11
+  size: 60, 111
+  orig: 60, 111
+  offset: 0, 0
+  index: -1
+front_right_arm_0001
+  rotate: false
+  xy: 876, 234
+  size: 93, 82
+  orig: 93, 82
+  offset: 0, 0
+  index: -1
+front_right_arm_001
+  rotate: false
+  xy: 479, 10
+  size: 110, 61
+  orig: 110, 61
+  offset: 0, 0
+  index: -1
+front_right_arm_002
+  rotate: false
+  xy: 955, 750
+  size: 48, 43
+  orig: 48, 43
+  offset: 0, 0
+  index: -1
+front_right_arm_1
+  rotate: true
+  xy: 770, 20
+  size: 184, 92
+  orig: 184, 92
+  offset: 0, 0
+  index: -1
+front_right_arm_2
+  rotate: false
+  xy: 184, 3
+  size: 180, 68
+  orig: 180, 68
+  offset: 0, 0
+  index: -1
+front_right_arm_3a
+  rotate: false
+  xy: 864, 8
+  size: 88, 69
+  orig: 88, 69
+  offset: 0, 0
+  index: -1
+front_right_arm_3b
+  rotate: true
+  xy: 955, 795
+  size: 92, 67
+  orig: 92, 67
+  offset: 0, 0
+  index: -1
+front_right_leg_1
+  rotate: false
+  xy: 831, 733
+  size: 122, 286
+  orig: 122, 286
+  offset: 0, 0
+  index: -1
+front_right_leg_2
+  rotate: false
+  xy: 789, 206
+  size: 85, 225
+  orig: 85, 225
+  offset: 0, 0
+  index: -1
+front_right_leg_3
+  rotate: false
+  xy: 888, 432
+  size: 103, 109
+  orig: 103, 109
+  offset: 0, 0
+  index: -1
+shleld_01
+  rotate: false
+  xy: 2, 427
+  size: 296, 592
+  orig: 296, 592
+  offset: 0, 0
+  index: -1
+shleld_02
+  rotate: false
+  xy: 300, 427
+  size: 296, 592
+  orig: 296, 592
+  offset: 0, 0
+  index: -1
+side_face_a
+  rotate: false
+  xy: 971, 342
+  size: 30, 42
+  orig: 30, 42
+  offset: 0, 0
+  index: -1
+side_face_b
+  rotate: false
+  xy: 645, 28
+  size: 29, 43
+  orig: 29, 43
+  offset: 0, 0
+  index: -1
+side_face_c
+  rotate: false
+  xy: 944, 117
+  size: 31, 44
+  orig: 31, 44
+  offset: 0, 0
+  index: -1
+side_face_d
+  rotate: false
+  xy: 971, 386
+  size: 31, 44
+  orig: 31, 44
+  offset: 0, 0
+  index: -1
+side_head
+  rotate: false
+  xy: 888, 543
+  size: 99, 115
+  orig: 99, 115
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 2, 250
+  size: 672, 175
+  orig: 672, 175
+  offset: 0, 0
+  index: -1
+weapon_01
+  rotate: true
+  xy: 1005, 773
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+weapon_02
+  rotate: false
+  xy: 2, 73
+  size: 672, 175
+  orig: 672, 175
+  offset: 0, 0
+  index: -1
+weapon_cc
+  rotate: false
+  xy: 831, 644
+  size: 38, 14
+  orig: 38, 14
+  offset: 0, 0
+  index: -1

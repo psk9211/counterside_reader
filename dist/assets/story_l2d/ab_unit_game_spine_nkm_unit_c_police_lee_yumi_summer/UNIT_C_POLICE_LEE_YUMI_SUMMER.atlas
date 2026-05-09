@@ -1,0 +1,398 @@
+
+UNIT_C_POLICE_LEE_YUMI_SUMMER.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX_SKILL_ANI1
+  rotate: false
+  xy: 158, 2
+  size: 220, 246
+  orig: 220, 246
+  offset: 0, 0
+  index: -1
+FX_SKILL_ANI2
+  rotate: false
+  xy: 372, 671
+  size: 312, 273
+  orig: 312, 273
+  offset: 0, 0
+  index: -1
+FX_SKILL_ANI3
+  rotate: false
+  xy: 689, 247
+  size: 64, 445
+  orig: 64, 445
+  offset: 0, 0
+  index: -1
+back_body_1
+  rotate: false
+  xy: 158, 250
+  size: 212, 324
+  orig: 212, 324
+  offset: 0, 0
+  index: -1
+back_cap_1
+  rotate: true
+  xy: 380, 2
+  size: 242, 113
+  orig: 242, 113
+  offset: 0, 0
+  index: -1
+back_head
+  rotate: false
+  xy: 879, 514
+  size: 92, 100
+  orig: 92, 100
+  offset: 0, 0
+  index: -1
+back_left_leg_1
+  rotate: false
+  xy: 205, 576
+  size: 165, 446
+  orig: 165, 446
+  offset: 0, 0
+  index: -1
+back_right_leg_3
+  rotate: false
+  xy: 57, 11
+  size: 77, 82
+  orig: 77, 82
+  offset: 0, 0
+  index: -1
+front_body_1
+  rotate: false
+  xy: 372, 345
+  size: 212, 324
+  orig: 212, 324
+  offset: 0, 0
+  index: -1
+front_body_2
+  rotate: true
+  xy: 669, 18
+  size: 106, 84
+  orig: 106, 84
+  offset: 0, 0
+  index: -1
+front_body_ribbon_1b
+  rotate: true
+  xy: 468, 246
+  size: 38, 63
+  orig: 38, 63
+  offset: 0, 0
+  index: -1
+front_cap_1
+  rotate: true
+  xy: 669, 126
+  size: 118, 74
+  orig: 118, 74
+  offset: 0, 0
+  index: -1
+front_cap_2
+  rotate: true
+  xy: 495, 2
+  size: 242, 113
+  orig: 242, 113
+  offset: 0, 0
+  index: -1
+front_face_a
+  rotate: false
+  xy: 807, 140
+  size: 78, 52
+  orig: 78, 52
+  offset: 0, 0
+  index: -1
+front_face_a_01
+  rotate: true
+  xy: 866, 194
+  size: 78, 52
+  orig: 78, 52
+  offset: 0, 0
+  index: -1
+front_face_a_02
+  rotate: true
+  xy: 950, 369
+  size: 78, 52
+  orig: 78, 52
+  offset: 0, 0
+  index: -1
+front_face_b
+  rotate: false
+  xy: 874, 279
+  size: 78, 52
+  orig: 78, 52
+  offset: 0, 0
+  index: -1
+front_face_c
+  rotate: true
+  xy: 920, 199
+  size: 78, 52
+  orig: 78, 52
+  offset: 0, 0
+  index: -1
+front_face_d
+  rotate: true
+  xy: 807, 194
+  size: 78, 57
+  orig: 78, 57
+  offset: 0, 0
+  index: -1
+front_face_e
+  rotate: true
+  xy: 954, 289
+  size: 78, 52
+  orig: 78, 52
+  offset: 0, 0
+  index: -1
+front_hair_1
+  rotate: true
+  xy: 879, 616
+  size: 138, 108
+  orig: 138, 108
+  offset: 0, 0
+  index: -1
+front_hair_2
+  rotate: false
+  xy: 745, 134
+  size: 60, 111
+  orig: 60, 111
+  offset: 0, 0
+  index: -1
+front_hair_2_ac
+  rotate: false
+  xy: 876, 376
+  size: 72, 71
+  orig: 72, 71
+  offset: 0, 0
+  index: -1
+front_hair_2b
+  rotate: false
+  xy: 533, 267
+  size: 23, 17
+  orig: 23, 17
+  offset: 0, 0
+  index: -1
+front_hair_4
+  rotate: false
+  xy: 2, 95
+  size: 154, 479
+  orig: 154, 479
+  offset: 0, 0
+  index: -1
+front_head
+  rotate: false
+  xy: 891, 890
+  size: 122, 132
+  orig: 122, 132
+  offset: 0, 0
+  index: -1
+front_left_arm_2
+  rotate: false
+  xy: 372, 286
+  size: 209, 57
+  orig: 209, 57
+  offset: 0, 0
+  index: -1
+front_left_leg_1
+  rotate: false
+  xy: 586, 246
+  size: 101, 423
+  orig: 101, 423
+  offset: 0, 0
+  index: -1
+front_left_leg_3
+  rotate: true
+  xy: 755, 25
+  size: 107, 84
+  orig: 107, 84
+  offset: 0, 0
+  index: -1
+front_outer_1
+  rotate: false
+  xy: 686, 694
+  size: 185, 250
+  orig: 185, 250
+  offset: 0, 0
+  index: -1
+front_outer_2
+  rotate: true
+  xy: 755, 483
+  size: 209, 57
+  orig: 209, 57
+  offset: 0, 0
+  index: -1
+front_outer_ac_3
+  rotate: false
+  xy: 873, 930
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+front_right_arm_2
+  rotate: true
+  xy: 610, 35
+  size: 209, 57
+  orig: 209, 57
+  offset: 0, 0
+  index: -1
+front_right_leg_1
+  rotate: false
+  xy: 2, 576
+  size: 201, 446
+  orig: 201, 446
+  offset: 0, 0
+  index: -1
+front_right_leg_3
+  rotate: true
+  xy: 879, 449
+  size: 63, 93
+  orig: 63, 93
+  offset: 0, 0
+  index: -1
+hand_a
+  rotate: true
+  xy: 841, 45
+  size: 93, 41
+  orig: 93, 41
+  offset: 0, 0
+  index: -1
+hand_b
+  rotate: true
+  xy: 973, 524
+  size: 90, 39
+  orig: 90, 39
+  offset: 0, 0
+  index: -1
+hand_c
+  rotate: true
+  xy: 806, 274
+  size: 82, 66
+  orig: 82, 66
+  offset: 0, 0
+  index: -1
+hand_d1
+  rotate: false
+  xy: 841, 2
+  size: 89, 41
+  orig: 89, 41
+  offset: 0, 0
+  index: -1
+hand_d2
+  rotate: false
+  xy: 814, 450
+  size: 63, 41
+  orig: 63, 41
+  offset: 0, 0
+  index: -1
+hand_e
+  rotate: false
+  xy: 380, 246
+  size: 86, 38
+  orig: 86, 38
+  offset: 0, 0
+  index: -1
+hand_e1
+  rotate: true
+  xy: 974, 453
+  size: 69, 41
+  orig: 69, 41
+  offset: 0, 0
+  index: -1
+hand_e2
+  rotate: true
+  xy: 887, 137
+  size: 55, 41
+  orig: 55, 41
+  offset: 0, 0
+  index: -1
+hand_f
+  rotate: true
+  xy: 2, 2
+  size: 91, 53
+  orig: 91, 53
+  offset: 0, 0
+  index: -1
+hand_g
+  rotate: true
+  xy: 806, 358
+  size: 90, 68
+  orig: 90, 68
+  offset: 0, 0
+  index: -1
+hand_h
+  rotate: true
+  xy: 884, 76
+  size: 59, 50
+  orig: 59, 50
+  offset: 0, 0
+  index: -1
+hand_i
+  rotate: false
+  xy: 876, 333
+  size: 68, 41
+  orig: 68, 41
+  offset: 0, 0
+  index: -1
+side_face_a
+  rotate: false
+  xy: 974, 235
+  size: 41, 52
+  orig: 41, 52
+  offset: 0, 0
+  index: -1
+side_face_b
+  rotate: false
+  xy: 974, 181
+  size: 41, 52
+  orig: 41, 52
+  offset: 0, 0
+  index: -1
+side_face_c
+  rotate: false
+  xy: 936, 34
+  size: 41, 52
+  orig: 41, 52
+  offset: 0, 0
+  index: -1
+side_face_d
+  rotate: false
+  xy: 930, 143
+  size: 40, 54
+  orig: 40, 54
+  offset: 0, 0
+  index: -1
+side_face_e
+  rotate: false
+  xy: 936, 88
+  size: 41, 53
+  orig: 41, 53
+  offset: 0, 0
+  index: -1
+side_head
+  rotate: false
+  xy: 873, 756
+  size: 122, 132
+  orig: 122, 132
+  offset: 0, 0
+  index: -1
+weapon_01
+  rotate: false
+  xy: 814, 493
+  size: 63, 199
+  orig: 63, 199
+  offset: 0, 0
+  index: -1
+weapon_02
+  rotate: false
+  xy: 755, 264
+  size: 49, 217
+  orig: 49, 217
+  offset: 0, 0
+  index: -1
+weapon_03
+  rotate: true
+  xy: 372, 946
+  size: 76, 517
+  orig: 76, 517
+  offset: 0, 0
+  index: -1

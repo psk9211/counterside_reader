@@ -1,0 +1,125 @@
+
+UNIT_M_TIDE_VEHICLE.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX_SHOT_1
+  rotate: false
+  xy: 525, 51
+  size: 71, 73
+  orig: 71, 73
+  offset: 0, 0
+  index: -1
+FX_SHOT_2_1
+  rotate: false
+  xy: 598, 63
+  size: 67, 61
+  orig: 67, 61
+  offset: 0, 0
+  index: -1
+FX_SHOT_2_2
+  rotate: false
+  xy: 865, 571
+  size: 112, 65
+  orig: 112, 65
+  offset: 0, 0
+  index: -1
+FX_SHOT_2_4
+  rotate: false
+  xy: 525, 2
+  size: 83, 47
+  orig: 83, 47
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 159
+  size: 820, 405
+  orig: 820, 405
+  offset: 0, 0
+  index: -1
+body_light
+  rotate: true
+  xy: 865, 638
+  size: 384, 138
+  orig: 384, 138
+  offset: 0, 0
+  index: -1
+damage_body
+  rotate: false
+  xy: 2, 566
+  size: 861, 456
+  orig: 861, 456
+  offset: 0, 0
+  index: -1
+light_1
+  rotate: false
+  xy: 1005, 995
+  size: 17, 27
+  orig: 17, 27
+  offset: 0, 0
+  index: -1
+light_2
+  rotate: false
+  xy: 979, 616
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1
+shell
+  rotate: false
+  xy: 695, 144
+  size: 32, 13
+  orig: 32, 13
+  offset: 0, 0
+  index: -1
+tire
+  rotate: false
+  xy: 2, 2
+  size: 155, 155
+  orig: 155, 155
+  offset: 0, 0
+  index: -1
+tire_b
+  rotate: false
+  xy: 824, 235
+  size: 159, 159
+  orig: 159, 159
+  offset: 0, 0
+  index: -1
+tire_shadow
+  rotate: false
+  xy: 824, 74
+  size: 159, 159
+  orig: 159, 159
+  offset: 0, 0
+  index: -1
+weapon_1
+  rotate: true
+  xy: 824, 396
+  size: 168, 31
+  orig: 168, 31
+  offset: 0, 0
+  index: -1
+weapon_1_light
+  rotate: false
+  xy: 525, 126
+  size: 168, 31
+  orig: 168, 31
+  offset: 0, 0
+  index: -1
+weapon_2
+  rotate: false
+  xy: 159, 12
+  size: 181, 145
+  orig: 181, 145
+  offset: 0, 0
+  index: -1
+weapon_2_light
+  rotate: false
+  xy: 342, 12
+  size: 181, 145
+  orig: 181, 145
+  offset: 0, 0
+  index: -1

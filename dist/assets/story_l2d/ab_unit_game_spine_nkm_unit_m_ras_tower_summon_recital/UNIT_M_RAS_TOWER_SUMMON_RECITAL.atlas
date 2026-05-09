@@ -1,0 +1,167 @@
+
+UNIT_M_RAS_TOWER_SUMMON_RECITAL.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_1
+  rotate: false
+  xy: 562, 15
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+arm_2
+  rotate: true
+  xy: 277, 214
+  size: 34, 314
+  orig: 34, 314
+  offset: 0, 0
+  index: -1
+blur
+  rotate: false
+  xy: 365, 16
+  size: 71, 72
+  orig: 71, 72
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 308
+  size: 556, 122
+  orig: 556, 122
+  offset: 0, 0
+  index: -1
+body_ac
+  rotate: true
+  xy: 277, 90
+  size: 122, 159
+  orig: 122, 159
+  offset: 0, 0
+  index: -1
+box
+  rotate: false
+  xy: 277, 2
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+box_text
+  rotate: false
+  xy: 142, 59
+  size: 80, 18
+  orig: 80, 18
+  offset: 0, 0
+  index: -1
+cap_1
+  rotate: false
+  xy: 2, 79
+  size: 273, 227
+  orig: 273, 227
+  offset: 0, 0
+  index: -1
+cap_2
+  rotate: true
+  xy: 2, 2
+  size: 28, 61
+  orig: 28, 61
+  offset: 0, 0
+  index: -1
+cap_3
+  rotate: false
+  xy: 800, 729
+  size: 214, 293
+  orig: 214, 293
+  offset: 0, 0
+  index: -1
+damage_arm_2
+  rotate: true
+  xy: 277, 250
+  size: 56, 398
+  orig: 56, 398
+  offset: 0, 0
+  index: -1
+damage_head
+  rotate: true
+  xy: 560, 406
+  size: 616, 238
+  orig: 616, 238
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 593, 228
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+face_glitch
+  rotate: false
+  xy: 2, 32
+  size: 138, 45
+  orig: 138, 45
+  offset: 0, 0
+  index: -1
+face_mark_a
+  rotate: false
+  xy: 438, 102
+  size: 128, 110
+  orig: 128, 110
+  offset: 0, 0
+  index: -1
+face_mark_b
+  rotate: false
+  xy: 560, 308
+  size: 122, 96
+  orig: 122, 96
+  offset: 0, 0
+  index: -1
+face_mark_c
+  rotate: false
+  xy: 438, 2
+  size: 122, 98
+  orig: 122, 98
+  offset: 0, 0
+  index: -1
+fx_hud_a
+  rotate: false
+  xy: 142, 15
+  size: 49, 42
+  orig: 49, 42
+  offset: 0, 0
+  index: -1
+hand_cymbals
+  rotate: false
+  xy: 684, 68
+  size: 323, 323
+  orig: 323, 323
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 432
+  size: 556, 590
+  orig: 556, 590
+  offset: 0, 0
+  index: -1
+mouth_a
+  rotate: true
+  xy: 800, 393
+  size: 334, 106
+  orig: 334, 106
+  offset: 0, 0
+  index: -1
+mouth_b
+  rotate: true
+  xy: 908, 393
+  size: 334, 106
+  orig: 334, 106
+  offset: 0, 0
+  index: -1
+wheel
+  rotate: true
+  xy: 568, 94
+  size: 118, 76
+  orig: 118, 76
+  offset: 0, 0
+  index: -1

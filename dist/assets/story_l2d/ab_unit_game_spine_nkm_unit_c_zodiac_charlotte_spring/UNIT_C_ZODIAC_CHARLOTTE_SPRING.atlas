@@ -1,0 +1,286 @@
+
+UNIT_C_ZODIAC_CHARLOTTE_SPRING.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back_body_80
+  rotate: false
+  xy: 364, 617
+  size: 303, 403
+  orig: 303, 403
+  offset: 0, 0
+  index: -1
+back_jacket_1
+  rotate: false
+  xy: 422, 335
+  size: 219, 280
+  orig: 219, 280
+  offset: 0, 0
+  index: -1
+back_jacket_1_arm2
+  rotate: true
+  xy: 2, 73
+  size: 110, 259
+  orig: 110, 259
+  offset: 0, 0
+  index: -1
+front_body
+  rotate: false
+  xy: 2, 185
+  size: 336, 418
+  orig: 336, 418
+  offset: 0, 0
+  index: -1
+front_body_back
+  rotate: true
+  xy: 643, 335
+  size: 212, 280
+  orig: 212, 280
+  offset: 0, 0
+  index: -1
+front_hair_2
+  rotate: true
+  xy: 596, 20
+  size: 34, 78
+  orig: 34, 78
+  offset: 0, 0
+  index: -1
+front_hair_back
+  rotate: false
+  xy: 2, 605
+  size: 360, 415
+  orig: 360, 415
+  offset: 0, 0
+  index: -1
+front_hair_side_1
+  rotate: false
+  xy: 982, 912
+  size: 36, 108
+  orig: 36, 108
+  offset: 0, 0
+  index: -1
+front_hair_side_2
+  rotate: false
+  xy: 982, 802
+  size: 29, 108
+  orig: 29, 108
+  offset: 0, 0
+  index: -1
+front_jacket_1
+  rotate: true
+  xy: 422, 168
+  size: 90, 273
+  orig: 90, 273
+  offset: 0, 0
+  index: -1
+front_jacket_1_arm
+  rotate: true
+  xy: 530, 56
+  size: 110, 259
+  orig: 110, 259
+  offset: 0, 0
+  index: -1
+front_jacket_2_arm
+  rotate: true
+  xy: 263, 64
+  size: 102, 265
+  orig: 102, 265
+  offset: 0, 0
+  index: -1
+front_left_arm_1
+  rotate: false
+  xy: 2, 14
+  size: 236, 57
+  orig: 236, 57
+  offset: 0, 0
+  index: -1
+front_left_foot
+  rotate: false
+  xy: 697, 195
+  size: 79, 63
+  orig: 79, 63
+  offset: 0, 0
+  index: -1
+front_left_leg_1
+  rotate: false
+  xy: 340, 188
+  size: 80, 415
+  orig: 80, 415
+  offset: 0, 0
+  index: -1
+front_ribbon_1
+  rotate: true
+  xy: 982, 542
+  size: 69, 34
+  orig: 69, 34
+  offset: 0, 0
+  index: -1
+front_ribbon_2
+  rotate: false
+  xy: 982, 692
+  size: 29, 108
+  orig: 29, 108
+  offset: 0, 0
+  index: -1
+front_ribbon_3
+  rotate: true
+  xy: 417, 2
+  size: 60, 102
+  orig: 60, 102
+  offset: 0, 0
+  index: -1
+front_right_arm_1
+  rotate: true
+  xy: 925, 342
+  size: 233, 55
+  orig: 233, 55
+  offset: 0, 0
+  index: -1
+front_right_foot1
+  rotate: true
+  xy: 521, 8
+  size: 46, 73
+  orig: 46, 73
+  offset: 0, 0
+  index: -1
+front_right_leg_1
+  rotate: false
+  xy: 669, 549
+  size: 208, 471
+  orig: 208, 471
+  offset: 0, 0
+  index: -1
+hand_a
+  rotate: false
+  xy: 676, 20
+  size: 78, 34
+  orig: 78, 34
+  offset: 0, 0
+  index: -1
+hand_b
+  rotate: true
+  xy: 982, 613
+  size: 77, 33
+  orig: 77, 33
+  offset: 0, 0
+  index: -1
+hand_c
+  rotate: true
+  xy: 982, 482
+  size: 58, 34
+  orig: 58, 34
+  offset: 0, 0
+  index: -1
+hand_d
+  rotate: true
+  xy: 982, 422
+  size: 58, 31
+  orig: 58, 31
+  offset: 0, 0
+  index: -1
+side_face_a_01
+  rotate: false
+  xy: 756, 20
+  size: 30, 34
+  orig: 30, 34
+  offset: 0, 0
+  index: -1
+side_face_a_02
+  rotate: false
+  xy: 982, 386
+  size: 30, 34
+  orig: 30, 34
+  offset: 0, 0
+  index: -1
+side_face_a_03
+  rotate: false
+  xy: 982, 350
+  size: 30, 34
+  orig: 30, 34
+  offset: 0, 0
+  index: -1
+side_face_a_04
+  rotate: true
+  xy: 788, 21
+  size: 30, 34
+  orig: 30, 34
+  offset: 0, 0
+  index: -1
+side_face_c_01
+  rotate: false
+  xy: 899, 142
+  size: 37, 34
+  orig: 37, 34
+  offset: 0, 0
+  index: -1
+side_haed
+  rotate: true
+  xy: 798, 227
+  size: 106, 123
+  orig: 106, 123
+  offset: 0, 0
+  index: -1
+side_hair
+  rotate: false
+  xy: 791, 132
+  size: 106, 93
+  orig: 106, 93
+  offset: 0, 0
+  index: -1
+side_mouth_a
+  rotate: false
+  xy: 240, 64
+  size: 18, 7
+  orig: 18, 7
+  offset: 0, 0
+  index: -1
+side_mouth_b
+  rotate: false
+  xy: 778, 244
+  size: 18, 14
+  orig: 18, 14
+  offset: 0, 0
+  index: -1
+side_mouth_c
+  rotate: true
+  xy: 1013, 891
+  size: 19, 9
+  orig: 19, 9
+  offset: 0, 0
+  index: -1
+weapon_a_01
+  rotate: true
+  xy: 791, 53
+  size: 77, 101
+  orig: 77, 101
+  offset: 0, 0
+  index: -1
+weapon_a_02
+  rotate: true
+  xy: 240, 13
+  size: 49, 175
+  orig: 49, 175
+  offset: 0, 0
+  index: -1
+weapon_a_03
+  rotate: true
+  xy: 422, 260
+  size: 73, 374
+  orig: 73, 374
+  offset: 0, 0
+  index: -1
+weapon_a_04
+  rotate: false
+  xy: 879, 577
+  size: 101, 443
+  orig: 101, 443
+  offset: 0, 0
+  index: -1
+weapon_a_06
+  rotate: true
+  xy: 899, 178
+  size: 47, 42
+  orig: 47, 42
+  offset: 0, 0
+  index: -1

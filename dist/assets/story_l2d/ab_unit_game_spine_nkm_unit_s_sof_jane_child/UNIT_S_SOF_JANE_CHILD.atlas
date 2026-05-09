@@ -1,0 +1,286 @@
+
+UNIT_S_SOF_JANE_CHILD.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: false
+  xy: 670, 402
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+back_head
+  rotate: false
+  xy: 802, 572
+  size: 131, 162
+  orig: 131, 162
+  offset: 0, 0
+  index: -1
+back_jacket_1
+  rotate: true
+  xy: 421, 5
+  size: 181, 196
+  orig: 181, 196
+  offset: 0, 0
+  index: -1
+back_right_leg_3
+  rotate: false
+  xy: 772, 99
+  size: 75, 90
+  orig: 75, 90
+  offset: 0, 0
+  index: -1
+front_belt_a
+  rotate: true
+  xy: 872, 240
+  size: 157, 85
+  orig: 157, 85
+  offset: 0, 0
+  index: -1
+front_body_1
+  rotate: false
+  xy: 0, 269
+  size: 231, 755
+  orig: 231, 755
+  offset: 0, 0
+  index: -1
+front_body_2
+  rotate: false
+  xy: 231, 269
+  size: 231, 755
+  orig: 231, 755
+  offset: 0, 0
+  index: -1
+front_body_3
+  rotate: false
+  xy: 462, 186
+  size: 219, 150
+  orig: 219, 150
+  offset: 0, 0
+  index: -1
+front_body_ac_1
+  rotate: true
+  xy: 670, 418
+  size: 44, 114
+  orig: 44, 114
+  offset: 0, 0
+  index: -1
+front_coat_1
+  rotate: true
+  xy: 0, 92
+  size: 177, 421
+  orig: 177, 421
+  offset: 0, 0
+  index: -1
+front_coat_2
+  rotate: false
+  xy: 672, 607
+  size: 130, 417
+  orig: 130, 417
+  offset: 0, 0
+  index: -1
+front_coat_right_arm_1
+  rotate: true
+  xy: 802, 734
+  size: 290, 116
+  orig: 290, 116
+  offset: 0, 0
+  index: -1
+front_face_a
+  rotate: false
+  xy: 872, 190
+  size: 108, 50
+  orig: 108, 50
+  offset: 0, 0
+  index: -1
+front_face_b
+  rotate: true
+  xy: 847, 81
+  size: 108, 50
+  orig: 108, 50
+  offset: 0, 0
+  index: -1
+front_face_b_01
+  rotate: false
+  xy: 670, 397
+  size: 17, 5
+  orig: 17, 5
+  offset: 0, 0
+  index: -1
+front_face_b_02
+  rotate: true
+  xy: 310, 0
+  size: 21, 14
+  orig: 21, 14
+  offset: 0, 0
+  index: -1
+front_face_c
+  rotate: false
+  xy: 421, 222
+  size: 41, 47
+  orig: 41, 47
+  offset: 0, 0
+  index: -1
+front_hair_1
+  rotate: true
+  xy: 672, 462
+  size: 145, 124
+  orig: 145, 124
+  offset: 0, 0
+  index: -1
+front_hair_2
+  rotate: false
+  xy: 933, 649
+  size: 32, 120
+  orig: 32, 120
+  offset: 0, 0
+  index: -1
+front_hair_3
+  rotate: false
+  xy: 462, 336
+  size: 208, 191
+  orig: 208, 191
+  offset: 0, 0
+  index: -1
+front_hair_4
+  rotate: true
+  xy: 122, 11
+  size: 81, 188
+  orig: 81, 188
+  offset: 0, 0
+  index: -1
+front_head
+  rotate: false
+  xy: 617, 8
+  size: 155, 178
+  orig: 155, 178
+  offset: 0, 0
+  index: -1
+front_head_b
+  rotate: false
+  xy: 796, 397
+  size: 159, 175
+  orig: 159, 175
+  offset: 0, 0
+  index: -1
+front_jacket_1
+  rotate: false
+  xy: 681, 189
+  size: 191, 208
+  orig: 191, 208
+  offset: 0, 0
+  index: -1
+front_left_leg_1b
+  rotate: false
+  xy: 462, 527
+  size: 105, 497
+  orig: 105, 497
+  offset: 0, 0
+  index: -1
+front_left_leg_2b
+  rotate: false
+  xy: 567, 527
+  size: 105, 497
+  orig: 105, 497
+  offset: 0, 0
+  index: -1
+front_left_leg_3
+  rotate: false
+  xy: 0, 0
+  size: 122, 92
+  orig: 122, 92
+  offset: 0, 0
+  index: -1
+front_radio
+  rotate: false
+  xy: 933, 576
+  size: 38, 73
+  orig: 38, 73
+  offset: 0, 0
+  index: -1
+front_right_arm_1_ac
+  rotate: false
+  xy: 772, 31
+  size: 73, 68
+  orig: 73, 68
+  offset: 0, 0
+  index: -1
+front_right_arm_2
+  rotate: true
+  xy: 918, 769
+  size: 255, 49
+  orig: 255, 49
+  offset: 0, 0
+  index: -1
+front_right_leg_2C
+  rotate: false
+  xy: 421, 187
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+front_right_leg_3
+  rotate: true
+  xy: 310, 21
+  size: 71, 98
+  orig: 71, 98
+  offset: 0, 0
+  index: -1
+hand_a
+  rotate: true
+  xy: 938, 112
+  size: 78, 49
+  orig: 78, 49
+  offset: 0, 0
+  index: -1
+hand_d1
+  rotate: true
+  xy: 897, 100
+  size: 90, 41
+  orig: 90, 41
+  offset: 0, 0
+  index: -1
+hand_d2
+  rotate: false
+  xy: 967, 788
+  size: 57, 42
+  orig: 57, 42
+  offset: 0, 0
+  index: -1
+hand_e1
+  rotate: true
+  xy: 955, 505
+  size: 71, 43
+  orig: 71, 43
+  offset: 0, 0
+  index: -1
+hand_e2
+  rotate: true
+  xy: 955, 451
+  size: 54, 45
+  orig: 54, 45
+  offset: 0, 0
+  index: -1
+hand_f
+  rotate: false
+  xy: 845, 32
+  size: 78, 49
+  orig: 78, 49
+  offset: 0, 0
+  index: -1
+side_hair_3
+  rotate: false
+  xy: 122, 1
+  size: 162, 10
+  orig: 162, 10
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 967, 830
+  size: 56, 194
+  orig: 56, 194
+  offset: 0, 0
+  index: -1

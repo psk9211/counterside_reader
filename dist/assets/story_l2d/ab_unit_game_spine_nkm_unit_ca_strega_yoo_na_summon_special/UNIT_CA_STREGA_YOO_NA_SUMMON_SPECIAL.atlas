@@ -1,0 +1,90 @@
+
+UNIT_CA_STREGA_YOO_NA_SUMMON_SPECIAL.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 1, 237
+  size: 273, 272
+  orig: 273, 272
+  offset: 0, 0
+  index: -1
+eye1
+  rotate: true
+  xy: 251, 195
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: -1
+foot
+  rotate: false
+  xy: 466, 462
+  size: 35, 47
+  orig: 36, 47
+  offset: 0, 0
+  index: -1
+foot_02
+  rotate: false
+  xy: 251, 212
+  size: 17, 24
+  orig: 22, 30
+  offset: 2, 4
+  index: -1
+head
+  rotate: true
+  xy: 1, 27
+  size: 209, 186
+  orig: 209, 187
+  offset: 0, 1
+  index: -1
+head_05
+  rotate: false
+  xy: 415, 458
+  size: 49, 51
+  orig: 50, 52
+  offset: 0, 1
+  index: -1
+head_parts
+  rotate: false
+  xy: 188, 156
+  size: 62, 80
+  orig: 62, 80
+  offset: 0, 0
+  index: -1
+head_shadow
+  rotate: true
+  xy: 415, 314
+  size: 143, 86
+  orig: 143, 86
+  offset: 0, 0
+  index: -1
+leg
+  rotate: true
+  xy: 251, 187
+  size: 7, 21
+  orig: 8, 25
+  offset: 0, 3
+  index: -1
+mouth
+  rotate: false
+  xy: 1, 2
+  size: 45, 24
+  orig: 45, 25
+  offset: 0, 1
+  index: -1
+tail
+  rotate: false
+  xy: 188, 1
+  size: 277, 151
+  orig: 278, 155
+  offset: 0, 4
+  index: -1
+wing
+  rotate: true
+  xy: 275, 153
+  size: 356, 139
+  orig: 357, 140
+  offset: 0, 1
+  index: -1

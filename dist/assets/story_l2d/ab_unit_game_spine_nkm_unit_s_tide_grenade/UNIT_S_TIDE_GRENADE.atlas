@@ -1,0 +1,265 @@
+
+UNIT_S_TIDE_GRENADE.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_bag_1
+  rotate: true
+  xy: 775, 935
+  size: 77, 239
+  orig: 77, 239
+  offset: 0, 0
+  index: -1
+front_body
+  rotate: false
+  xy: 2, 555
+  size: 229, 266
+  orig: 229, 266
+  offset: 0, 0
+  index: -1
+front_body_2
+  rotate: false
+  xy: 456, 630
+  size: 165, 120
+  orig: 165, 120
+  offset: 0, 0
+  index: -1
+front_body_2_ac_1
+  rotate: false
+  xy: 233, 631
+  size: 221, 190
+  orig: 221, 190
+  offset: 0, 0
+  index: -1
+front_body_2_ac_1a
+  rotate: true
+  xy: 260, 105
+  size: 50, 114
+  orig: 50, 114
+  offset: 0, 0
+  index: -1
+front_body_2_ac_1b
+  rotate: true
+  xy: 383, 296
+  size: 83, 114
+  orig: 83, 114
+  offset: 0, 0
+  index: -1
+front_body_ac
+  rotate: false
+  xy: 918, 782
+  size: 60, 72
+  orig: 60, 72
+  offset: 0, 0
+  index: -1
+front_body_ac_1
+  rotate: true
+  xy: 746, 754
+  size: 94, 80
+  orig: 94, 80
+  offset: 0, 0
+  index: -1
+front_body_ac_1a
+  rotate: true
+  xy: 257, 245
+  size: 27, 125
+  orig: 27, 125
+  offset: 0, 0
+  index: -1
+front_body_ac_1b
+  rotate: true
+  xy: 383, 278
+  size: 16, 108
+  orig: 16, 108
+  offset: 0, 0
+  index: -1
+front_body_top
+  rotate: false
+  xy: 257, 420
+  size: 133, 147
+  orig: 133, 147
+  offset: 0, 0
+  index: -1
+front_head
+  rotate: false
+  xy: 257, 274
+  size: 124, 144
+  orig: 124, 144
+  offset: 0, 0
+  index: -1
+front_left_arm_1
+  rotate: false
+  xy: 775, 856
+  size: 203, 77
+  orig: 203, 77
+  offset: 0, 0
+  index: -1
+front_left_arm_2
+  rotate: false
+  xy: 444, 545
+  size: 196, 83
+  orig: 196, 83
+  offset: 0, 0
+  index: -1
+front_left_arm_2_ac_1
+  rotate: false
+  xy: 499, 293
+  size: 96, 86
+  orig: 96, 86
+  offset: 0, 0
+  index: -1
+front_left_arm_2_ac_2
+  rotate: true
+  xy: 357, 157
+  size: 86, 77
+  orig: 86, 77
+  offset: 0, 0
+  index: -1
+front_left_leg_1
+  rotate: false
+  xy: 141, 243
+  size: 114, 310
+  orig: 114, 310
+  offset: 0, 0
+  index: -1
+front_left_leg_2
+  rotate: true
+  xy: 470, 752
+  size: 96, 274
+  orig: 96, 274
+  offset: 0, 0
+  index: -1
+front_left_leg_3
+  rotate: false
+  xy: 623, 636
+  size: 131, 114
+  orig: 131, 114
+  offset: 0, 0
+  index: -1
+front_left_leg_ac_2
+  rotate: true
+  xy: 233, 569
+  size: 60, 209
+  orig: 60, 209
+  offset: 0, 0
+  index: -1
+front_right_arm_1
+  rotate: false
+  xy: 392, 466
+  size: 203, 77
+  orig: 203, 77
+  offset: 0, 0
+  index: -1
+front_right_arm_1_ac_1
+  rotate: false
+  xy: 828, 777
+  size: 88, 77
+  orig: 88, 77
+  offset: 0, 0
+  index: -1
+front_right_arm_1_ac_2
+  rotate: false
+  xy: 260, 157
+  size: 95, 86
+  orig: 95, 86
+  offset: 0, 0
+  index: -1
+front_right_arm_1_ac_3
+  rotate: true
+  xy: 980, 844
+  size: 89, 30
+  orig: 89, 30
+  offset: 0, 0
+  index: -1
+front_right_arm_2
+  rotate: false
+  xy: 392, 381
+  size: 196, 83
+  orig: 196, 83
+  offset: 0, 0
+  index: -1
+front_right_arm_2_ac
+  rotate: true
+  xy: 81, 79
+  size: 184, 40
+  orig: 184, 40
+  offset: 0, 0
+  index: -1
+front_right_leg_1
+  rotate: true
+  xy: 470, 850
+  size: 162, 303
+  orig: 162, 303
+  offset: 0, 0
+  index: -1
+front_right_leg_2
+  rotate: false
+  xy: 2, 265
+  size: 137, 288
+  orig: 137, 288
+  offset: 0, 0
+  index: -1
+front_right_leg_3
+  rotate: false
+  xy: 123, 129
+  size: 73, 112
+  orig: 73, 112
+  offset: 0, 0
+  index: -1
+front_right_leg_ac_1
+  rotate: true
+  xy: 642, 546
+  size: 88, 113
+  orig: 88, 113
+  offset: 0, 0
+  index: -1
+front_right_leg_ac_2
+  rotate: false
+  xy: 2, 37
+  size: 77, 226
+  orig: 77, 226
+  offset: 0, 0
+  index: -1
+hand_a
+  rotate: true
+  xy: 198, 124
+  size: 117, 60
+  orig: 117, 60
+  offset: 0, 0
+  index: -1
+hand_b2
+  rotate: false
+  xy: 123, 68
+  size: 68, 59
+  orig: 68, 59
+  offset: 0, 0
+  index: -1
+hand_c
+  rotate: true
+  xy: 756, 659
+  size: 93, 55
+  orig: 93, 55
+  offset: 0, 0
+  index: -1
+wapon1
+  rotate: false
+  xy: 2, 823
+  size: 466, 189
+  orig: 466, 189
+  offset: 0, 0
+  index: -1
+wapon2
+  rotate: false
+  xy: 2, 2
+  size: 79, 33
+  orig: 79, 33
+  offset: 0, 0
+  index: -1
+wapon3
+  rotate: true
+  xy: 384, 260
+  size: 16, 98
+  orig: 16, 98
+  offset: 0, 0
+  index: -1

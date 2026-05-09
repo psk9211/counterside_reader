@@ -1,0 +1,139 @@
+
+UNIT_M_FOX_VEHICLE.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX_SHOT_1
+  rotate: false
+  xy: 227, 41
+  size: 58, 60
+  orig: 58, 60
+  offset: 0, 0
+  index: -1
+FX_SHOT_2_1
+  rotate: true
+  xy: 793, 125
+  size: 55, 50
+  orig: 55, 50
+  offset: 0, 0
+  index: -1
+FX_SHOT_2_2
+  rotate: false
+  xy: 660, 17
+  size: 92, 53
+  orig: 92, 53
+  offset: 0, 0
+  index: -1
+FX_SHOT_2_4
+  rotate: true
+  xy: 754, 2
+  size: 68, 39
+  orig: 68, 39
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 182
+  size: 839, 324
+  orig: 839, 324
+  offset: 0, 0
+  index: -1
+body_antenna
+  rotate: false
+  xy: 1009, 989
+  size: 10, 33
+  orig: 10, 33
+  offset: 0, 0
+  index: -1
+body_light
+  rotate: false
+  xy: 112, 26
+  size: 113, 75
+  orig: 113, 75
+  offset: 0, 0
+  index: -1
+damage_ac
+  rotate: true
+  xy: 845, 753
+  size: 269, 162
+  orig: 269, 162
+  offset: 0, 0
+  index: -1
+damage_body
+  rotate: false
+  xy: 2, 508
+  size: 841, 514
+  orig: 841, 514
+  offset: 0, 0
+  index: -1
+shell
+  rotate: false
+  xy: 112, 13
+  size: 26, 11
+  orig: 26, 11
+  offset: 0, 0
+  index: -1
+tire
+  rotate: false
+  xy: 326, 15
+  size: 165, 165
+  orig: 165, 165
+  offset: 0, 0
+  index: -1
+tire_b
+  rotate: false
+  xy: 793, 72
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+tire_rotation
+  rotate: false
+  xy: 493, 15
+  size: 165, 165
+  orig: 165, 165
+  offset: 0, 0
+  index: -1
+tire_shadow
+  rotate: false
+  xy: 845, 581
+  size: 170, 170
+  orig: 170, 170
+  offset: 0, 0
+  index: -1
+weapon_1
+  rotate: false
+  xy: 2, 103
+  size: 322, 77
+  orig: 322, 77
+  offset: 0, 0
+  index: -1
+weapon_1_light
+  rotate: false
+  xy: 845, 541
+  size: 112, 38
+  orig: 112, 38
+  offset: 0, 0
+  index: -1
+weapon_2
+  rotate: false
+  xy: 660, 72
+  size: 131, 108
+  orig: 131, 108
+  offset: 0, 0
+  index: -1
+weapon_3
+  rotate: true
+  xy: 2, 8
+  size: 93, 108
+  orig: 93, 108
+  offset: 0, 0
+  index: -1
+weapon_3_light
+  rotate: false
+  xy: 795, 17
+  size: 44, 53
+  orig: 44, 53
+  offset: 0, 0
+  index: -1

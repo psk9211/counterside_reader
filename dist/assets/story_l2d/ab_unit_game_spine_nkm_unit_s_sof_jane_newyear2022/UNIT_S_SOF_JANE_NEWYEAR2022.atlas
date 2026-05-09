@@ -1,0 +1,251 @@
+
+UNIT_S_SOF_JANE_NEWYEAR2022.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back_body_1
+  rotate: false
+  xy: 0, 311
+  size: 159, 713
+  orig: 159, 713
+  offset: 0, 0
+  index: -1
+back_body_2
+  rotate: false
+  xy: 159, 200
+  size: 144, 113
+  orig: 144, 113
+  offset: 0, 0
+  index: -1
+back_body_dress_2
+  rotate: false
+  xy: 894, 508
+  size: 106, 516
+  orig: 106, 516
+  offset: 0, 0
+  index: -1
+back_body_dress_3
+  rotate: false
+  xy: 598, 508
+  size: 144, 516
+  orig: 144, 516
+  offset: 0, 0
+  index: -1
+back_right_leg_1
+  rotate: false
+  xy: 742, 520
+  size: 152, 504
+  orig: 152, 504
+  offset: 0, 0
+  index: -1
+back_right_leg_3
+  rotate: false
+  xy: 279, 56
+  size: 57, 89
+  orig: 57, 89
+  offset: 0, 0
+  index: -1
+common_arm_ac
+  rotate: false
+  xy: 0, 3
+  size: 109, 308
+  orig: 109, 308
+  offset: 0, 0
+  index: -1
+front_body_1
+  rotate: false
+  xy: 159, 313
+  size: 147, 711
+  orig: 147, 711
+  offset: 0, 0
+  index: -1
+front_body_2
+  rotate: false
+  xy: 303, 145
+  size: 140, 113
+  orig: 140, 113
+  offset: 0, 0
+  index: -1
+front_body_ac
+  rotate: false
+  xy: 303, 18
+  size: 27, 38
+  orig: 27, 38
+  offset: 0, 0
+  index: -1
+front_body_dress_2
+  rotate: false
+  xy: 306, 506
+  size: 146, 518
+  orig: 146, 518
+  offset: 0, 0
+  index: -1
+front_body_dress_3
+  rotate: false
+  xy: 452, 506
+  size: 146, 518
+  orig: 146, 518
+  offset: 0, 0
+  index: -1
+front_breast
+  rotate: true
+  xy: 931, 389
+  size: 119, 86
+  orig: 119, 86
+  offset: 0, 0
+  index: -1
+front_face_a
+  rotate: true
+  xy: 770, 184
+  size: 74, 43
+  orig: 74, 43
+  offset: 0, 0
+  index: -1
+front_face_b_01
+  rotate: false
+  xy: 158, 56
+  size: 17, 5
+  orig: 17, 5
+  offset: 0, 0
+  index: -1
+front_face_b_02
+  rotate: true
+  xy: 1010, 1003
+  size: 21, 14
+  orig: 21, 14
+  offset: 0, 0
+  index: -1
+front_face_c
+  rotate: false
+  xy: 877, 332
+  size: 35, 36
+  orig: 35, 36
+  offset: 0, 0
+  index: -1
+front_hair_1
+  rotate: false
+  xy: 158, 61
+  size: 121, 139
+  orig: 121, 139
+  offset: 0, 0
+  index: -1
+front_hair_2
+  rotate: true
+  xy: 428, 103
+  size: 32, 120
+  orig: 32, 120
+  offset: 0, 0
+  index: -1
+front_hair_3
+  rotate: false
+  xy: 580, 142
+  size: 100, 116
+  orig: 100, 116
+  offset: 0, 0
+  index: -1
+front_head
+  rotate: true
+  xy: 443, 135
+  size: 123, 137
+  orig: 123, 137
+  offset: 0, 0
+  index: -1
+front_head_b
+  rotate: false
+  xy: 810, 368
+  size: 121, 140
+  orig: 121, 140
+  offset: 0, 0
+  index: -1
+front_head_earring
+  rotate: false
+  xy: 279, 160
+  size: 16, 40
+  orig: 16, 40
+  offset: 0, 0
+  index: -1
+front_left_leg_1b
+  rotate: true
+  xy: 306, 258
+  size: 96, 502
+  orig: 96, 502
+  offset: 0, 0
+  index: -1
+front_left_leg_3
+  rotate: false
+  xy: 680, 177
+  size: 90, 81
+  orig: 90, 81
+  offset: 0, 0
+  index: -1
+front_right_arm_2
+  rotate: true
+  xy: 109, 56
+  size: 255, 49
+  orig: 255, 49
+  offset: 0, 0
+  index: -1
+front_right_leg_1a
+  rotate: true
+  xy: 306, 354
+  size: 152, 504
+  orig: 152, 504
+  offset: 0, 0
+  index: -1
+front_right_leg_3
+  rotate: true
+  xy: 336, 96
+  size: 49, 92
+  orig: 49, 92
+  offset: 0, 0
+  index: -1
+hand_d1
+  rotate: false
+  xy: 336, 55
+  size: 90, 41
+  orig: 90, 41
+  offset: 0, 0
+  index: -1
+hand_d2
+  rotate: false
+  xy: 808, 284
+  size: 57, 42
+  orig: 57, 42
+  offset: 0, 0
+  index: -1
+hand_e1
+  rotate: false
+  xy: 680, 134
+  size: 71, 43
+  orig: 71, 43
+  offset: 0, 0
+  index: -1
+hand_e2
+  rotate: false
+  xy: 931, 344
+  size: 71, 45
+  orig: 71, 45
+  offset: 0, 0
+  index: -1
+hand_f
+  rotate: false
+  xy: 810, 326
+  size: 67, 42
+  orig: 67, 42
+  offset: 0, 0
+  index: -1
+side_hair_3
+  rotate: true
+  xy: 1000, 862
+  size: 162, 10
+  orig: 162, 10
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: true
+  xy: 109, 0
+  size: 56, 194
+  orig: 56, 194
+  offset: 0, 0
+  index: -1

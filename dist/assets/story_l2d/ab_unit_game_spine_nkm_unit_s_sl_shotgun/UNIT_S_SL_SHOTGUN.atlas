@@ -1,0 +1,223 @@
+
+UNIT_S_SL_SHOTGUN.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+front_body_1
+  rotate: false
+  xy: 2, 135
+  size: 133, 209
+  orig: 133, 209
+  offset: 0, 0
+  index: -1
+front_body_1_fx
+  rotate: true
+  xy: 467, 207
+  size: 13, 30
+  orig: 13, 30
+  offset: 0, 0
+  index: -1
+front_body_1b
+  rotate: false
+  xy: 352, 293
+  size: 103, 64
+  orig: 103, 64
+  offset: 0, 0
+  index: -1
+front_body_2
+  rotate: false
+  xy: 2, 2
+  size: 113, 131
+  orig: 113, 131
+  offset: 0, 0
+  index: -1
+front_head
+  rotate: true
+  xy: 352, 212
+  size: 79, 83
+  orig: 79, 83
+  offset: 0, 0
+  index: -1
+front_head_fx
+  rotate: false
+  xy: 424, 52
+  size: 25, 17
+  orig: 25, 17
+  offset: 0, 0
+  index: -1
+front_head_light
+  rotate: false
+  xy: 350, 127
+  size: 79, 83
+  orig: 79, 83
+  offset: 0, 0
+  index: -1
+front_left_arm_1
+  rotate: true
+  xy: 161, 39
+  size: 116, 49
+  orig: 116, 49
+  offset: 0, 0
+  index: -1
+front_left_arm_2
+  rotate: true
+  xy: 308, 222
+  size: 122, 42
+  orig: 122, 42
+  offset: 0, 0
+  index: -1
+front_left_arm_2_ac
+  rotate: false
+  xy: 161, 5
+  size: 49, 32
+  orig: 49, 32
+  offset: 0, 0
+  index: -1
+front_left_arm_2_light
+  rotate: true
+  xy: 117, 11
+  size: 122, 42
+  orig: 122, 42
+  offset: 0, 0
+  index: -1
+front_left_arm_3
+  rotate: true
+  xy: 467, 239
+  size: 54, 32
+  orig: 54, 32
+  offset: 0, 0
+  index: -1
+front_left_arm_3_light
+  rotate: true
+  xy: 421, 71
+  size: 54, 32
+  orig: 54, 32
+  offset: 0, 0
+  index: -1
+front_left_leg_1
+  rotate: false
+  xy: 137, 157
+  size: 96, 187
+  orig: 96, 187
+  offset: 0, 0
+  index: -1
+front_left_leg_2
+  rotate: true
+  xy: 330, 428
+  size: 82, 172
+  orig: 82, 172
+  offset: 0, 0
+  index: -1
+front_left_leg_3
+  rotate: false
+  xy: 457, 295
+  size: 44, 62
+  orig: 44, 62
+  offset: 0, 0
+  index: -1
+front_left_leg_ac
+  rotate: true
+  xy: 360, 8
+  size: 54, 62
+  orig: 54, 62
+  offset: 0, 0
+  index: -1
+front_right_arm_1
+  rotate: true
+  xy: 300, 47
+  size: 109, 48
+  orig: 109, 48
+  offset: 0, 0
+  index: -1
+front_right_arm_2
+  rotate: true
+  xy: 212, 33
+  size: 122, 42
+  orig: 122, 42
+  offset: 0, 0
+  index: -1
+front_right_arm_2_light
+  rotate: true
+  xy: 256, 34
+  size: 122, 42
+  orig: 122, 42
+  offset: 0, 0
+  index: -1
+front_right_arm_3a
+  rotate: false
+  xy: 212, 3
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1
+front_right_arm_3b
+  rotate: false
+  xy: 308, 192
+  size: 40, 28
+  orig: 40, 28
+  offset: 0, 0
+  index: -1
+front_right_arm_3b_light
+  rotate: false
+  xy: 308, 162
+  size: 40, 28
+  orig: 40, 28
+  offset: 0, 0
+  index: -1
+front_right_leg_1
+  rotate: false
+  xy: 235, 158
+  size: 71, 186
+  orig: 71, 186
+  offset: 0, 0
+  index: -1
+front_right_leg_2
+  rotate: true
+  xy: 330, 359
+  size: 67, 173
+  orig: 67, 173
+  offset: 0, 0
+  index: -1
+front_right_leg_3
+  rotate: false
+  xy: 350, 64
+  size: 69, 61
+  orig: 69, 61
+  offset: 0, 0
+  index: -1
+front_right_leg_ac
+  rotate: true
+  xy: 300, 2
+  size: 43, 58
+  orig: 43, 58
+  offset: 0, 0
+  index: -1
+weapon_1
+  rotate: false
+  xy: 2, 429
+  size: 326, 81
+  orig: 326, 81
+  offset: 0, 0
+  index: -1
+weapon_2
+  rotate: true
+  xy: 437, 213
+  size: 78, 28
+  orig: 78, 28
+  offset: 0, 0
+  index: -1
+weapon_cc
+  rotate: false
+  xy: 467, 222
+  size: 34, 15
+  orig: 34, 15
+  offset: 0, 0
+  index: -1
+weapon_light
+  rotate: false
+  xy: 2, 346
+  size: 326, 81
+  orig: 326, 81
+  offset: 0, 0
+  index: -1

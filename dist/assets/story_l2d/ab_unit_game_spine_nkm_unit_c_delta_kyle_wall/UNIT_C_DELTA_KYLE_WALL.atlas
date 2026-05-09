@@ -1,0 +1,132 @@
+
+UNIT_C_DELTA_KYLE_WALL.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common_shadow
+  rotate: false
+  xy: 496, 728
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+fx_box
+  rotate: false
+  xy: 2, 2
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+fx_mark
+  rotate: false
+  xy: 496, 900
+  size: 136, 119
+  orig: 136, 119
+  offset: 0, 0
+  index: -1
+fx_text
+  rotate: false
+  xy: 32, 8
+  size: 86, 22
+  orig: 86, 22
+  offset: 0, 0
+  index: -1
+kyle_wall_damage
+  rotate: false
+  xy: 2, 257
+  size: 492, 762
+  orig: 492, 762
+  offset: 0, 0
+  index: -1
+kyle_wall_l_1
+  rotate: false
+  xy: 636, 25
+  size: 75, 266
+  orig: 75, 266
+  offset: 0, 0
+  index: -1
+kyle_wall_l_2
+  rotate: true
+  xy: 636, 794
+  size: 74, 354
+  orig: 74, 354
+  offset: 0, 0
+  index: -1
+kyle_wall_l_2_ac_1
+  rotate: true
+  xy: 496, 829
+  size: 69, 131
+  orig: 69, 131
+  offset: 0, 0
+  index: -1
+kyle_wall_l_2_ac_2
+  rotate: true
+  xy: 713, 161
+  size: 159, 262
+  orig: 159, 262
+  offset: 0, 0
+  index: -1
+kyle_wall_l_3
+  rotate: true
+  xy: 663, 322
+  size: 160, 325
+  orig: 160, 325
+  offset: 0, 0
+  index: -1
+kyle_wall_m_1
+  rotate: false
+  xy: 496, 574
+  size: 92, 152
+  orig: 92, 152
+  offset: 0, 0
+  index: -1
+kyle_wall_m_2
+  rotate: false
+  xy: 496, 492
+  size: 92, 80
+  orig: 92, 80
+  offset: 0, 0
+  index: -1
+kyle_wall_r_1
+  rotate: true
+  xy: 713, 10
+  size: 149, 259
+  orig: 149, 259
+  offset: 0, 0
+  index: -1
+kyle_wall_r_2
+  rotate: true
+  xy: 636, 870
+  size: 149, 376
+  orig: 149, 376
+  offset: 0, 0
+  index: -1
+kyle_wall_r_2_ac_1
+  rotate: false
+  xy: 496, 293
+  size: 165, 189
+  orig: 165, 189
+  offset: 0, 0
+  index: -1
+kyle_wall_r_2_ac_2
+  rotate: true
+  xy: 2, 32
+  size: 223, 293
+  orig: 223, 293
+  offset: 0, 0
+  index: -1
+kyle_wall_r_3
+  rotate: true
+  xy: 597, 484
+  size: 308, 413
+  orig: 308, 413
+  offset: 0, 0
+  index: -1
+kyle_wall_r_3_ac
+  rotate: true
+  xy: 297, 41
+  size: 214, 337
+  orig: 214, 337
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,405 @@
+
+UNIT_C_HILDE_ADMIN.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back_body_12
+  rotate: true
+  xy: 563, 836
+  size: 122, 188
+  orig: 122, 188
+  offset: 0, 0
+  index: -1
+back_body_3
+  rotate: false
+  xy: 297, 513
+  size: 126, 93
+  orig: 126, 93
+  offset: 0, 0
+  index: -1
+back_head copy
+  rotate: false
+  xy: 480, 122
+  size: 282, 390
+  orig: 282, 390
+  offset: 0, 0
+  index: -1
+back_jacket_1
+  rotate: false
+  xy: 826, 362
+  size: 189, 266
+  orig: 189, 266
+  offset: 0, 0
+  index: -1
+back_left_leg_1
+  rotate: false
+  xy: 240, 608
+  size: 91, 414
+  orig: 91, 414
+  offset: 0, 0
+  index: -1
+back_left_leg_3
+  rotate: true
+  xy: 407, 5
+  size: 91, 89
+  orig: 91, 89
+  offset: 0, 0
+  index: -1
+back_right_leg_1
+  rotate: false
+  xy: 345, 98
+  size: 133, 413
+  orig: 133, 413
+  offset: 0, 0
+  index: -1
+back_right_leg_3
+  rotate: true
+  xy: 314, 3
+  size: 60, 91
+  orig: 60, 91
+  offset: 0, 0
+  index: -1
+front_body_31
+  rotate: false
+  xy: 140, 65
+  size: 203, 445
+  orig: 203, 445
+  offset: 0, 0
+  index: -1
+front_body_a_01
+  rotate: false
+  xy: 639, 646
+  size: 122, 188
+  orig: 122, 188
+  offset: 0, 0
+  index: -1
+front_body_strape_a
+  rotate: true
+  xy: 764, 954
+  size: 68, 108
+  orig: 68, 108
+  offset: 0, 0
+  index: -1
+front_face_a
+  rotate: true
+  xy: 764, 468
+  size: 78, 54
+  orig: 78, 54
+  offset: 0, 0
+  index: -1
+front_face_a_02
+  rotate: true
+  xy: 764, 388
+  size: 78, 54
+  orig: 78, 54
+  offset: 0, 0
+  index: -1
+front_face_a_03
+  rotate: true
+  xy: 764, 308
+  size: 78, 54
+  orig: 78, 54
+  offset: 0, 0
+  index: -1
+front_face_a_04
+  rotate: true
+  xy: 764, 228
+  size: 78, 54
+  orig: 78, 54
+  offset: 0, 0
+  index: -1
+front_face_b
+  rotate: true
+  xy: 563, 614
+  size: 85, 54
+  orig: 85, 54
+  offset: 0, 0
+  index: -1
+front_face_c
+  rotate: false
+  xy: 466, 958
+  size: 80, 64
+  orig: 80, 64
+  offset: 0, 0
+  index: -1
+front_face_d
+  rotate: true
+  xy: 764, 152
+  size: 74, 54
+  orig: 74, 54
+  offset: 0, 0
+  index: -1
+front_face_e
+  rotate: false
+  xy: 665, 965
+  size: 77, 57
+  orig: 77, 57
+  offset: 0, 0
+  index: -1
+front_hair_1
+  rotate: false
+  xy: 498, 3
+  size: 123, 117
+  orig: 123, 117
+  offset: 0, 0
+  index: -1
+front_hair_2
+  rotate: true
+  xy: 132, 3
+  size: 50, 180
+  orig: 50, 180
+  offset: 0, 0
+  index: -1
+front_hair_3
+  rotate: true
+  xy: 619, 616
+  size: 28, 78
+  orig: 28, 78
+  offset: 0, 0
+  index: -1
+front_hair_4
+  rotate: false
+  xy: 976, 163
+  size: 42, 157
+  orig: 42, 157
+  offset: 0, 0
+  index: -1
+front_hair_5
+  rotate: false
+  xy: 426, 613
+  size: 135, 339
+  orig: 135, 339
+  offset: 0, 0
+  index: -1
+front_hair_6
+  rotate: false
+  xy: 764, 630
+  size: 104, 322
+  orig: 104, 322
+  offset: 0, 0
+  index: -1
+front_head
+  rotate: true
+  xy: 623, 4
+  size: 116, 125
+  orig: 116, 125
+  offset: 0, 0
+  index: -1
+front_jacket_1
+  rotate: false
+  xy: 2, 55
+  size: 136, 455
+  orig: 136, 455
+  offset: 0, 0
+  index: -1
+front_jacket_2
+  rotate: false
+  xy: 877, 701
+  size: 143, 321
+  orig: 143, 321
+  offset: 0, 0
+  index: -1
+front_jacket_ac_1
+  rotate: true
+  xy: 929, 86
+  size: 49, 42
+  orig: 49, 42
+  offset: 0, 0
+  index: -1
+front_jacket_ac_2
+  rotate: true
+  xy: 877, 94
+  size: 41, 50
+  orig: 41, 50
+  offset: 0, 0
+  index: -1
+front_jacket_ac_6
+  rotate: true
+  xy: 140, 55
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+front_jacket_ac_7
+  rotate: true
+  xy: 973, 73
+  size: 34, 39
+  orig: 34, 39
+  offset: 0, 0
+  index: -1
+front_left_arm_1
+  rotate: false
+  xy: 2, 2
+  size: 128, 51
+  orig: 128, 51
+  offset: 0, 0
+  index: -1
+front_left_arm_2
+  rotate: false
+  xy: 877, 645
+  size: 125, 54
+  orig: 125, 54
+  offset: 0, 0
+  index: -1
+front_left_arm_3_a1_________L_ARM
+  rotate: false
+  xy: 639, 575
+  size: 55, 39
+  orig: 55, 39
+  offset: 0, 0
+  index: -1
+front_left_arm_3_a2_________L_ARM
+  rotate: true
+  xy: 976, 109
+  size: 52, 42
+  orig: 52, 42
+  offset: 0, 0
+  index: -1
+front_left_arm_3_b__________L_ARM
+  rotate: true
+  xy: 548, 960
+  size: 62, 41
+  orig: 62, 41
+  offset: 0, 0
+  index: -1
+front_left_arm_3_c__________L_ARM
+  rotate: true
+  xy: 599, 529
+  size: 83, 38
+  orig: 83, 38
+  offset: 0, 0
+  index: -1
+front_left_arm_3_d__________L_ARM
+  rotate: true
+  xy: 518, 515
+  size: 96, 79
+  orig: 96, 79
+  offset: 0, 0
+  index: -1
+front_left_arm_3_e__________L_ARM
+  rotate: true
+  xy: 754, 548
+  size: 80, 70
+  orig: 80, 70
+  offset: 0, 0
+  index: -1
+front_left_arm_3_f__________L_ARM
+  rotate: true
+  xy: 426, 955
+  size: 67, 38
+  orig: 67, 38
+  offset: 0, 0
+  index: -1
+front_left_arm_3_g__________L_ARM
+  rotate: false
+  xy: 976, 322
+  size: 44, 38
+  orig: 44, 38
+  offset: 0, 0
+  index: -1
+front_left_leg_1
+  rotate: false
+  xy: 333, 608
+  size: 91, 414
+  orig: 91, 414
+  offset: 0, 0
+  index: -1
+front_left_leg_3
+  rotate: true
+  xy: 425, 514
+  size: 92, 91
+  orig: 92, 91
+  offset: 0, 0
+  index: -1
+front_right_arm_1
+  rotate: true
+  xy: 699, 517
+  size: 127, 53
+  orig: 127, 53
+  offset: 0, 0
+  index: -1
+front_right_arm_2
+  rotate: true
+  xy: 563, 707
+  size: 127, 54
+  orig: 127, 54
+  offset: 0, 0
+  index: -1
+front_right_leg_3
+  rotate: false
+  xy: 240, 512
+  size: 55, 94
+  orig: 55, 94
+  offset: 0, 0
+  index: -1
+side_face_a
+  rotate: true
+  xy: 639, 538
+  size: 35, 55
+  orig: 35, 55
+  offset: 0, 0
+  index: -1
+side_face_b
+  rotate: true
+  xy: 877, 57
+  size: 35, 50
+  orig: 35, 50
+  offset: 0, 0
+  index: -1
+side_face_c
+  rotate: false
+  xy: 591, 960
+  size: 35, 62
+  orig: 35, 62
+  offset: 0, 0
+  index: -1
+side_face_d
+  rotate: false
+  xy: 877, 5
+  size: 35, 50
+  orig: 35, 50
+  offset: 0, 0
+  index: -1
+side_face_e
+  rotate: false
+  xy: 628, 960
+  size: 35, 62
+  orig: 35, 62
+  offset: 0, 0
+  index: -1
+side_head
+  rotate: true
+  xy: 750, 5
+  size: 115, 125
+  orig: 115, 125
+  offset: 0, 0
+  index: -1
+unit_hilde_fx_weapon_01
+  rotate: true
+  xy: 820, 137
+  size: 223, 76
+  orig: 223, 76
+  offset: 0, 0
+  index: -1
+unit_hilde_fx_weapon_02
+  rotate: true
+  xy: 898, 137
+  size: 223, 76
+  orig: 223, 76
+  offset: 0, 0
+  index: -1
+weapon_1
+  rotate: false
+  xy: 2, 512
+  size: 117, 510
+  orig: 117, 510
+  offset: 0, 0
+  index: -1
+weapon_2
+  rotate: false
+  xy: 121, 512
+  size: 117, 510
+  orig: 117, 510
+  offset: 0, 0
+  index: -1

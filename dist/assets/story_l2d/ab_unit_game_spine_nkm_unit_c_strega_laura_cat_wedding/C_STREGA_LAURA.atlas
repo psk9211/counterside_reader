@@ -1,0 +1,181 @@
+
+C_STREGA_LAURA.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+front_body
+  rotate: false
+  xy: 355, 356
+  size: 106, 154
+  orig: 106, 154
+  offset: 0, 0
+  index: -1
+front_body_ac_1
+  rotate: true
+  xy: 299, 29
+  size: 70, 105
+  orig: 70, 105
+  offset: 0, 0
+  index: -1
+front_body_ac_1_parts
+  rotate: false
+  xy: 463, 411
+  size: 30, 99
+  orig: 30, 99
+  offset: 0, 0
+  index: -1
+front_body_ac_2
+  rotate: false
+  xy: 463, 316
+  size: 29, 93
+  orig: 29, 93
+  offset: 0, 0
+  index: -1
+front_body_ac_3
+  rotate: true
+  xy: 214, 68
+  size: 113, 83
+  orig: 113, 83
+  offset: 0, 0
+  index: -1
+front_body_parts_1
+  rotate: false
+  xy: 107, 67
+  size: 105, 114
+  orig: 105, 114
+  offset: 0, 0
+  index: -1
+front_face_a
+  rotate: false
+  xy: 214, 2
+  size: 73, 64
+  orig: 73, 64
+  offset: 0, 0
+  index: -1
+front_face_b
+  rotate: false
+  xy: 398, 211
+  size: 76, 62
+  orig: 76, 62
+  offset: 0, 0
+  index: -1
+front_face_c
+  rotate: false
+  xy: 406, 49
+  size: 76, 62
+  orig: 76, 62
+  offset: 0, 0
+  index: -1
+front_head
+  rotate: false
+  xy: 2, 208
+  size: 127, 146
+  orig: 127, 146
+  offset: 0, 0
+  index: -1
+front_left_arm_1
+  rotate: true
+  xy: 406, 3
+  size: 37, 86
+  orig: 37, 86
+  offset: 0, 0
+  index: -1
+front_left_arm_2
+  rotate: false
+  xy: 2, 49
+  size: 103, 157
+  orig: 103, 157
+  offset: 0, 0
+  index: -1
+front_left_arm_2_b
+  rotate: true
+  xy: 131, 252
+  size: 102, 157
+  orig: 102, 157
+  offset: 0, 0
+  index: -1
+front_left_leg_1
+  rotate: true
+  xy: 400, 113
+  size: 96, 87
+  orig: 96, 87
+  offset: 0, 0
+  index: -1
+front_left_leg_2
+  rotate: true
+  xy: 484, 42
+  size: 69, 26
+  orig: 69, 26
+  offset: 0, 0
+  index: -1
+front_left_leg_3
+  rotate: false
+  xy: 299, 101
+  size: 99, 108
+  orig: 99, 108
+  offset: 0, 0
+  index: -1
+front_neck_ac_1
+  rotate: true
+  xy: 463, 275
+  size: 39, 30
+  orig: 39, 30
+  offset: 0, 0
+  index: -1
+front_neck_ac_2
+  rotate: false
+  xy: 63, 16
+  size: 39, 31
+  orig: 39, 31
+  offset: 0, 0
+  index: -1
+front_right_arm_1
+  rotate: true
+  xy: 107, 16
+  size: 49, 91
+  orig: 49, 91
+  offset: 0, 0
+  index: -1
+front_right_arm_2
+  rotate: true
+  xy: 290, 275
+  size: 79, 171
+  orig: 79, 171
+  offset: 0, 0
+  index: -1
+front_right_leg_1
+  rotate: true
+  xy: 290, 211
+  size: 62, 106
+  orig: 62, 106
+  offset: 0, 0
+  index: -1
+front_right_leg_2
+  rotate: false
+  xy: 2, 2
+  size: 59, 45
+  orig: 59, 45
+  offset: 0, 0
+  index: -1
+front_right_leg_3
+  rotate: true
+  xy: 131, 183
+  size: 67, 128
+  orig: 67, 128
+  offset: 0, 0
+  index: -1
+front_tail
+  rotate: false
+  xy: 2, 356
+  size: 351, 154
+  orig: 351, 154
+  offset: 0, 0
+  index: -1
+front_tail_ac
+  rotate: true
+  xy: 261, 212
+  size: 38, 23
+  orig: 38, 23
+  offset: 0, 0
+  index: -1

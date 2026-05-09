@@ -1,0 +1,146 @@
+
+UNIT_C_HB_RUMI_SUMMON_RACING.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common_shadow
+  rotate: false
+  xy: 808, 167
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+rumi_summon_body
+  rotate: false
+  xy: 2, 729
+  size: 1011, 284
+  orig: 1011, 284
+  offset: 0, 0
+  index: -1
+rumi_summon_body_fx
+  rotate: false
+  xy: 2, 4
+  size: 103, 53
+  orig: 103, 53
+  offset: 0, 0
+  index: -1
+rumi_summon_body_fx_2
+  rotate: false
+  xy: 598, 416
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+rumi_summon_damage_body_1
+  rotate: false
+  xy: 2, 468
+  size: 666, 259
+  orig: 666, 259
+  offset: 0, 0
+  index: -1
+rumi_summon_damage_body_10
+  rotate: false
+  xy: 395, 5
+  size: 144, 139
+  orig: 144, 139
+  offset: 0, 0
+  index: -1
+rumi_summon_damage_body_11
+  rotate: false
+  xy: 598, 233
+  size: 118, 86
+  orig: 118, 86
+  offset: 0, 0
+  index: -1
+rumi_summon_damage_body_2
+  rotate: false
+  xy: 670, 499
+  size: 283, 228
+  orig: 283, 228
+  offset: 0, 0
+  index: -1
+rumi_summon_damage_body_3
+  rotate: false
+  xy: 417, 296
+  size: 179, 170
+  orig: 179, 170
+  offset: 0, 0
+  index: -1
+rumi_summon_damage_body_4
+  rotate: false
+  xy: 598, 321
+  size: 211, 93
+  orig: 211, 93
+  offset: 0, 0
+  index: -1
+rumi_summon_damage_body_5
+  rotate: false
+  xy: 2, 192
+  size: 413, 274
+  orig: 413, 274
+  offset: 0, 0
+  index: -1
+rumi_summon_damage_body_6
+  rotate: false
+  xy: 670, 416
+  size: 254, 81
+  orig: 254, 81
+  offset: 0, 0
+  index: -1
+rumi_summon_damage_body_7
+  rotate: true
+  xy: 300, 47
+  size: 143, 93
+  orig: 143, 93
+  offset: 0, 0
+  index: -1
+rumi_summon_damage_body_8
+  rotate: false
+  xy: 2, 59
+  size: 296, 131
+  orig: 296, 131
+  offset: 0, 0
+  index: -1
+rumi_summon_damage_body_9
+  rotate: true
+  xy: 955, 666
+  size: 61, 46
+  orig: 61, 46
+  offset: 0, 0
+  index: -1
+rumi_summon_front_brake
+  rotate: false
+  xy: 718, 238
+  size: 88, 81
+  orig: 88, 81
+  offset: 0, 0
+  index: -1
+rumi_summon_rear_brake
+  rotate: false
+  xy: 595, 157
+  size: 82, 74
+  orig: 82, 74
+  offset: 0, 0
+  index: -1
+rumi_summon_wheel
+  rotate: false
+  xy: 811, 271
+  size: 143, 143
+  orig: 143, 143
+  offset: 0, 0
+  index: -1
+rumi_summon_wheel_blur
+  rotate: false
+  xy: 541, 2
+  size: 142, 142
+  orig: 142, 142
+  offset: 0, 0
+  index: -1
+rumi_summon_wheel_shadow
+  rotate: true
+  xy: 417, 146
+  size: 148, 176
+  orig: 148, 176
+  offset: 0, 0
+  index: -1

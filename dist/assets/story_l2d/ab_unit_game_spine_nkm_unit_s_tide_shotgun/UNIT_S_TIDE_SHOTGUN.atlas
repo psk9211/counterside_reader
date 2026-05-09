@@ -1,0 +1,265 @@
+
+UNIT_S_TIDE_SHOTGUN.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+front_arm_ac_1
+  rotate: false
+  xy: 379, 442
+  size: 157, 51
+  orig: 157, 51
+  offset: 0, 0
+  index: -1
+front_arm_ac_2
+  rotate: true
+  xy: 847, 496
+  size: 195, 66
+  orig: 195, 66
+  offset: 0, 0
+  index: -1
+front_body_1
+  rotate: false
+  xy: 2, 425
+  size: 254, 370
+  orig: 254, 370
+  offset: 0, 0
+  index: -1
+front_body_2
+  rotate: true
+  xy: 915, 518
+  size: 173, 90
+  orig: 173, 90
+  offset: 0, 0
+  index: -1
+front_body_2b
+  rotate: false
+  xy: 386, 589
+  size: 196, 206
+  orig: 196, 206
+  offset: 0, 0
+  index: -1
+front_body_ac_2
+  rotate: false
+  xy: 335, 99
+  size: 137, 159
+  orig: 137, 159
+  offset: 0, 0
+  index: -1
+front_body_ac_3a
+  rotate: true
+  xy: 614, 693
+  size: 149, 248
+  orig: 149, 248
+  offset: 0, 0
+  index: -1
+front_body_ac_3b
+  rotate: false
+  xy: 795, 462
+  size: 50, 229
+  orig: 50, 229
+  offset: 0, 0
+  index: -1
+front_body_ac_3b_back
+  rotate: false
+  xy: 241, 211
+  size: 60, 212
+  orig: 60, 212
+  offset: 0, 0
+  index: -1
+front_body_ac_3c
+  rotate: true
+  xy: 705, 323
+  size: 126, 83
+  orig: 126, 83
+  offset: 0, 0
+  index: -1
+front_body_top
+  rotate: true
+  xy: 303, 260
+  size: 173, 154
+  orig: 173, 154
+  offset: 0, 0
+  index: -1
+front_head
+  rotate: false
+  xy: 459, 297
+  size: 130, 143
+  orig: 130, 143
+  offset: 0, 0
+  index: -1
+front_left_arm_1_ac
+  rotate: false
+  xy: 591, 327
+  size: 112, 122
+  orig: 112, 122
+  offset: 0, 0
+  index: -1
+front_left_arm_2
+  rotate: false
+  xy: 386, 495
+  size: 196, 92
+  orig: 196, 92
+  offset: 0, 0
+  index: -1
+front_left_leg_1
+  rotate: false
+  xy: 2, 126
+  size: 125, 297
+  orig: 125, 297
+  offset: 0, 0
+  index: -1
+front_left_leg_2
+  rotate: false
+  xy: 129, 140
+  size: 110, 283
+  orig: 110, 283
+  offset: 0, 0
+  index: -1
+front_left_leg_3
+  rotate: true
+  xy: 864, 693
+  size: 149, 102
+  orig: 149, 102
+  offset: 0, 0
+  index: -1
+front_left_leg_3_ac
+  rotate: false
+  xy: 591, 126
+  size: 71, 71
+  orig: 71, 71
+  offset: 0, 0
+  index: -1
+front_left_shoulder
+  rotate: false
+  xy: 474, 182
+  size: 114, 113
+  orig: 114, 113
+  offset: 0, 0
+  index: -1
+front_left_shoulder_a
+  rotate: true
+  xy: 258, 435
+  size: 65, 119
+  orig: 65, 119
+  offset: 0, 0
+  index: -1
+front_lett_arm_1
+  rotate: false
+  xy: 584, 572
+  size: 209, 119
+  orig: 209, 119
+  offset: 0, 0
+  index: -1
+front_right_arm_1
+  rotate: false
+  xy: 584, 451
+  size: 209, 119
+  orig: 209, 119
+  offset: 0, 0
+  index: -1
+front_right_arm_1_ac
+  rotate: false
+  xy: 2, 2
+  size: 125, 122
+  orig: 125, 122
+  offset: 0, 0
+  index: -1
+front_right_arm_2
+  rotate: true
+  xy: 241, 13
+  size: 196, 92
+  orig: 196, 92
+  offset: 0, 0
+  index: -1
+front_right_leg_1
+  rotate: true
+  xy: 614, 844
+  size: 178, 297
+  orig: 178, 297
+  offset: 0, 0
+  index: -1
+front_right_leg_2
+  rotate: false
+  xy: 258, 502
+  size: 126, 293
+  orig: 126, 293
+  offset: 0, 0
+  index: -1
+front_right_leg_2_ac
+  rotate: false
+  xy: 335, 2
+  size: 83, 95
+  orig: 83, 95
+  offset: 0, 0
+  index: -1
+front_right_leg_3
+  rotate: true
+  xy: 474, 92
+  size: 88, 115
+  orig: 88, 115
+  offset: 0, 0
+  index: -1
+front_right_leg_3_ac
+  rotate: false
+  xy: 590, 199
+  size: 83, 69
+  orig: 83, 69
+  offset: 0, 0
+  index: -1
+front_right_shoulder
+  rotate: true
+  xy: 913, 895
+  size: 127, 109
+  orig: 127, 109
+  offset: 0, 0
+  index: -1
+front_right_shoulder_a
+  rotate: false
+  xy: 129, 7
+  size: 110, 131
+  orig: 110, 131
+  offset: 0, 0
+  index: -1
+hand_a
+  rotate: false
+  xy: 420, 30
+  size: 117, 60
+  orig: 117, 60
+  offset: 0, 0
+  index: -1
+hand_b2
+  rotate: true
+  xy: 539, 22
+  size: 68, 59
+  orig: 68, 59
+  offset: 0, 0
+  index: -1
+hand_c
+  rotate: false
+  xy: 591, 270
+  size: 93, 55
+  orig: 93, 55
+  offset: 0, 0
+  index: -1
+hand_d
+  rotate: false
+  xy: 913, 849
+  size: 85, 44
+  orig: 85, 44
+  offset: 0, 0
+  index: -1
+hand_d2
+  rotate: false
+  xy: 847, 449
+  size: 65, 45
+  orig: 65, 45
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 2, 797
+  size: 610, 225
+  orig: 610, 225
+  offset: 0, 0
+  index: -1

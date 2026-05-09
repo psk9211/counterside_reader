@@ -1,0 +1,202 @@
+
+UNIT_M_RAS_TOWER_SUMMON_SUMMER.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_1
+  rotate: false
+  xy: 858, 146
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+arm_2
+  rotate: true
+  xy: 2, 12
+  size: 32, 297
+  orig: 32, 297
+  offset: 0, 0
+  index: -1
+blur
+  rotate: true
+  xy: 713, 80
+  size: 67, 68
+  orig: 67, 68
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 757, 496
+  size: 526, 116
+  orig: 526, 116
+  offset: 0, 0
+  index: -1
+body_ac_b
+  rotate: false
+  xy: 875, 539
+  size: 116, 151
+  orig: 116, 151
+  offset: 0, 0
+  index: -1
+box
+  rotate: false
+  xy: 864, 220
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+box_text
+  rotate: true
+  xy: 694, 44
+  size: 75, 17
+  orig: 75, 17
+  offset: 0, 0
+  index: -1
+damage_arm_2
+  rotate: false
+  xy: 454, 84
+  size: 53, 377
+  orig: 53, 377
+  offset: 0, 0
+  index: -1
+damage_head
+  rotate: true
+  xy: 530, 439
+  size: 583, 225
+  orig: 583, 225
+  offset: 0, 0
+  index: -1
+damage_summer_glass_1
+  rotate: false
+  xy: 2, 46
+  size: 352, 129
+  orig: 352, 129
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 509, 442
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+face_glitch
+  rotate: false
+  xy: 757, 451
+  size: 131, 43
+  orig: 131, 43
+  offset: 0, 0
+  index: -1
+face_mark_a
+  rotate: false
+  xy: 571, 15
+  size: 121, 104
+  orig: 121, 104
+  offset: 0, 0
+  index: -1
+face_mark_b
+  rotate: false
+  xy: 890, 446
+  size: 115, 91
+  orig: 115, 91
+  offset: 0, 0
+  index: -1
+face_mark_c
+  rotate: true
+  xy: 356, 60
+  size: 115, 92
+  orig: 115, 92
+  offset: 0, 0
+  index: -1
+fx_hud_a
+  rotate: false
+  xy: 694, 2
+  size: 46, 40
+  orig: 46, 40
+  offset: 0, 0
+  index: -1
+fx_tick_2
+  rotate: false
+  xy: 783, 83
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+hand_1
+  rotate: true
+  xy: 948, 234
+  size: 68, 74
+  orig: 68, 74
+  offset: 0, 0
+  index: -1
+hand_2
+  rotate: true
+  xy: 450, 2
+  size: 80, 119
+  orig: 80, 119
+  offset: 0, 0
+  index: -1
+hand_3
+  rotate: true
+  xy: 864, 304
+  size: 66, 112
+  orig: 66, 112
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 463
+  size: 526, 559
+  orig: 526, 559
+  offset: 0, 0
+  index: -1
+mini_body
+  rotate: false
+  xy: 713, 149
+  size: 143, 121
+  orig: 143, 121
+  offset: 0, 0
+  index: -1
+mouth_a
+  rotate: true
+  xy: 509, 121
+  size: 316, 100
+  orig: 316, 100
+  offset: 0, 0
+  index: -1
+mouth_b
+  rotate: true
+  xy: 611, 121
+  size: 316, 100
+  orig: 316, 100
+  offset: 0, 0
+  index: -1
+summer_flower_1
+  rotate: false
+  xy: 2, 177
+  size: 450, 284
+  orig: 450, 284
+  offset: 0, 0
+  index: -1
+summer_flower_2
+  rotate: false
+  xy: 713, 272
+  size: 149, 165
+  orig: 149, 165
+  offset: 0, 0
+  index: -1
+summer_glass
+  rotate: true
+  xy: 875, 692
+  size: 330, 134
+  orig: 330, 134
+  offset: 0, 0
+  index: -1
+wheel
+  rotate: false
+  xy: 864, 372
+  size: 111, 72
+  orig: 111, 72
+  offset: 0, 0
+  index: -1

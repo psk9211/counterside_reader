@@ -1,0 +1,90 @@
+
+UNIT_DELTA_CA_KYLE_AP_SUMMON.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_1
+  rotate: true
+  xy: 370, 190
+  size: 145, 137
+  orig: 145, 137
+  offset: 0, 0
+  index: -1
+body_2
+  rotate: false
+  xy: 189, 116
+  size: 126, 127
+  orig: 126, 127
+  offset: 0, 0
+  index: -1
+body_3
+  rotate: false
+  xy: 2, 2
+  size: 185, 174
+  orig: 185, 174
+  offset: 0, 0
+  index: -1
+body_3_1
+  rotate: false
+  xy: 189, 4
+  size: 162, 23
+  orig: 162, 23
+  offset: 0, 0
+  index: -1
+body_4
+  rotate: false
+  xy: 317, 116
+  size: 9, 127
+  orig: 9, 127
+  offset: 0, 0
+  index: -1
+body_5
+  rotate: false
+  xy: 328, 196
+  size: 40, 47
+  orig: 40, 47
+  offset: 0, 0
+  index: -1
+body_6
+  rotate: false
+  xy: 2, 178
+  size: 163, 322
+  orig: 163, 322
+  offset: 0, 0
+  index: -1
+body_7
+  rotate: true
+  xy: 370, 337
+  size: 163, 132
+  orig: 163, 132
+  offset: 0, 0
+  index: -1
+body_8
+  rotate: false
+  xy: 189, 29
+  size: 159, 85
+  orig: 159, 85
+  offset: 0, 0
+  index: -1
+destroyed
+  rotate: false
+  xy: 167, 245
+  size: 201, 255
+  orig: 201, 255
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 350, 107
+  size: 81, 81
+  orig: 81, 81
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 350, 30
+  size: 74, 75
+  orig: 74, 75
+  offset: 0, 0
+  index: -1

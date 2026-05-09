@@ -1,0 +1,146 @@
+
+UNIT_M_STATE_TANK.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX_SHOT_1
+  rotate: false
+  xy: 398, 14
+  size: 58, 60
+  orig: 58, 60
+  offset: 0, 0
+  index: -1
+FX_SHOT_2_1
+  rotate: true
+  xy: 458, 19
+  size: 55, 50
+  orig: 55, 50
+  offset: 0, 0
+  index: -1
+FX_SHOT_2_2
+  rotate: false
+  xy: 389, 76
+  size: 92, 53
+  orig: 92, 53
+  offset: 0, 0
+  index: -1
+FX_SHOT_2_4
+  rotate: true
+  xy: 870, 494
+  size: 68, 39
+  orig: 68, 39
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 564
+  size: 904, 196
+  orig: 904, 196
+  offset: 0, 0
+  index: -1
+body_light_1
+  rotate: true
+  xy: 911, 857
+  size: 163, 69
+  orig: 163, 69
+  offset: 0, 0
+  index: -1
+damage_body
+  rotate: false
+  xy: 2, 762
+  size: 907, 258
+  orig: 907, 258
+  offset: 0, 0
+  index: -1
+damage_head
+  rotate: false
+  xy: 2, 131
+  size: 583, 154
+  orig: 583, 154
+  offset: 0, 0
+  index: -1
+damage_weapon_1
+  rotate: false
+  xy: 2, 47
+  size: 385, 82
+  orig: 385, 82
+  offset: 0, 0
+  index: -1
+damage_weapon_2
+  rotate: false
+  xy: 592, 308
+  size: 282, 133
+  orig: 282, 133
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 287
+  size: 588, 154
+  orig: 588, 154
+  offset: 0, 0
+  index: -1
+head_light_1
+  rotate: false
+  xy: 483, 81
+  size: 71, 48
+  orig: 71, 48
+  offset: 0, 0
+  index: -1
+head_light_2
+  rotate: true
+  xy: 982, 926
+  size: 94, 40
+  orig: 94, 40
+  offset: 0, 0
+  index: -1
+shell
+  rotate: false
+  xy: 911, 770
+  size: 26, 11
+  orig: 26, 11
+  offset: 0, 0
+  index: -1
+weapon_1
+  rotate: false
+  xy: 2, 2
+  size: 394, 43
+  orig: 394, 43
+  offset: 0, 0
+  index: -1
+weapon_1_light
+  rotate: true
+  xy: 855, 448
+  size: 114, 13
+  orig: 114, 13
+  offset: 0, 0
+  index: -1
+weapon_2
+  rotate: false
+  xy: 592, 176
+  size: 285, 130
+  orig: 285, 130
+  offset: 0, 0
+  index: -1
+weapon_2_light
+  rotate: false
+  xy: 587, 44
+  size: 285, 130
+  orig: 285, 130
+  offset: 0, 0
+  index: -1
+wheel_1
+  rotate: false
+  xy: 2, 443
+  size: 851, 119
+  orig: 851, 119
+  offset: 0, 0
+  index: -1
+wheel_2
+  rotate: false
+  xy: 911, 783
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1

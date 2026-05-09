@@ -1,0 +1,83 @@
+
+UNIT_M_FOX_HOWITZER.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 644
+  size: 869, 363
+  orig: 869, 363
+  offset: 0, 0
+  index: -1
+body_light
+  rotate: false
+  xy: 567, 26
+  size: 87, 53
+  orig: 87, 53
+  offset: 0, 0
+  index: -1
+damage_body
+  rotate: false
+  xy: 2, 242
+  size: 863, 400
+  orig: 863, 400
+  offset: 0, 0
+  index: -1
+damage_weapon_1
+  rotate: false
+  xy: 2, 126
+  size: 657, 114
+  orig: 657, 114
+  offset: 0, 0
+  index: -1
+damage_weapon_2
+  rotate: false
+  xy: 661, 172
+  size: 351, 43
+  orig: 351, 43
+  offset: 0, 0
+  index: -1
+weapon_1
+  rotate: false
+  xy: 2, 10
+  size: 484, 114
+  orig: 484, 114
+  offset: 0, 0
+  index: -1
+weapon_1_light
+  rotate: false
+  xy: 762, 229
+  size: 32, 11
+  orig: 32, 11
+  offset: 0, 0
+  index: -1
+weapon_2
+  rotate: false
+  xy: 488, 81
+  size: 517, 43
+  orig: 517, 43
+  offset: 0, 0
+  index: -1
+weapon_2_light
+  rotate: false
+  xy: 661, 229
+  size: 99, 11
+  orig: 99, 11
+  offset: 0, 0
+  index: -1
+wheel_1
+  rotate: true
+  xy: 873, 217
+  size: 790, 121
+  orig: 790, 121
+  offset: 0, 0
+  index: -1
+wheel_2
+  rotate: false
+  xy: 488, 2
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1

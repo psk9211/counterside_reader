@@ -1,0 +1,377 @@
+
+UNIT_RAS_MA_DINO_ONLY.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bluescreen
+  rotate: true
+  xy: 1571, 1365
+  size: 17, 30
+  orig: 17, 30
+  offset: 0, 0
+  index: -1
+fx_glow
+  rotate: true
+  xy: 1967, 1366
+  size: 114, 41
+  orig: 114, 41
+  offset: 0, 0
+  index: -1
+mech_body
+  rotate: false
+  xy: 2, 1485
+  size: 805, 551
+  orig: 805, 551
+  offset: 0, 0
+  index: -1
+mech_body_ac
+  rotate: false
+  xy: 1170, 543
+  size: 129, 97
+  orig: 129, 97
+  offset: 0, 0
+  index: -1
+mech_body_bridge
+  rotate: false
+  xy: 769, 1206
+  size: 390, 226
+  orig: 390, 226
+  offset: 0, 0
+  index: -1
+mech_body_leg_connect
+  rotate: true
+  xy: 824, 851
+  size: 353, 246
+  orig: 353, 246
+  offset: 0, 0
+  index: -1
+mech_foot_main
+  rotate: false
+  xy: 652, 169
+  size: 303, 109
+  orig: 303, 109
+  offset: 0, 0
+  index: -1
+mech_head
+  rotate: false
+  xy: 1072, 841
+  size: 129, 363
+  orig: 129, 363
+  offset: 0, 0
+  index: -1
+mech_head_center
+  rotate: false
+  xy: 1604, 1365
+  size: 361, 117
+  orig: 361, 117
+  offset: 0, 0
+  index: -1
+mech_head_die
+  rotate: true
+  xy: 1606, 1484
+  size: 129, 363
+  orig: 129, 363
+  offset: 0, 0
+  index: -1
+mech_jaw
+  rotate: false
+  xy: 1203, 824
+  size: 360, 150
+  orig: 360, 150
+  offset: 0, 0
+  index: -1
+mech_jaw_ac
+  rotate: true
+  xy: 522, 13
+  size: 157, 92
+  orig: 157, 92
+  offset: 0, 0
+  index: -1
+mech_jaw_ac_in
+  rotate: false
+  xy: 1375, 730
+  size: 157, 92
+  orig: 157, 92
+  offset: 0, 0
+  index: -1
+mech_jaw_die
+  rotate: false
+  xy: 2, 9
+  size: 360, 150
+  orig: 360, 150
+  offset: 0, 0
+  index: -1
+mech_jaw_in
+  rotate: false
+  xy: 1571, 1213
+  size: 360, 150
+  orig: 360, 150
+  offset: 0, 0
+  index: -1
+mech_large_sail
+  rotate: true
+  xy: 389, 639
+  size: 465, 216
+  orig: 465, 216
+  offset: 0, 0
+  index: -1
+mech_large_sail_back
+  rotate: true
+  xy: 216, 169
+  size: 465, 216
+  orig: 465, 216
+  offset: 0, 0
+  index: -1
+mech_large_sail_die
+  rotate: true
+  xy: 434, 172
+  size: 465, 216
+  orig: 465, 216
+  offset: 0, 0
+  index: -1
+mech_leg_down
+  rotate: true
+  xy: 2, 161
+  size: 473, 212
+  orig: 473, 212
+  offset: 0, 0
+  index: -1
+mech_leg_down_spade
+  rotate: false
+  xy: 616, 16
+  size: 198, 58
+  orig: 198, 58
+  offset: 0, 0
+  index: -1
+mech_leg_mid
+  rotate: true
+  xy: 1862, 685
+  size: 298, 145
+  orig: 298, 145
+  offset: 0, 0
+  index: -1
+mech_leg_mid_ac
+  rotate: false
+  xy: 1565, 803
+  size: 295, 171
+  orig: 295, 171
+  offset: 0, 0
+  index: -1
+mech_leg_up
+  rotate: false
+  xy: 2, 1106
+  size: 765, 377
+  orig: 765, 377
+  offset: 0, 0
+  index: -1
+mech_leg_up_ac
+  rotate: false
+  xy: 1203, 976
+  size: 332, 245
+  orig: 332, 245
+  offset: 0, 0
+  index: -1
+mech_leg_up_ac_shield
+  rotate: true
+  xy: 1051, 717
+  size: 122, 76
+  orig: 122, 76
+  offset: 0, 0
+  index: -1
+mech_leg_up_knee_ac
+  rotate: false
+  xy: 824, 688
+  size: 225, 161
+  orig: 225, 161
+  offset: 0, 0
+  index: -1
+mech_neck_cable
+  rotate: false
+  xy: 1692, 759
+  size: 130, 42
+  orig: 130, 42
+  offset: 0, 0
+  index: -1
+mech_neck_down_armor
+  rotate: true
+  xy: 616, 76
+  size: 91, 179
+  orig: 91, 179
+  offset: 0, 0
+  index: -1
+mech_neck_down_armor_in
+  rotate: true
+  xy: 797, 76
+  size: 91, 179
+  orig: 91, 179
+  offset: 0, 0
+  index: -1
+mech_neck_main
+  rotate: false
+  xy: 1017, 316
+  size: 117, 370
+  orig: 117, 370
+  offset: 0, 0
+  index: -1
+mech_neck_side_armor
+  rotate: false
+  xy: 364, 2
+  size: 156, 165
+  orig: 156, 165
+  offset: 0, 0
+  index: -1
+mech_neck_top_armor
+  rotate: true
+  xy: 816, 22
+  size: 52, 156
+  orig: 52, 156
+  offset: 0, 0
+  index: -1
+mech_neck_top_armor_in
+  rotate: true
+  xy: 1534, 749
+  size: 52, 156
+  orig: 52, 156
+  offset: 0, 0
+  index: -1
+mech_small_sail
+  rotate: false
+  xy: 809, 1434
+  size: 383, 132
+  orig: 383, 132
+  offset: 0, 0
+  index: -1
+mech_small_sail_back
+  rotate: true
+  xy: 883, 303
+  size: 383, 132
+  orig: 383, 132
+  offset: 0, 0
+  index: -1
+mech_tail_a
+  rotate: true
+  xy: 1196, 1706
+  size: 330, 489
+  orig: 330, 489
+  offset: 0, 0
+  index: -1
+mech_tail_ac
+  rotate: false
+  xy: 1537, 976
+  size: 313, 235
+  orig: 313, 235
+  offset: 0, 0
+  index: -1
+mech_tail_b
+  rotate: false
+  xy: 809, 1568
+  size: 385, 468
+  orig: 385, 468
+  offset: 0, 0
+  index: -1
+mech_tail_c
+  rotate: false
+  xy: 2, 636
+  size: 385, 468
+  orig: 385, 468
+  offset: 0, 0
+  index: -1
+mech_tail_c_ac
+  rotate: false
+  xy: 769, 1145
+  size: 48, 59
+  orig: 48, 59
+  offset: 0, 0
+  index: -1
+mech_tail_d
+  rotate: false
+  xy: 1687, 1746
+  size: 344, 290
+  orig: 344, 290
+  offset: 0, 0
+  index: -1
+mech_tail_end
+  rotate: true
+  xy: 652, 280
+  size: 400, 229
+  orig: 400, 229
+  offset: 0, 0
+  index: -1
+mech_toes
+  rotate: false
+  xy: 1170, 642
+  size: 203, 180
+  orig: 203, 180
+  offset: 0, 0
+  index: -1
+mech_toes_connect
+  rotate: false
+  xy: 1971, 1482
+  size: 59, 131
+  orig: 59, 131
+  offset: 0, 0
+  index: -1
+mech_upmouth_down
+  rotate: false
+  xy: 1375, 651
+  size: 136, 77
+  orig: 136, 77
+  offset: 0, 0
+  index: -1
+mech_upmouth_down_in
+  rotate: false
+  xy: 1170, 464
+  size: 136, 77
+  orig: 136, 77
+  offset: 0, 0
+  index: -1
+mech_upmouth_up
+  rotate: false
+  xy: 1196, 1545
+  size: 408, 159
+  orig: 408, 159
+  offset: 0, 0
+  index: -1
+mech_upmouth_up_die
+  rotate: false
+  xy: 1194, 1384
+  size: 408, 159
+  orig: 408, 159
+  offset: 0, 0
+  index: -1
+mech_upmouth_up_in
+  rotate: false
+  xy: 1161, 1223
+  size: 408, 159
+  orig: 408, 159
+  offset: 0, 0
+  index: -1
+potal_dummy
+  rotate: false
+  xy: 607, 682
+  size: 215, 422
+  orig: 215, 422
+  offset: 0, 0
+  index: -1
+recoilspade
+  rotate: true
+  xy: 1687, 1615
+  size: 129, 343
+  orig: 129, 343
+  offset: 0, 0
+  index: -1
+spadespike
+  rotate: false
+  xy: 1136, 430
+  size: 32, 253
+  orig: 32, 253
+  offset: 0, 0
+  index: -1
+start_cor1
+  rotate: false
+  xy: 1852, 985
+  size: 88, 226
+  orig: 88, 226
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,167 @@
+
+UNIT_REAPER_SA_COMMANDER_SUMMON_SHIELD.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+front_body_1a
+  rotate: false
+  xy: 670, 641
+  size: 247, 379
+  orig: 248, 379
+  offset: 0, 0
+  index: -1
+front_body_2b
+  rotate: false
+  xy: 907, 239
+  size: 98, 118
+  orig: 98, 118
+  offset: 0, 0
+  index: -1
+front_head
+  rotate: true
+  xy: 533, 8
+  size: 144, 133
+  orig: 146, 134
+  offset: 1, 1
+  index: -1
+front_left_arm_1
+  rotate: true
+  xy: 670, 125
+  size: 204, 112
+  orig: 205, 113
+  offset: 0, 1
+  index: -1
+front_left_arm_2
+  rotate: true
+  xy: 918, 549
+  size: 195, 99
+  orig: 195, 100
+  offset: 0, 1
+  index: -1
+front_left_arm_3
+  rotate: false
+  xy: 864, 7
+  size: 72, 66
+  orig: 72, 66
+  offset: 0, 0
+  index: -1
+front_left_arm_4
+  rotate: false
+  xy: 787, 288
+  size: 119, 72
+  orig: 120, 72
+  offset: 0, 0
+  index: -1
+front_left_leg_1a
+  rotate: true
+  xy: 1, 33
+  size: 159, 308
+  orig: 159, 309
+  offset: 0, 1
+  index: -1
+front_left_leg_1b
+  rotate: true
+  xy: 873, 74
+  size: 64, 91
+  orig: 65, 93
+  offset: 0, 1
+  index: -1
+front_left_leg_2
+  rotate: false
+  xy: 787, 361
+  size: 126, 279
+  orig: 127, 279
+  offset: 1, 0
+  index: -1
+front_left_leg_3
+  rotate: false
+  xy: 783, 159
+  size: 89, 128
+  orig: 89, 130
+  offset: 0, 1
+  index: -1
+front_left_leg_parts_2
+  rotate: true
+  xy: 811, 1
+  size: 80, 52
+  orig: 81, 52
+  offset: 1, 0
+  index: -1
+front_left_shoulder_1
+  rotate: true
+  xy: 873, 139
+  size: 99, 108
+  orig: 100, 109
+  offset: 1, 0
+  index: -1
+front_right_arm_1
+  rotate: false
+  xy: 310, 45
+  size: 222, 107
+  orig: 223, 108
+  offset: 0, 1
+  index: -1
+front_right_arm_2
+  rotate: true
+  xy: 914, 358
+  size: 190, 88
+  orig: 190, 88
+  offset: 0, 0
+  index: -1
+front_right_arm_3a
+  rotate: true
+  xy: 811, 82
+  size: 76, 61
+  orig: 76, 61
+  offset: 0, 0
+  index: -1
+front_right_leg_1a
+  rotate: false
+  xy: 670, 330
+  size: 116, 310
+  orig: 117, 310
+  offset: 0, 0
+  index: -1
+front_right_leg_1b
+  rotate: true
+  xy: 310, 1
+  size: 43, 88
+  orig: 45, 89
+  offset: 1, 0
+  index: -1
+front_right_leg_2
+  rotate: false
+  xy: 918, 745
+  size: 104, 275
+  orig: 105, 275
+  offset: 0, 0
+  index: -1
+front_right_leg_3
+  rotate: false
+  xy: 667, 13
+  size: 143, 111
+  orig: 144, 114
+  offset: 0, 1
+  index: -1
+front_right_leg_parts_2
+  rotate: true
+  xy: 937, 1
+  size: 72, 65
+  orig: 73, 66
+  offset: 1, 0
+  index: -1
+weapon_1
+  rotate: false
+  xy: 373, 153
+  size: 296, 867
+  orig: 296, 867
+  offset: 0, 0
+  index: -1
+weapon_2
+  rotate: false
+  xy: 1, 193
+  size: 371, 827
+  orig: 371, 828
+  offset: 0, 1
+  index: -1

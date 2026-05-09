@@ -1,0 +1,223 @@
+
+M_FUTURE_SPIDER.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX_SHOT_1
+  rotate: false
+  xy: 919, 929
+  size: 90, 93
+  orig: 90, 93
+  offset: 0, 0
+  index: -1
+FX_SHOT_2_1
+  rotate: true
+  xy: 939, 300
+  size: 86, 77
+  orig: 86, 77
+  offset: 0, 0
+  index: -1
+FX_SHOT_2_2
+  rotate: true
+  xy: 939, 388
+  size: 143, 83
+  orig: 143, 83
+  offset: 0, 0
+  index: -1
+FX_SHOT_2_4
+  rotate: true
+  xy: 919, 821
+  size: 106, 60
+  orig: 106, 60
+  offset: 0, 0
+  index: -1
+back_leg_1
+  rotate: false
+  xy: 762, 282
+  size: 175, 104
+  orig: 175, 104
+  offset: 0, 0
+  index: -1
+back_leg_2
+  rotate: false
+  xy: 779, 533
+  size: 179, 170
+  orig: 179, 170
+  offset: 0, 0
+  index: -1
+back_leg_2_ac
+  rotate: true
+  xy: 503, 10
+  size: 127, 143
+  orig: 127, 143
+  offset: 0, 0
+  index: -1
+back_leg_3
+  rotate: false
+  xy: 648, 120
+  size: 86, 75
+  orig: 86, 75
+  offset: 0, 0
+  index: -1
+back_leg_3b
+  rotate: false
+  xy: 2, 9
+  size: 64, 35
+  orig: 64, 35
+  offset: 0, 0
+  index: -1
+body_1
+  rotate: true
+  xy: 401, 53
+  size: 307, 100
+  orig: 307, 100
+  offset: 0, 0
+  index: -1
+body_2
+  rotate: true
+  xy: 387, 362
+  size: 289, 148
+  orig: 289, 148
+  offset: 0, 0
+  index: -1
+damage_body
+  rotate: false
+  xy: 2, 653
+  size: 550, 369
+  orig: 550, 369
+  offset: 0, 0
+  index: -1
+damage_head_1
+  rotate: true
+  xy: 899, 142
+  size: 138, 106
+  orig: 138, 106
+  offset: 0, 0
+  index: -1
+front_leg_1
+  rotate: false
+  xy: 153, 2
+  size: 93, 57
+  orig: 93, 57
+  offset: 0, 0
+  index: -1
+front_leg_2
+  rotate: false
+  xy: 736, 174
+  size: 161, 106
+  orig: 161, 106
+  offset: 0, 0
+  index: -1
+front_leg_2_ac
+  rotate: true
+  xy: 903, 705
+  size: 61, 99
+  orig: 61, 99
+  offset: 0, 0
+  index: -1
+front_leg_3
+  rotate: false
+  xy: 153, 61
+  size: 246, 262
+  orig: 246, 262
+  offset: 0, 0
+  index: -1
+front_leg_3_ac
+  rotate: true
+  xy: 554, 534
+  size: 169, 223
+  orig: 169, 223
+  offset: 0, 0
+  index: -1
+front_leg_3_ac2
+  rotate: true
+  xy: 537, 363
+  size: 169, 223
+  orig: 169, 223
+  offset: 0, 0
+  index: -1
+front_leg_4
+  rotate: false
+  xy: 648, 10
+  size: 105, 108
+  orig: 105, 108
+  offset: 0, 0
+  index: -1
+front_leg_4b
+  rotate: true
+  xy: 960, 638
+  size: 65, 54
+  orig: 65, 54
+  offset: 0, 0
+  index: -1
+head_1
+  rotate: false
+  xy: 554, 768
+  size: 363, 254
+  orig: 363, 254
+  offset: 0, 0
+  index: -1
+head_1_ac
+  rotate: false
+  xy: 153, 325
+  size: 232, 326
+  orig: 232, 326
+  offset: 0, 0
+  index: -1
+head_2
+  rotate: true
+  xy: 919, 779
+  size: 40, 58
+  orig: 40, 58
+  offset: 0, 0
+  index: -1
+neck
+  rotate: true
+  xy: 762, 388
+  size: 143, 175
+  orig: 143, 175
+  offset: 0, 0
+  index: -1
+shield_1
+  rotate: false
+  xy: 614, 197
+  size: 120, 164
+  orig: 120, 164
+  offset: 0, 0
+  index: -1
+shield_2
+  rotate: true
+  xy: 503, 139
+  size: 221, 109
+  orig: 221, 109
+  offset: 0, 0
+  index: -1
+weapon_1
+  rotate: true
+  xy: 2, 46
+  size: 605, 149
+  orig: 605, 149
+  offset: 0, 0
+  index: -1
+weapon_1_light
+  rotate: false
+  xy: 554, 705
+  size: 347, 61
+  orig: 347, 61
+  offset: 0, 0
+  index: -1
+weapon_2
+  rotate: true
+  xy: 248, 11
+  size: 48, 135
+  orig: 48, 135
+  offset: 0, 0
+  index: -1
+weapon_shell
+  rotate: true
+  xy: 537, 611
+  size: 40, 12
+  orig: 40, 12
+  offset: 0, 0
+  index: -1

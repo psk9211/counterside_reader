@@ -1,0 +1,125 @@
+
+M_SL_TANK.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_1
+  rotate: false
+  xy: 2, 638
+  size: 797, 156
+  orig: 797, 156
+  offset: 0, 0
+  index: -1
+body_1_light
+  rotate: false
+  xy: 2, 72
+  size: 534, 131
+  orig: 534, 131
+  offset: 0, 0
+  index: -1
+body_2
+  rotate: false
+  xy: 2, 44
+  size: 514, 26
+  orig: 514, 26
+  offset: 0, 0
+  index: -1
+body_3
+  rotate: true
+  xy: 712, 405
+  size: 84, 59
+  orig: 84, 59
+  offset: 0, 0
+  index: -1
+body_4
+  rotate: false
+  xy: 2, 491
+  size: 768, 145
+  orig: 768, 145
+  offset: 0, 0
+  index: -1
+body_4_light
+  rotate: true
+  xy: 806, 701
+  size: 320, 145
+  orig: 320, 145
+  offset: 0, 0
+  index: -1
+distroy_body
+  rotate: false
+  xy: 2, 796
+  size: 802, 225
+  orig: 802, 225
+  offset: 0, 0
+  index: -1
+distroy_weapon
+  rotate: false
+  xy: 538, 158
+  size: 282, 78
+  orig: 282, 78
+  offset: 0, 0
+  index: -1
+ditroy_head
+  rotate: false
+  xy: 2, 205
+  size: 516, 158
+  orig: 516, 158
+  offset: 0, 0
+  index: -1
+fx_blur
+  rotate: false
+  xy: 950, 611
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 822, 183
+  size: 516, 126
+  orig: 516, 126
+  offset: 0, 0
+  index: -1
+head_ac
+  rotate: false
+  xy: 2, 2
+  size: 96, 40
+  orig: 96, 40
+  offset: 0, 0
+  index: -1
+head_light
+  rotate: false
+  xy: 520, 238
+  size: 168, 125
+  orig: 168, 125
+  offset: 0, 0
+  index: -1
+head_weapon
+  rotate: true
+  xy: 953, 733
+  size: 288, 44
+  orig: 288, 44
+  offset: 0, 0
+  index: -1
+head_weapon_light
+  rotate: false
+  xy: 538, 112
+  size: 288, 44
+  orig: 288, 44
+  offset: 0, 0
+  index: -1
+wheel_body
+  rotate: false
+  xy: 2, 365
+  size: 708, 124
+  orig: 708, 124
+  offset: 0, 0
+  index: -1
+wheel_gear
+  rotate: false
+  xy: 953, 662
+  size: 69, 69
+  orig: 69, 69
+  offset: 0, 0
+  index: -1

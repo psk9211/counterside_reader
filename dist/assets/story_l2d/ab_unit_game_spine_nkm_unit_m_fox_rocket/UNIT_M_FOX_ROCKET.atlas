@@ -1,0 +1,132 @@
+
+UNIT_M_FOX_ROCKET.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 433, 152
+  size: 627, 145
+  orig: 627, 145
+  offset: 0, 0
+  index: -1
+damage_body
+  rotate: true
+  xy: 211, 173
+  size: 606, 220
+  orig: 606, 220
+  offset: 0, 0
+  index: -1
+damage_head
+  rotate: true
+  xy: 688, 603
+  size: 419, 327
+  orig: 419, 327
+  offset: 0, 0
+  index: -1
+damage_weapon
+  rotate: false
+  xy: 2, 781
+  size: 684, 241
+  orig: 684, 241
+  offset: 0, 0
+  index: -1
+fx_shot_1
+  rotate: false
+  xy: 2, 2
+  size: 60, 34
+  orig: 60, 34
+  offset: 0, 0
+  index: -1
+fx_shot_2
+  rotate: false
+  xy: 2, 38
+  size: 51, 53
+  orig: 51, 53
+  offset: 0, 0
+  index: -1
+fx_shot_3
+  rotate: false
+  xy: 55, 47
+  size: 48, 44
+  orig: 48, 44
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 580, 289
+  size: 408, 312
+  orig: 408, 312
+  offset: 0, 0
+  index: -1
+head_light
+  rotate: false
+  xy: 580, 683
+  size: 55, 43
+  orig: 55, 43
+  offset: 0, 0
+  index: -1
+missile
+  rotate: false
+  xy: 580, 211
+  size: 329, 76
+  orig: 329, 76
+  offset: 0, 0
+  index: -1
+tire
+  rotate: false
+  xy: 362, 5
+  size: 145, 145
+  orig: 145, 145
+  offset: 0, 0
+  index: -1
+tire_b
+  rotate: false
+  xy: 580, 636
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+tire_rotation
+  rotate: false
+  xy: 509, 5
+  size: 145, 145
+  orig: 145, 145
+  offset: 0, 0
+  index: -1
+tire_shadow
+  rotate: false
+  xy: 211, 22
+  size: 149, 149
+  orig: 149, 149
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: true
+  xy: 2, 93
+  size: 686, 207
+  orig: 686, 207
+  offset: 0, 0
+  index: -1
+weapon_arm
+  rotate: false
+  xy: 580, 176
+  size: 194, 33
+  orig: 194, 33
+  offset: 0, 0
+  index: -1
+weapon_light_1
+  rotate: false
+  xy: 911, 231
+  size: 50, 56
+  orig: 50, 56
+  offset: 0, 0
+  index: -1
+weapon_light_2
+  rotate: false
+  xy: 580, 728
+  size: 66, 51
+  orig: 66, 51
+  offset: 0, 0
+  index: -1

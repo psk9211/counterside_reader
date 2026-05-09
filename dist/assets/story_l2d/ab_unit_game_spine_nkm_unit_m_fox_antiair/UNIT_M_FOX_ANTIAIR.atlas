@@ -1,0 +1,118 @@
+
+UNIT_M_FOX_ANTIAIR.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 536
+  size: 912, 201
+  orig: 912, 201
+  offset: 0, 0
+  index: -1
+body_ac
+  rotate: true
+  xy: 131, 29
+  size: 28, 80
+  orig: 28, 80
+  offset: 0, 0
+  index: -1
+body_light
+  rotate: false
+  xy: 131, 59
+  size: 129, 70
+  orig: 129, 70
+  offset: 0, 0
+  index: -1
+damage_body
+  rotate: false
+  xy: 2, 739
+  size: 912, 269
+  orig: 912, 269
+  offset: 0, 0
+  index: -1
+damage_head
+  rotate: false
+  xy: 2, 262
+  size: 652, 272
+  orig: 652, 272
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 795, 56
+  size: 478, 227
+  orig: 478, 227
+  offset: 0, 0
+  index: -1
+head_ac
+  rotate: false
+  xy: 262, 110
+  size: 72, 19
+  orig: 72, 19
+  offset: 0, 0
+  index: -1
+head_ac_light
+  rotate: false
+  xy: 981, 829
+  size: 41, 19
+  orig: 41, 19
+  offset: 0, 0
+  index: -1
+head_light
+  rotate: false
+  xy: 916, 555
+  size: 83, 56
+  orig: 83, 56
+  offset: 0, 0
+  index: -1
+rader
+  rotate: false
+  xy: 656, 418
+  size: 117, 116
+  orig: 117, 116
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: true
+  xy: 916, 721
+  size: 287, 63
+  orig: 287, 63
+  offset: 0, 0
+  index: -1
+weapon_light
+  rotate: true
+  xy: 656, 276
+  size: 140, 31
+  orig: 140, 31
+  offset: 0, 0
+  index: -1
+wheel_1
+  rotate: false
+  xy: 2, 131
+  size: 791, 129
+  orig: 791, 129
+  offset: 0, 0
+  index: -1
+wheel_2
+  rotate: false
+  xy: 916, 613
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+wheel_3
+  rotate: false
+  xy: 2, 2
+  size: 127, 127
+  orig: 127, 127
+  offset: 0, 0
+  index: -1
+wheel_shadow
+  rotate: true
+  xy: 981, 850
+  size: 158, 22
+  orig: 158, 22
+  offset: 0, 0
+  index: -1

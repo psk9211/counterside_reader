@@ -1,0 +1,111 @@
+
+UNIT_CA_STREGA_YOO_NA_SUMMON.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+front_body
+  rotate: true
+  xy: 536, 279
+  size: 238, 188
+  orig: 238, 188
+  offset: 0, 0
+  index: -1
+front_head
+  rotate: false
+  xy: 536, 93
+  size: 155, 184
+  orig: 155, 184
+  offset: 0, 0
+  index: -1
+front_head_01
+  rotate: false
+  xy: 861, 497
+  size: 89, 65
+  orig: 89, 65
+  offset: 0, 0
+  index: -1
+front_head_02
+  rotate: true
+  xy: 644, 28
+  size: 63, 32
+  orig: 63, 32
+  offset: 0, 0
+  index: -1
+front_head_03
+  rotate: true
+  xy: 882, 725
+  size: 144, 119
+  orig: 144, 119
+  offset: 0, 0
+  index: -1
+front_left_leg_1
+  rotate: false
+  xy: 882, 871
+  size: 128, 149
+  orig: 128, 149
+  offset: 0, 0
+  index: -1
+front_left_leg_2
+  rotate: true
+  xy: 549, 7
+  size: 84, 93
+  orig: 84, 93
+  offset: 0, 0
+  index: -1
+front_left_leg_2_parts
+  rotate: false
+  xy: 826, 507
+  size: 33, 74
+  orig: 33, 74
+  offset: 0, 0
+  index: -1
+front_left_wing
+  rotate: false
+  xy: 2, 66
+  size: 532, 451
+  orig: 532, 451
+  offset: 0, 0
+  index: -1
+front_right_leg_1
+  rotate: false
+  xy: 882, 564
+  size: 100, 159
+  orig: 100, 159
+  offset: 0, 0
+  index: -1
+front_right_leg_2
+  rotate: true
+  xy: 693, 92
+  size: 98, 114
+  orig: 98, 114
+  offset: 0, 0
+  index: -1
+front_right_wing
+  rotate: false
+  xy: 2, 519
+  size: 728, 501
+  orig: 728, 501
+  offset: 0, 0
+  index: -1
+front_tail_1
+  rotate: false
+  xy: 732, 192
+  size: 92, 828
+  orig: 92, 828
+  offset: 0, 0
+  index: -1
+front_tail_2
+  rotate: true
+  xy: 2, 2
+  size: 62, 545
+  orig: 62, 545
+  offset: 0, 0
+  index: -1
+front_tail_3
+  rotate: false
+  xy: 826, 583
+  size: 54, 437
+  orig: 54, 437
+  offset: 0, 0
+  index: -1

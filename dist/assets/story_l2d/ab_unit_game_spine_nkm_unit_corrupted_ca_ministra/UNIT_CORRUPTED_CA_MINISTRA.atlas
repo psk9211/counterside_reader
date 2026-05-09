@@ -1,0 +1,384 @@
+
+UNIT_CORRUPTED_CA_MINISTRA.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+front_body_1_insane_01
+  rotate: false
+  xy: 351, 188
+  size: 155, 329
+  orig: 155, 329
+  offset: 0, 0
+  index: -1
+front_body_1_insane_01_fx
+  rotate: false
+  xy: 782, 693
+  size: 155, 329
+  orig: 155, 329
+  offset: 0, 0
+  index: -1
+front_body_1_insane_02
+  rotate: true
+  xy: 817, 269
+  size: 68, 120
+  orig: 68, 120
+  offset: 0, 0
+  index: -1
+front_body_1_insane_03
+  rotate: false
+  xy: 569, 524
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: -1
+front_body_1_insane_05
+  rotate: false
+  xy: 508, 188
+  size: 155, 329
+  orig: 155, 329
+  offset: 0, 0
+  index: -1
+front_body_ac
+  rotate: false
+  xy: 864, 72
+  size: 55, 42
+  orig: 55, 42
+  offset: 0, 0
+  index: -1
+front_face_a_insane_01
+  rotate: false
+  xy: 502, 11
+  size: 63, 27
+  orig: 63, 27
+  offset: 0, 0
+  index: -1
+front_face_a_insane_02
+  rotate: false
+  xy: 567, 7
+  size: 63, 27
+  orig: 63, 27
+  offset: 0, 0
+  index: -1
+front_face_a_insane_03
+  rotate: true
+  xy: 874, 7
+  size: 63, 27
+  orig: 63, 27
+  offset: 0, 0
+  index: -1
+front_face_a_insane_04
+  rotate: false
+  xy: 903, 41
+  size: 63, 27
+  orig: 63, 27
+  offset: 0, 0
+  index: -1
+front_face_a_insane_05
+  rotate: false
+  xy: 903, 12
+  size: 63, 27
+  orig: 63, 27
+  offset: 0, 0
+  index: -1
+front_face_a_insane_attack_01
+  rotate: true
+  xy: 968, 5
+  size: 63, 27
+  orig: 63, 27
+  offset: 0, 0
+  index: -1
+front_face_a_insane_attack_02
+  rotate: true
+  xy: 972, 220
+  size: 63, 27
+  orig: 63, 27
+  offset: 0, 0
+  index: -1
+front_face_a_insane_attack_03
+  rotate: true
+  xy: 972, 155
+  size: 63, 27
+  orig: 63, 27
+  offset: 0, 0
+  index: -1
+front_face_a_mouse_01
+  rotate: true
+  xy: 939, 269
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+front_hair_1
+  rotate: false
+  xy: 817, 339
+  size: 128, 199
+  orig: 128, 199
+  offset: 0, 0
+  index: -1
+front_hair_2
+  rotate: false
+  xy: 180, 519
+  size: 387, 503
+  orig: 387, 503
+  offset: 0, 0
+  index: -1
+front_head
+  rotate: true
+  xy: 752, 124
+  size: 104, 112
+  orig: 104, 112
+  offset: 0, 0
+  index: -1
+front_head_01
+  rotate: false
+  xy: 866, 116
+  size: 104, 112
+  orig: 104, 112
+  offset: 0, 0
+  index: -1
+front_right_arm_1_insane
+  rotate: false
+  xy: 2, 4
+  size: 217, 37
+  orig: 217, 37
+  offset: 0, 0
+  index: -1
+front_right_arm_1_insane_fx
+  rotate: false
+  xy: 752, 230
+  size: 217, 37
+  orig: 217, 37
+  offset: 0, 0
+  index: -1
+front_right_hair_1
+  rotate: false
+  xy: 569, 537
+  size: 211, 485
+  orig: 211, 485
+  offset: 0, 0
+  index: -1
+front_right_hair_3
+  rotate: true
+  xy: 351, 88
+  size: 98, 251
+  orig: 98, 251
+  offset: 0, 0
+  index: -1
+hand_a__insane
+  rotate: false
+  xy: 580, 36
+  size: 80, 32
+  orig: 80, 32
+  offset: 0, 0
+  index: -1
+hand_a__insane_001
+  rotate: false
+  xy: 604, 70
+  size: 56, 34
+  orig: 56, 34
+  offset: 0, 0
+  index: -1
+hand_a__insane_01
+  rotate: true
+  xy: 604, 106
+  size: 80, 56
+  orig: 80, 56
+  offset: 0, 0
+  index: -1
+hand_b__insane_01
+  rotate: true
+  xy: 921, 70
+  size: 44, 46
+  orig: 44, 46
+  offset: 0, 0
+  index: -1
+hand_b__insane_02
+  rotate: false
+  xy: 828, 12
+  size: 44, 46
+  orig: 44, 46
+  offset: 0, 0
+  index: -1
+hand_b__insane_03
+  rotate: true
+  xy: 828, 60
+  size: 62, 34
+  orig: 62, 34
+  offset: 0, 0
+  index: -1
+hand_b__insane_04
+  rotate: false
+  xy: 502, 40
+  size: 76, 46
+  orig: 76, 46
+  offset: 0, 0
+  index: -1
+hand_c__insane_01
+  rotate: false
+  xy: 251, 88
+  size: 58, 48
+  orig: 58, 48
+  offset: 0, 0
+  index: -1
+hand_c__insane_02
+  rotate: false
+  xy: 947, 335
+  size: 58, 48
+  orig: 58, 48
+  offset: 0, 0
+  index: -1
+hand_c__insane_03
+  rotate: false
+  xy: 768, 74
+  size: 58, 48
+  orig: 58, 48
+  offset: 0, 0
+  index: -1
+hand_c__insane_04
+  rotate: false
+  xy: 768, 24
+  size: 58, 48
+  orig: 58, 48
+  offset: 0, 0
+  index: -1
+hand_c__insane_05
+  rotate: false
+  xy: 939, 285
+  size: 58, 48
+  orig: 58, 48
+  offset: 0, 0
+  index: -1
+side_face_a_insane_01
+  rotate: true
+  xy: 221, 14
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+side_face_a_insane_02
+  rotate: true
+  xy: 632, 7
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+side_face_a_insane_03
+  rotate: false
+  xy: 723, 147
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+side_face_a_insane_04
+  rotate: false
+  xy: 311, 108
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+side_face_b_insane_01
+  rotate: false
+  xy: 694, 139
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+side_head
+  rotate: false
+  xy: 662, 2
+  size: 104, 112
+  orig: 104, 112
+  offset: 0, 0
+  index: -1
+weapon_01
+  rotate: false
+  xy: 2, 111
+  size: 87, 911
+  orig: 87, 911
+  offset: 0, 0
+  index: -1
+weapon_02
+  rotate: true
+  xy: 752, 286
+  size: 249, 63
+  orig: 249, 63
+  offset: 0, 0
+  index: -1
+weapon_03
+  rotate: false
+  xy: 2, 43
+  size: 247, 66
+  orig: 247, 66
+  offset: 0, 0
+  index: -1
+weapon_04
+  rotate: false
+  xy: 180, 138
+  size: 169, 379
+  orig: 169, 379
+  offset: 0, 0
+  index: -1
+weapon_05
+  rotate: false
+  xy: 782, 540
+  size: 155, 151
+  orig: 155, 151
+  offset: 0, 0
+  index: -1
+weapon_06
+  rotate: false
+  xy: 939, 634
+  size: 27, 388
+  orig: 27, 388
+  offset: 0, 0
+  index: -1
+weapon_07
+  rotate: false
+  xy: 968, 640
+  size: 27, 382
+  orig: 27, 382
+  offset: 0, 0
+  index: -1
+weapon_08
+  rotate: false
+  xy: 665, 161
+  size: 27, 374
+  orig: 27, 374
+  offset: 0, 0
+  index: -1
+weapon_09
+  rotate: false
+  xy: 694, 169
+  size: 27, 366
+  orig: 27, 366
+  offset: 0, 0
+  index: -1
+weapon_10
+  rotate: false
+  xy: 723, 177
+  size: 27, 358
+  orig: 27, 358
+  offset: 0, 0
+  index: -1
+weapon_fx_01
+  rotate: false
+  xy: 91, 111
+  size: 87, 911
+  orig: 87, 911
+  offset: 0, 0
+  index: -1
+weapon_fx_02
+  rotate: false
+  xy: 251, 23
+  size: 249, 63
+  orig: 249, 63
+  offset: 0, 0
+  index: -1
+weapon_fx_03
+  rotate: true
+  xy: 947, 385
+  size: 247, 66
+  orig: 247, 66
+  offset: 0, 0
+  index: -1

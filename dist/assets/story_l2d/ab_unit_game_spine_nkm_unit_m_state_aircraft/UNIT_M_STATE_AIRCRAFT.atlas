@@ -1,0 +1,146 @@
+
+UNIT_M_STATE_AIRCRAFT.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 485
+  size: 840, 145
+  orig: 840, 145
+  offset: 0, 0
+  index: -1
+body_ac_1
+  rotate: false
+  xy: 606, 336
+  size: 62, 31
+  orig: 62, 31
+  offset: 0, 0
+  index: -1
+body_ac_1_light
+  rotate: true
+  xy: 280, 6
+  size: 57, 27
+  orig: 57, 27
+  offset: 0, 0
+  index: -1
+body_ac_2
+  rotate: true
+  xy: 280, 65
+  size: 105, 36
+  orig: 105, 36
+  offset: 0, 0
+  index: -1
+body_ac_3
+  rotate: false
+  xy: 844, 569
+  size: 151, 61
+  orig: 151, 61
+  offset: 0, 0
+  index: -1
+body_ac_4
+  rotate: false
+  xy: 844, 505
+  size: 133, 62
+  orig: 133, 62
+  offset: 0, 0
+  index: -1
+body_ac_5
+  rotate: false
+  xy: 472, 186
+  size: 80, 68
+  orig: 80, 68
+  offset: 0, 0
+  index: -1
+body_light
+  rotate: false
+  xy: 694, 443
+  size: 137, 40
+  orig: 137, 40
+  offset: 0, 0
+  index: -1
+booster
+  rotate: false
+  xy: 606, 369
+  size: 86, 114
+  orig: 86, 114
+  offset: 0, 0
+  index: -1
+booster_light
+  rotate: false
+  xy: 694, 373
+  size: 81, 68
+  orig: 81, 68
+  offset: 0, 0
+  index: -1
+damage_body
+  rotate: false
+  xy: 2, 632
+  size: 1006, 385
+  orig: 1006, 385
+  offset: 0, 0
+  index: -1
+damage_body_ac_3
+  rotate: false
+  xy: 319, 193
+  size: 151, 61
+  orig: 151, 61
+  offset: 0, 0
+  index: -1
+damage_down_body
+  rotate: false
+  xy: 319, 256
+  size: 286, 71
+  orig: 286, 71
+  offset: 0, 0
+  index: -1
+damage_wheel
+  rotate: false
+  xy: 777, 371
+  size: 71, 70
+  orig: 71, 70
+  offset: 0, 0
+  index: -1
+damagebody_ac_2
+  rotate: false
+  xy: 319, 155
+  size: 105, 36
+  orig: 105, 36
+  offset: 0, 0
+  index: -1
+fx_booster
+  rotate: false
+  xy: 554, 190
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+wheel
+  rotate: false
+  xy: 318, 83
+  size: 71, 70
+  orig: 71, 70
+  offset: 0, 0
+  index: -1
+wing_a
+  rotate: false
+  xy: 2, 172
+  size: 315, 311
+  orig: 315, 311
+  offset: 0, 0
+  index: -1
+wing_b
+  rotate: true
+  xy: 2, 2
+  size: 168, 276
+  orig: 168, 276
+  offset: 0, 0
+  index: -1
+wing_c
+  rotate: false
+  xy: 319, 329
+  size: 285, 154
+  orig: 285, 154
+  offset: 0, 0
+  index: -1

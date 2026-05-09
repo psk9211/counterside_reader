@@ -1,0 +1,83 @@
+
+M_SL_AIR_BOMBER.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 240
+  size: 392, 120
+  orig: 392, 120
+  offset: 0, 0
+  index: -1
+bomb
+  rotate: false
+  xy: 150, 36
+  size: 150, 32
+  orig: 150, 32
+  offset: 0, 0
+  index: -1
+bomb_light
+  rotate: false
+  xy: 166, 2
+  size: 150, 32
+  orig: 150, 32
+  offset: 0, 0
+  index: -1
+distroy_body
+  rotate: false
+  xy: 2, 362
+  size: 388, 145
+  orig: 388, 145
+  offset: 0, 0
+  index: -1
+distroy_weapon_1
+  rotate: false
+  xy: 2, 70
+  size: 193, 85
+  orig: 193, 85
+  offset: 0, 0
+  index: -1
+distroy_weapon_3
+  rotate: false
+  xy: 2, 6
+  size: 162, 20
+  orig: 162, 20
+  offset: 0, 0
+  index: -1
+prop_1
+  rotate: false
+  xy: 2, 157
+  size: 338, 40
+  orig: 338, 40
+  offset: 0, 0
+  index: -1
+prop_2
+  rotate: false
+  xy: 2, 199
+  size: 344, 39
+  orig: 344, 39
+  offset: 0, 0
+  index: -1
+weapon_1
+  rotate: false
+  xy: 197, 70
+  size: 184, 85
+  orig: 184, 85
+  offset: 0, 0
+  index: -1
+weapon_2
+  rotate: false
+  xy: 2, 28
+  size: 146, 40
+  orig: 146, 40
+  offset: 0, 0
+  index: -1
+weapon_3
+  rotate: false
+  xy: 302, 48
+  size: 162, 20
+  orig: 162, 20
+  offset: 0, 0
+  index: -1

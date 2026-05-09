@@ -1,0 +1,454 @@
+
+UNIT_FUTURE_M_TITAN_PR.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A_E
+  rotate: false
+  xy: 1824, 187
+  size: 57, 55
+  orig: 57, 55
+  offset: 0, 0
+  index: -1
+E_razer
+  rotate: true
+  xy: 449, 203
+  size: 114, 3
+  orig: 114, 3
+  offset: 0, 0
+  index: -1
+arm
+  rotate: false
+  xy: 763, 152
+  size: 250, 178
+  orig: 250, 178
+  offset: 0, 0
+  index: -1
+arm_shield
+  rotate: true
+  xy: 813, 332
+  size: 297, 173
+  orig: 297, 173
+  offset: 0, 0
+  index: -1
+arm_shield_ac
+  rotate: true
+  xy: 1943, 624
+  size: 36, 67
+  orig: 36, 67
+  offset: 0, 0
+  index: -1
+arm_shield_die
+  rotate: false
+  xy: 464, 184
+  size: 297, 173
+  orig: 297, 173
+  offset: 0, 0
+  index: -1
+backpack
+  rotate: false
+  xy: 1265, 774
+  size: 358, 248
+  orig: 358, 248
+  offset: 0, 0
+  index: -1
+backpack system
+  rotate: true
+  xy: 2005, 941
+  size: 81, 40
+  orig: 81, 40
+  offset: 0, 0
+  index: -1
+backpack_ac
+  rotate: true
+  xy: 422, 44
+  size: 52, 23
+  orig: 52, 23
+  offset: 0, 0
+  index: -1
+backpack_ac_case
+  rotate: true
+  xy: 1943, 662
+  size: 132, 69
+  orig: 132, 69
+  offset: 0, 0
+  index: -1
+backpack_antena
+  rotate: true
+  xy: 1407, 10
+  size: 20, 62
+  orig: 20, 62
+  offset: 0, 0
+  index: -1
+backpack_front_ac
+  rotate: false
+  xy: 1883, 190
+  size: 51, 52
+  orig: 51, 52
+  offset: 0, 0
+  index: -1
+body_front
+  rotate: true
+  xy: 1249, 158
+  size: 243, 177
+  orig: 243, 177
+  offset: 0, 0
+  index: -1
+cable_die
+  rotate: false
+  xy: 988, 332
+  size: 6, 69
+  orig: 6, 69
+  offset: 0, 0
+  index: -1
+canard_L
+  rotate: false
+  xy: 1720, 193
+  size: 102, 92
+  orig: 102, 92
+  offset: 0, 0
+  index: -1
+canard_R
+  rotate: false
+  xy: 1428, 135
+  size: 111, 67
+  orig: 111, 67
+  offset: 0, 0
+  index: -1
+canard_R_C
+  rotate: false
+  xy: 293, 38
+  size: 63, 58
+  orig: 63, 58
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 1519, 29
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+foot
+  rotate: true
+  xy: 2, 5
+  size: 57, 125
+  orig: 57, 125
+  offset: 0, 0
+  index: -1
+fx_position_light
+  rotate: false
+  xy: 2005, 899
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+hand
+  rotate: false
+  xy: 1407, 32
+  size: 110, 101
+  orig: 110, 101
+  offset: 0, 0
+  index: -1
+hand_shield
+  rotate: true
+  xy: 894, 637
+  size: 132, 372
+  orig: 132, 372
+  offset: 0, 0
+  index: -1
+hand_shield_die
+  rotate: true
+  xy: 1268, 640
+  size: 132, 372
+  orig: 132, 372
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 1428, 204
+  size: 215, 156
+  orig: 215, 156
+  offset: 0, 0
+  index: -1
+head_ac
+  rotate: true
+  xy: 1519, 76
+  size: 57, 44
+  orig: 57, 44
+  offset: 0, 0
+  index: -1
+head_ac_fx
+  rotate: true
+  xy: 1640, 421
+  size: 11, 28
+  orig: 11, 28
+  offset: 0, 0
+  index: -1
+head_camera
+  rotate: true
+  xy: 1962, 262
+  size: 68, 45
+  orig: 68, 45
+  offset: 0, 0
+  index: -1
+head_camera_lens
+  rotate: false
+  xy: 449, 187
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+head_down
+  rotate: false
+  xy: 1642, 624
+  size: 299, 170
+  orig: 299, 170
+  offset: 0, 0
+  index: -1
+head_front_ac
+  rotate: false
+  xy: 464, 659
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+head_sg
+  rotate: true
+  xy: 179, 2
+  size: 60, 36
+  orig: 60, 36
+  offset: 0, 0
+  index: -1
+leg_down
+  rotate: true
+  xy: 1426, 421
+  size: 217, 212
+  orig: 217, 212
+  offset: 0, 0
+  index: -1
+leg_down_ac
+  rotate: true
+  xy: 905, 6
+  size: 144, 98
+  orig: 144, 98
+  offset: 0, 0
+  index: -1
+leg_up
+  rotate: false
+  xy: 1640, 434
+  size: 238, 188
+  orig: 238, 188
+  offset: 0, 0
+  index: -1
+leg_up_ac
+  rotate: false
+  xy: 1850, 244
+  size: 110, 86
+  orig: 110, 86
+  offset: 0, 0
+  index: -1
+missile_launcher_L
+  rotate: false
+  xy: 894, 771
+  size: 369, 251
+  orig: 369, 251
+  offset: 0, 0
+  index: -1
+missile_launcher_R
+  rotate: false
+  xy: 464, 359
+  size: 347, 270
+  orig: 347, 270
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 1720, 287
+  size: 128, 145
+  orig: 128, 145
+  offset: 0, 0
+  index: -1
+part_in
+  rotate: false
+  xy: 1850, 332
+  size: 135, 96
+  orig: 135, 96
+  offset: 0, 0
+  index: -1
+railgun_ac
+  rotate: true
+  xy: 1987, 335
+  size: 93, 57
+  orig: 93, 57
+  offset: 0, 0
+  index: -1
+railgun_back
+  rotate: false
+  xy: 716, 28
+  size: 187, 122
+  orig: 187, 122
+  offset: 0, 0
+  index: -1
+railgun_barrel
+  rotate: false
+  xy: 2, 98
+  size: 445, 219
+  orig: 445, 219
+  offset: 0, 0
+  index: -1
+railgun_main
+  rotate: false
+  xy: 1212, 4
+  size: 193, 152
+  orig: 193, 152
+  offset: 0, 0
+  index: -1
+railgun_mount
+  rotate: true
+  xy: 1880, 430
+  size: 192, 150
+  orig: 192, 150
+  offset: 0, 0
+  index: -1
+railgun_side_armor
+  rotate: false
+  xy: 449, 18
+  size: 265, 164
+  orig: 265, 164
+  offset: 0, 0
+  index: -1
+railgun_side_armor_ac
+  rotate: false
+  xy: 1586, 184
+  size: 76, 58
+  orig: 76, 58
+  offset: 0, 0
+  index: -1
+side_turret_armor_L
+  rotate: true
+  xy: 1233, 403
+  size: 232, 191
+  orig: 232, 191
+  offset: 0, 0
+  index: -1
+side_turret_armor_R
+  rotate: false
+  xy: 988, 403
+  size: 243, 232
+  orig: 243, 232
+  offset: 0, 0
+  index: -1
+side_turret_armor_R_die
+  rotate: true
+  xy: 1015, 158
+  size: 243, 232
+  orig: 243, 232
+  offset: 0, 0
+  index: -1
+side_turret_gun_mk2
+  rotate: false
+  xy: 2, 64
+  size: 215, 32
+  orig: 215, 32
+  offset: 0, 0
+  index: -1
+smokegrenade
+  rotate: true
+  xy: 129, 2
+  size: 60, 48
+  orig: 60, 48
+  offset: 0, 0
+  index: -1
+sub_engine
+  rotate: false
+  xy: 2, 319
+  size: 460, 358
+  orig: 460, 358
+  offset: 0, 0
+  index: -1
+sub_engine_L
+  rotate: true
+  xy: 1586, 244
+  size: 175, 132
+  orig: 175, 132
+  offset: 0, 0
+  index: -1
+sub_engine_R
+  rotate: false
+  xy: 1015, 2
+  size: 195, 154
+  orig: 195, 154
+  offset: 0, 0
+  index: -1
+sub_engine_booster_R
+  rotate: false
+  xy: 1625, 796
+  size: 378, 226
+  orig: 378, 226
+  offset: 0, 0
+  index: -1
+sub_engine_thrust
+  rotate: false
+  xy: 219, 30
+  size: 72, 66
+  orig: 72, 66
+  offset: 0, 0
+  index: -1
+toe_end
+  rotate: true
+  xy: 358, 39
+  size: 57, 62
+  orig: 57, 62
+  offset: 0, 0
+  index: -1
+toe_first
+  rotate: true
+  xy: 1664, 170
+  size: 72, 52
+  orig: 72, 52
+  offset: 0, 0
+  index: -1
+toe_mid
+  rotate: true
+  xy: 1936, 192
+  size: 50, 45
+  orig: 50, 45
+  offset: 0, 0
+  index: -1
+top_camera
+  rotate: true
+  xy: 716, 155
+  size: 27, 35
+  orig: 27, 35
+  offset: 0, 0
+  index: -1
+top_camera_base
+  rotate: false
+  xy: 1962, 244
+  size: 30, 16
+  orig: 30, 16
+  offset: 0, 0
+  index: -1
+top_camera_lens
+  rotate: false
+  xy: 1625, 787
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+wing_armor_L
+  rotate: true
+  xy: 488, 631
+  size: 391, 404
+  orig: 391, 404
+  offset: 0, 0
+  index: -1
+wing_armor_R
+  rotate: false
+  xy: 2, 679
+  size: 484, 343
+  orig: 484, 343
+  offset: 0, 0
+  index: -1

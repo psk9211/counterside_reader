@@ -1,0 +1,188 @@
+
+UNIT_S_HOGSBACK_TOM.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+front_body_1a
+  rotate: false
+  xy: 265, 323
+  size: 122, 185
+  orig: 122, 185
+  offset: 0, 0
+  index: -1
+front_body_1b
+  rotate: true
+  xy: 473, 217
+  size: 49, 24
+  orig: 49, 24
+  offset: 0, 0
+  index: -1
+front_body_2a
+  rotate: false
+  xy: 140, 44
+  size: 87, 73
+  orig: 87, 73
+  offset: 0, 0
+  index: -1
+front_body_2b
+  rotate: true
+  xy: 406, 245
+  size: 83, 65
+  orig: 83, 65
+  offset: 0, 0
+  index: -1
+front_head
+  rotate: false
+  xy: 406, 176
+  size: 65, 67
+  orig: 65, 67
+  offset: 0, 0
+  index: -1
+front_head_ef
+  rotate: true
+  xy: 472, 394
+  size: 36, 30
+  orig: 36, 30
+  offset: 0, 0
+  index: -1
+front_left_arm_1
+  rotate: false
+  xy: 389, 330
+  size: 92, 45
+  orig: 92, 45
+  offset: 0, 0
+  index: -1
+front_left_arm_1_ef
+  rotate: false
+  xy: 2, 3
+  size: 31, 25
+  orig: 31, 25
+  offset: 0, 0
+  index: -1
+front_left_arm_2
+  rotate: false
+  xy: 330, 88
+  size: 98, 41
+  orig: 98, 41
+  offset: 0, 0
+  index: -1
+front_left_arm_3
+  rotate: false
+  xy: 472, 474
+  size: 38, 34
+  orig: 38, 34
+  offset: 0, 0
+  index: -1
+front_left_leg_1a
+  rotate: false
+  xy: 389, 377
+  size: 81, 131
+  orig: 81, 131
+  offset: 0, 0
+  index: -1
+front_left_leg_1b
+  rotate: false
+  xy: 229, 23
+  size: 56, 39
+  orig: 56, 39
+  offset: 0, 0
+  index: -1
+front_left_leg_2
+  rotate: false
+  xy: 265, 178
+  size: 76, 143
+  orig: 76, 143
+  offset: 0, 0
+  index: -1
+front_left_leg_3
+  rotate: true
+  xy: 140, 2
+  size: 40, 53
+  orig: 40, 53
+  offset: 0, 0
+  index: -1
+front_left_shoulder_1
+  rotate: false
+  xy: 265, 117
+  size: 63, 59
+  orig: 63, 59
+  offset: 0, 0
+  index: -1
+front_right_arm_1
+  rotate: true
+  xy: 430, 81
+  size: 93, 44
+  orig: 93, 44
+  offset: 0, 0
+  index: -1
+front_right_arm_2
+  rotate: false
+  xy: 330, 131
+  size: 98, 43
+  orig: 98, 43
+  offset: 0, 0
+  index: -1
+front_right_arm_3a
+  rotate: true
+  xy: 472, 432
+  size: 40, 32
+  orig: 40, 32
+  offset: 0, 0
+  index: -1
+front_right_leg_1a
+  rotate: true
+  xy: 2, 30
+  size: 69, 136
+  orig: 69, 136
+  offset: 0, 0
+  index: -1
+front_right_leg_1b
+  rotate: true
+  xy: 473, 268
+  size: 60, 37
+  orig: 60, 37
+  offset: 0, 0
+  index: -1
+front_right_leg_2
+  rotate: false
+  xy: 343, 176
+  size: 61, 145
+  orig: 61, 145
+  offset: 0, 0
+  index: -1
+front_right_leg_3
+  rotate: false
+  xy: 229, 64
+  size: 60, 51
+  orig: 60, 51
+  offset: 0, 0
+  index: -1
+front_right_shoulder_1a
+  rotate: true
+  xy: 325, 43
+  size: 43, 54
+  orig: 43, 54
+  offset: 0, 0
+  index: -1
+front_right_shoulder_1b
+  rotate: false
+  xy: 291, 76
+  size: 32, 39
+  orig: 32, 39
+  offset: 0, 0
+  index: -1
+weapon_1
+  rotate: false
+  xy: 2, 101
+  size: 121, 407
+  orig: 121, 407
+  offset: 0, 0
+  index: -1
+weapon_2
+  rotate: false
+  xy: 125, 119
+  size: 138, 389
+  orig: 138, 389
+  offset: 0, 0
+  index: -1

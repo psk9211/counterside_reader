@@ -1,0 +1,293 @@
+
+UNIT_M_STATE_GUNSHIP.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_body
+  rotate: false
+  xy: 2, 855
+  size: 895, 167
+  orig: 895, 167
+  offset: 0, 0
+  index: -1
+a_body_light
+  rotate: true
+  xy: 724, 484
+  size: 369, 109
+  orig: 369, 109
+  offset: 0, 0
+  index: -1
+a_engine_1
+  rotate: true
+  xy: 612, 439
+  size: 183, 69
+  orig: 183, 69
+  offset: 0, 0
+  index: -1
+a_engine_1_light
+  rotate: false
+  xy: 846, 255
+  size: 104, 66
+  orig: 104, 66
+  offset: 0, 0
+  index: -1
+a_engine_2
+  rotate: false
+  xy: 555, 2
+  size: 158, 38
+  orig: 158, 38
+  offset: 0, 0
+  index: -1
+a_weapon_1
+  rotate: true
+  xy: 846, 151
+  size: 49, 80
+  orig: 49, 80
+  offset: 0, 0
+  index: -1
+a_weapon_1_light
+  rotate: true
+  xy: 928, 148
+  size: 49, 80
+  orig: 49, 80
+  offset: 0, 0
+  index: -1
+a_weapon_2
+  rotate: true
+  xy: 189, 7
+  size: 30, 41
+  orig: 30, 41
+  offset: 0, 0
+  index: -1
+a_weapon_2_light
+  rotate: true
+  xy: 686, 47
+  size: 30, 41
+  orig: 30, 41
+  offset: 0, 0
+  index: -1
+b_body
+  rotate: false
+  xy: 2, 310
+  size: 529, 147
+  orig: 529, 147
+  offset: 0, 0
+  index: -1
+b_engine_1
+  rotate: true
+  xy: 533, 317
+  size: 140, 60
+  orig: 140, 60
+  offset: 0, 0
+  index: -1
+b_engine_2
+  rotate: true
+  xy: 939, 715
+  size: 165, 48
+  orig: 165, 48
+  offset: 0, 0
+  index: -1
+b_weapon_1
+  rotate: false
+  xy: 686, 79
+  size: 68, 81
+  orig: 68, 81
+  offset: 0, 0
+  index: -1
+b_weapon_2
+  rotate: false
+  xy: 984, 553
+  size: 38, 37
+  orig: 38, 37
+  offset: 0, 0
+  index: -1
+c_body
+  rotate: false
+  xy: 834, 323
+  size: 149, 146
+  orig: 149, 146
+  offset: 0, 0
+  index: -1
+c_engine_1
+  rotate: false
+  xy: 952, 261
+  size: 55, 60
+  orig: 55, 60
+  offset: 0, 0
+  index: -1
+c_engine_2
+  rotate: false
+  xy: 905, 92
+  size: 47, 54
+  orig: 47, 54
+  offset: 0, 0
+  index: -1
+c_head
+  rotate: false
+  xy: 555, 135
+  size: 128, 180
+  orig: 128, 180
+  offset: 0, 0
+  index: -1
+c_weapon_1
+  rotate: true
+  xy: 939, 473
+  size: 117, 43
+  orig: 117, 43
+  offset: 0, 0
+  index: -1
+c_weapon_2
+  rotate: false
+  xy: 689, 323
+  size: 64, 17
+  orig: 64, 17
+  offset: 0, 0
+  index: -1
+common_shadow
+  rotate: false
+  xy: 756, 92
+  size: 68, 68
+  orig: 68, 68
+  offset: 0, 0
+  index: -1
+d_body
+  rotate: false
+  xy: 2, 459
+  size: 608, 163
+  orig: 608, 163
+  offset: 0, 0
+  index: -1
+d_engine_1
+  rotate: false
+  xy: 846, 202
+  size: 109, 51
+  orig: 109, 51
+  offset: 0, 0
+  index: -1
+d_engine_2
+  rotate: true
+  xy: 939, 592
+  size: 121, 47
+  orig: 121, 47
+  offset: 0, 0
+  index: -1
+damage_body_1
+  rotate: false
+  xy: 2, 624
+  size: 720, 229
+  orig: 720, 229
+  offset: 0, 0
+  index: -1
+damage_body_2
+  rotate: false
+  xy: 2, 39
+  size: 382, 269
+  orig: 382, 269
+  offset: 0, 0
+  index: -1
+damage_engine
+  rotate: true
+  xy: 957, 199
+  size: 60, 53
+  orig: 60, 53
+  offset: 0, 0
+  index: -1
+damage_weapon
+  rotate: false
+  xy: 2, 2
+  size: 87, 35
+  orig: 87, 35
+  offset: 0, 0
+  index: -1
+e_body
+  rotate: false
+  xy: 689, 342
+  size: 143, 140
+  orig: 143, 140
+  offset: 0, 0
+  index: -1
+e_engine_1
+  rotate: true
+  xy: 982, 963
+  size: 59, 40
+  orig: 59, 40
+  offset: 0, 0
+  index: -1
+e_head
+  rotate: false
+  xy: 595, 332
+  size: 92, 105
+  orig: 92, 105
+  offset: 0, 0
+  index: -1
+head_ac
+  rotate: false
+  xy: 826, 91
+  size: 77, 58
+  orig: 77, 58
+  offset: 0, 0
+  index: -1
+propeller
+  rotate: false
+  xy: 685, 162
+  size: 159, 159
+  orig: 159, 159
+  offset: 0, 0
+  index: -1
+wing_1
+  rotate: true
+  xy: 835, 471
+  size: 382, 102
+  orig: 382, 102
+  offset: 0, 0
+  index: -1
+wing_2
+  rotate: true
+  xy: 899, 882
+  size: 140, 81
+  orig: 140, 81
+  offset: 0, 0
+  index: -1
+wing_3
+  rotate: true
+  xy: 386, 11
+  size: 297, 167
+  orig: 297, 167
+  offset: 0, 0
+  index: -1
+z_engine_1
+  rotate: false
+  xy: 982, 906
+  size: 27, 55
+  orig: 27, 55
+  offset: 0, 0
+  index: -1
+z_engine_2
+  rotate: false
+  xy: 683, 565
+  size: 39, 57
+  orig: 39, 57
+  offset: 0, 0
+  index: -1
+z_engine_3
+  rotate: false
+  xy: 555, 42
+  size: 129, 91
+  orig: 129, 91
+  offset: 0, 0
+  index: -1
+z_engine_4
+  rotate: false
+  xy: 683, 510
+  size: 27, 53
+  orig: 27, 53
+  offset: 0, 0
+  index: -1
+z_weapon_1
+  rotate: true
+  xy: 91, 6
+  size: 31, 96
+  orig: 31, 96
+  offset: 0, 0
+  index: -1

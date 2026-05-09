@@ -1,0 +1,272 @@
+
+UNIT_S_FOX_RIFLE.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX_SHOT_1
+  rotate: false
+  xy: 110, 135
+  size: 82, 85
+  orig: 82, 85
+  offset: 0, 0
+  index: -1
+FX_SHOT_2_3
+  rotate: false
+  xy: 178, 41
+  size: 74, 66
+  orig: 74, 66
+  offset: 0, 0
+  index: -1
+FX_SHOT_2_4
+  rotate: false
+  xy: 2, 5
+  size: 96, 55
+  orig: 96, 55
+  offset: 0, 0
+  index: -1
+body_body_ac_a
+  rotate: false
+  xy: 373, 235
+  size: 68, 59
+  orig: 68, 59
+  offset: 0, 0
+  index: -1
+body_left_arm_1
+  rotate: false
+  xy: 368, 93
+  size: 113, 41
+  orig: 113, 41
+  offset: 0, 0
+  index: -1
+body_left_arm_2
+  rotate: true
+  xy: 434, 344
+  size: 89, 38
+  orig: 89, 38
+  offset: 0, 0
+  index: -1
+body_left_arm_a
+  rotate: true
+  xy: 474, 346
+  size: 39, 27
+  orig: 39, 27
+  offset: 0, 0
+  index: -1
+body_left_arm_b
+  rotate: true
+  xy: 483, 97
+  size: 50, 27
+  orig: 50, 27
+  offset: 0, 0
+  index: -1
+body_left_leg_ac
+  rotate: true
+  xy: 395, 3
+  size: 37, 39
+  orig: 37, 39
+  offset: 0, 0
+  index: -1
+body_rght_arm3
+  rotate: false
+  xy: 152, 2
+  size: 63, 37
+  orig: 63, 37
+  offset: 0, 0
+  index: -1
+body_rght_arm3_2
+  rotate: true
+  xy: 474, 387
+  size: 46, 33
+  orig: 46, 33
+  offset: 0, 0
+  index: -1
+body_rght_arm_d
+  rotate: true
+  xy: 449, 31
+  size: 60, 49
+  orig: 60, 49
+  offset: 0, 0
+  index: -1
+body_right_arm_1
+  rotate: false
+  xy: 373, 296
+  size: 121, 45
+  orig: 121, 45
+  offset: 0, 0
+  index: -1
+body_right_arm_2
+  rotate: false
+  xy: 254, 65
+  size: 96, 42
+  orig: 96, 42
+  offset: 0, 0
+  index: -1
+body_right_leg_ac
+  rotate: false
+  xy: 254, 18
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+front_body
+  rotate: false
+  xy: 299, 343
+  size: 133, 167
+  orig: 133, 167
+  offset: 0, 0
+  index: -1
+front_body_2
+  rotate: true
+  xy: 396, 136
+  size: 97, 73
+  orig: 97, 73
+  offset: 0, 0
+  index: -1
+front_body_a
+  rotate: false
+  xy: 100, 3
+  size: 50, 47
+  orig: 50, 47
+  offset: 0, 0
+  index: -1
+front_body_ac_1
+  rotate: false
+  xy: 287, 371
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+front_body_bag_2
+  rotate: false
+  xy: 289, 260
+  size: 82, 81
+  orig: 82, 81
+  offset: 0, 0
+  index: -1
+front_body_bag_3
+  rotate: true
+  xy: 352, 42
+  size: 49, 95
+  orig: 49, 95
+  offset: 0, 0
+  index: -1
+front_body_belt_1
+  rotate: true
+  xy: 471, 149
+  size: 93, 39
+  orig: 93, 39
+  offset: 0, 0
+  index: -1
+front_body_belt_2
+  rotate: false
+  xy: 2, 62
+  size: 103, 44
+  orig: 103, 44
+  offset: 0, 0
+  index: -1
+front_body_gun
+  rotate: false
+  xy: 110, 222
+  size: 94, 179
+  orig: 94, 179
+  offset: 0, 0
+  index: -1
+front_face_a
+  rotate: true
+  xy: 285, 333
+  size: 10, 2
+  orig: 10, 2
+  offset: 0, 0
+  index: -1
+front_face_b
+  rotate: true
+  xy: 276, 328
+  size: 15, 7
+  orig: 15, 7
+  offset: 0, 0
+  index: -1
+front_haed_cap
+  rotate: false
+  xy: 434, 435
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+front_hair
+  rotate: false
+  xy: 276, 345
+  size: 9, 28
+  orig: 9, 28
+  offset: 0, 0
+  index: -1
+front_head
+  rotate: false
+  xy: 110, 52
+  size: 66, 81
+  orig: 66, 81
+  offset: 0, 0
+  index: -1
+front_left_leg_1
+  rotate: true
+  xy: 206, 168
+  size: 63, 188
+  orig: 63, 188
+  offset: 0, 0
+  index: -1
+front_left_leg_2
+  rotate: true
+  xy: 194, 109
+  size: 57, 172
+  orig: 57, 172
+  offset: 0, 0
+  index: -1
+front_left_leg_3
+  rotate: false
+  xy: 443, 244
+  size: 67, 50
+  orig: 67, 50
+  offset: 0, 0
+  index: -1
+front_right_leg_2
+  rotate: false
+  xy: 206, 233
+  size: 68, 168
+  orig: 68, 168
+  offset: 0, 0
+  index: -1
+front_right_leg_3
+  rotate: false
+  xy: 301, 8
+  size: 38, 55
+  orig: 38, 55
+  offset: 0, 0
+  index: -1
+heal_pack
+  rotate: true
+  xy: 341, 3
+  size: 37, 52
+  orig: 37, 52
+  offset: 0, 0
+  index: -1
+wapon
+  rotate: false
+  xy: 2, 403
+  size: 295, 107
+  orig: 295, 107
+  offset: 0, 0
+  index: -1
+weapon_cc
+  rotate: true
+  xy: 276, 375
+  size: 26, 10
+  orig: 26, 10
+  offset: 0, 0
+  index: -1
+weapon_light
+  rotate: true
+  xy: 2, 108
+  size: 293, 106
+  orig: 293, 106
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,146 @@
+
+C_STREGA_LAURA.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+front_body
+  rotate: false
+  xy: 362, 352
+  size: 108, 158
+  orig: 108, 158
+  offset: 0, 0
+  index: -1
+front_body_ac_1
+  rotate: false
+  xy: 397, 177
+  size: 86, 96
+  orig: 86, 96
+  offset: 0, 0
+  index: -1
+front_body_ac_2
+  rotate: false
+  xy: 277, 95
+  size: 70, 87
+  orig: 70, 87
+  offset: 0, 0
+  index: -1
+front_face_a
+  rotate: false
+  xy: 277, 27
+  size: 75, 66
+  orig: 75, 66
+  offset: 0, 0
+  index: -1
+front_face_b
+  rotate: false
+  xy: 349, 111
+  size: 78, 64
+  orig: 78, 64
+  offset: 0, 0
+  index: -1
+front_face_c
+  rotate: true
+  xy: 354, 31
+  size: 78, 64
+  orig: 78, 64
+  offset: 0, 0
+  index: -1
+front_head
+  rotate: false
+  xy: 2, 201
+  size: 130, 149
+  orig: 130, 149
+  offset: 0, 0
+  index: -1
+front_left_arm_1
+  rotate: true
+  xy: 2, 2
+  size: 34, 86
+  orig: 34, 86
+  offset: 0, 0
+  index: -1
+front_left_arm_2
+  rotate: false
+  xy: 2, 38
+  size: 104, 161
+  orig: 104, 161
+  offset: 0, 0
+  index: -1
+front_left_arm_2_b
+  rotate: true
+  xy: 134, 246
+  size: 104, 161
+  orig: 104, 161
+  offset: 0, 0
+  index: -1
+front_left_leg_1
+  rotate: false
+  xy: 297, 184
+  size: 98, 89
+  orig: 98, 89
+  offset: 0, 0
+  index: -1
+front_left_leg_2
+  rotate: true
+  xy: 472, 440
+  size: 70, 27
+  orig: 70, 27
+  offset: 0, 0
+  index: -1
+front_left_leg_3
+  rotate: false
+  xy: 108, 64
+  size: 101, 110
+  orig: 101, 110
+  offset: 0, 0
+  index: -1
+front_neck_ac
+  rotate: false
+  xy: 156, 7
+  size: 68, 55
+  orig: 68, 55
+  offset: 0, 0
+  index: -1
+front_right_arm_1
+  rotate: false
+  xy: 429, 88
+  size: 47, 87
+  orig: 47, 87
+  offset: 0, 0
+  index: -1
+front_right_arm_2
+  rotate: true
+  xy: 297, 275
+  size: 75, 169
+  orig: 75, 169
+  offset: 0, 0
+  index: -1
+front_right_leg_1
+  rotate: false
+  xy: 211, 66
+  size: 64, 108
+  orig: 64, 108
+  offset: 0, 0
+  index: -1
+front_right_leg_2
+  rotate: true
+  xy: 108, 2
+  size: 60, 46
+  orig: 60, 46
+  offset: 0, 0
+  index: -1
+front_right_leg_3
+  rotate: true
+  xy: 134, 176
+  size: 68, 131
+  orig: 68, 131
+  offset: 0, 0
+  index: -1
+front_tail
+  rotate: false
+  xy: 2, 352
+  size: 358, 158
+  orig: 358, 158
+  offset: 0, 0
+  index: -1

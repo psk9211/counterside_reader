@@ -1,0 +1,510 @@
+
+UNIT_SECURITY_S_AGENT.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A_E
+  rotate: false
+  xy: 948, 331
+  size: 72, 70
+  orig: 72, 70
+  offset: 0, 0
+  index: -1
+Arm
+  rotate: false
+  xy: 753, 274
+  size: 181, 55
+  orig: 181, 55
+  offset: 0, 0
+  index: -1
+ArmIn
+  rotate: true
+  xy: 836, 4
+  size: 68, 32
+  orig: 68, 32
+  offset: 0, 0
+  index: -1
+B_L_Hair
+  rotate: false
+  xy: 646, 118
+  size: 60, 90
+  orig: 60, 90
+  offset: 0, 0
+  index: -1
+B_R_Hair
+  rotate: false
+  xy: 799, 149
+  size: 44, 63
+  orig: 44, 63
+  offset: 0, 0
+  index: -1
+Bag
+  rotate: false
+  xy: 638, 210
+  size: 63, 94
+  orig: 63, 94
+  offset: 0, 0
+  index: -1
+Barst_Belt
+  rotate: false
+  xy: 745, 249
+  size: 122, 23
+  orig: 122, 23
+  offset: 0, 0
+  index: -1
+Belt
+  rotate: true
+  xy: 931, 506
+  size: 122, 32
+  orig: 122, 32
+  offset: 0, 0
+  index: -1
+Bike_Body
+  rotate: false
+  xy: 2, 690
+  size: 573, 332
+  orig: 573, 332
+  offset: 0, 0
+  index: -1
+Bike_Body_ac
+  rotate: false
+  xy: 260, 88
+  size: 145, 108
+  orig: 145, 108
+  offset: 0, 0
+  index: -1
+Bike_Body_ac2
+  rotate: false
+  xy: 780, 42
+  size: 14, 72
+  orig: 14, 72
+  offset: 0, 0
+  index: -1
+Bike_Body_ac3
+  rotate: true
+  xy: 936, 267
+  size: 62, 83
+  orig: 62, 83
+  offset: 0, 0
+  index: -1
+Bike_F_Body
+  rotate: false
+  xy: 571, 318
+  size: 62, 316
+  orig: 62, 316
+  offset: 0, 0
+  index: -1
+Bike_F_Body_ac
+  rotate: true
+  xy: 993, 622
+  size: 40, 26
+  orig: 40, 26
+  offset: 0, 0
+  index: -1
+Bike_Handle
+  rotate: true
+  xy: 410, 38
+  size: 62, 124
+  orig: 62, 124
+  offset: 0, 0
+  index: -1
+Bike_Handle_ac
+  rotate: true
+  xy: 2, 2
+  size: 13, 58
+  orig: 13, 58
+  offset: 0, 0
+  index: -1
+Bike_Handle_ac2
+  rotate: false
+  xy: 962, 150
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+Bike_Handle_ac3
+  rotate: false
+  xy: 822, 389
+  size: 113, 72
+  orig: 113, 72
+  offset: 0, 0
+  index: -1
+Bike_HeadLight
+  rotate: true
+  xy: 621, 2
+  size: 52, 66
+  orig: 52, 66
+  offset: 0, 0
+  index: -1
+Bike_Number
+  rotate: true
+  xy: 965, 443
+  size: 169, 40
+  orig: 169, 40
+  offset: 0, 0
+  index: -1
+Bike_Tank
+  rotate: true
+  xy: 635, 416
+  size: 218, 116
+  orig: 218, 116
+  offset: 0, 0
+  index: -1
+Bike_Wheel
+  rotate: true
+  xy: 577, 636
+  size: 256, 257
+  orig: 256, 257
+  offset: 0, 0
+  index: -1
+Bike_Wheel_Cover
+  rotate: false
+  xy: 2, 17
+  size: 256, 190
+  orig: 256, 190
+  offset: 0, 0
+  index: -1
+Bike_braek
+  rotate: true
+  xy: 474, 5
+  size: 31, 58
+  orig: 31, 58
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 836, 630
+  size: 131, 262
+  orig: 131, 262
+  offset: 0, 0
+  index: -1
+Coat_B
+  rotate: false
+  xy: 2, 209
+  size: 282, 479
+  orig: 282, 479
+  offset: 0, 0
+  index: -1
+Coat_B_ac1
+  rotate: false
+  xy: 703, 220
+  size: 40, 84
+  orig: 40, 84
+  offset: 0, 0
+  index: -1
+Coat_B_ac2
+  rotate: false
+  xy: 260, 8
+  size: 148, 78
+  orig: 148, 78
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: true
+  xy: 796, 74
+  size: 73, 40
+  orig: 73, 40
+  offset: 0, 0
+  index: -1
+Eye2
+  rotate: true
+  xy: 838, 74
+  size: 73, 40
+  orig: 73, 40
+  offset: 0, 0
+  index: -1
+Eye3
+  rotate: false
+  xy: 845, 194
+  size: 73, 40
+  orig: 73, 40
+  offset: 0, 0
+  index: -1
+Eye4
+  rotate: false
+  xy: 845, 152
+  size: 73, 40
+  orig: 73, 40
+  offset: 0, 0
+  index: -1
+Eye5
+  rotate: true
+  xy: 880, 77
+  size: 73, 40
+  orig: 73, 40
+  offset: 0, 0
+  index: -1
+Eye_Close
+  rotate: true
+  xy: 904, 2
+  size: 73, 40
+  orig: 73, 40
+  offset: 0, 0
+  index: -1
+F_Hair
+  rotate: false
+  xy: 553, 188
+  size: 83, 88
+  orig: 83, 88
+  offset: 0, 0
+  index: -1
+F_Hair_ac
+  rotate: false
+  xy: 922, 124
+  size: 38, 59
+  orig: 38, 59
+  offset: 0, 0
+  index: -1
+F_Hair_side
+  rotate: true
+  xy: 539, 120
+  size: 66, 105
+  orig: 66, 105
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 635, 306
+  size: 108, 116
+  orig: 108, 116
+  offset: 0, 0
+  index: -1
+L_Coat
+  rotate: false
+  xy: 993, 664
+  size: 28, 228
+  orig: 28, 228
+  offset: 0, 0
+  index: -1
+L_Foot
+  rotate: false
+  xy: 822, 463
+  size: 107, 165
+  orig: 107, 165
+  offset: 0, 0
+  index: -1
+L_Leg
+  rotate: false
+  xy: 487, 282
+  size: 82, 406
+  orig: 82, 406
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: true
+  xy: 571, 681
+  size: 7, 4
+  orig: 7, 4
+  offset: 0, 0
+  index: -1
+Mouth_B
+  rotate: false
+  xy: 753, 389
+  size: 15, 6
+  orig: 15, 6
+  offset: 0, 0
+  index: -1
+Mouth_C
+  rotate: false
+  xy: 931, 484
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+Mouth_D
+  rotate: true
+  xy: 1014, 246
+  size: 19, 8
+  orig: 19, 8
+  offset: 0, 0
+  index: -1
+Neck
+  rotate: true
+  xy: 774, 2
+  size: 38, 60
+  orig: 38, 60
+  offset: 0, 0
+  index: -1
+Neck_L_ac
+  rotate: false
+  xy: 920, 185
+  size: 58, 40
+  orig: 58, 40
+  offset: 0, 0
+  index: -1
+Neck_R_ac
+  rotate: true
+  xy: 980, 187
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+R_Coat
+  rotate: false
+  xy: 286, 198
+  size: 199, 490
+  orig: 199, 490
+  offset: 0, 0
+  index: -1
+R_Coat_ac
+  rotate: true
+  xy: 624, 56
+  size: 60, 82
+  orig: 60, 82
+  offset: 0, 0
+  index: -1
+R_Coat_ac2
+  rotate: true
+  xy: 708, 45
+  size: 69, 70
+  orig: 69, 70
+  offset: 0, 0
+  index: -1
+R_Coat_belt2
+  rotate: false
+  xy: 753, 397
+  size: 67, 237
+  orig: 67, 237
+  offset: 0, 0
+  index: -1
+R_Coat_belt_1
+  rotate: true
+  xy: 969, 614
+  size: 278, 22
+  orig: 278, 22
+  offset: 0, 0
+  index: -1
+R_Foot
+  rotate: true
+  xy: 753, 331
+  size: 56, 193
+  orig: 56, 193
+  offset: 0, 0
+  index: -1
+R_Leg
+  rotate: true
+  xy: 577, 894
+  size: 128, 444
+  orig: 128, 444
+  offset: 0, 0
+  index: -1
+SmokeGrenade
+  rotate: true
+  xy: 745, 214
+  size: 33, 90
+  orig: 33, 90
+  offset: 0, 0
+  index: -1
+Weapon
+  rotate: false
+  xy: 407, 102
+  size: 130, 94
+  orig: 130, 94
+  offset: 0, 0
+  index: -1
+hand_a
+  rotate: false
+  xy: 539, 80
+  size: 83, 38
+  orig: 83, 38
+  offset: 0, 0
+  index: -1
+hand_b
+  rotate: false
+  xy: 689, 6
+  size: 83, 37
+  orig: 83, 37
+  offset: 0, 0
+  index: -1
+hand_c
+  rotate: false
+  xy: 571, 278
+  size: 62, 38
+  orig: 62, 38
+  offset: 0, 0
+  index: -1
+hand_d
+  rotate: false
+  xy: 869, 236
+  size: 62, 36
+  orig: 62, 36
+  offset: 0, 0
+  index: -1
+hand_e
+  rotate: true
+  xy: 870, 10
+  size: 62, 32
+  orig: 62, 32
+  offset: 0, 0
+  index: -1
+hand_f
+  rotate: false
+  xy: 410, 2
+  size: 62, 34
+  orig: 62, 34
+  offset: 0, 0
+  index: -1
+hand_g
+  rotate: false
+  xy: 937, 403
+  size: 85, 38
+  orig: 85, 38
+  offset: 0, 0
+  index: -1
+hand_h
+  rotate: false
+  xy: 708, 116
+  size: 84, 36
+  orig: 84, 36
+  offset: 0, 0
+  index: -1
+hand_i
+  rotate: false
+  xy: 536, 15
+  size: 83, 63
+  orig: 83, 63
+  offset: 0, 0
+  index: -1
+hand_j
+  rotate: true
+  xy: 487, 198
+  size: 82, 64
+  orig: 82, 64
+  offset: 0, 0
+  index: -1
+hand_k
+  rotate: false
+  xy: 922, 85
+  size: 35, 37
+  orig: 35, 37
+  offset: 0, 0
+  index: -1
+hand_l
+  rotate: false
+  xy: 708, 154
+  size: 89, 58
+  orig: 89, 58
+  offset: 0, 0
+  index: -1
+hand_m
+  rotate: false
+  xy: 933, 227
+  size: 79, 38
+  orig: 79, 38
+  offset: 0, 0
+  index: -1
+pendent
+  rotate: true
+  xy: 1007, 610
+  size: 10, 15
+  orig: 10, 15
+  offset: 0, 0
+  index: -1
+weapon_cc
+  rotate: false
+  xy: 997, 171
+  size: 25, 14
+  orig: 25, 14
+  offset: 0, 0
+  index: -1

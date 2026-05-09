@@ -1,0 +1,139 @@
+
+UNIT_C_DELTA_KYLE_AP_WALL.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_box
+  rotate: false
+  xy: 260, 447
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+fx_circle
+  rotate: false
+  xy: 190, 435
+  size: 68, 68
+  orig: 68, 68
+  offset: 0, 0
+  index: -1
+fx_mark
+  rotate: false
+  xy: 626, 2
+  size: 154, 134
+  orig: 154, 134
+  offset: 0, 0
+  index: -1
+fx_text
+  rotate: false
+  xy: 260, 477
+  size: 98, 26
+  orig: 98, 26
+  offset: 0, 0
+  index: -1
+weapon_d_1
+  rotate: false
+  xy: 424, 315
+  size: 491, 188
+  orig: 491, 188
+  offset: 0, 0
+  index: -1
+weapon_d_1_damage
+  rotate: true
+  xy: 572, 534
+  size: 482, 186
+  orig: 482, 186
+  offset: 0, 0
+  index: -1
+weapon_d_2
+  rotate: true
+  xy: 424, 505
+  size: 511, 146
+  orig: 511, 146
+  offset: 0, 0
+  index: -1
+weapon_d_2_damage
+  rotate: true
+  xy: 190, 505
+  size: 511, 146
+  orig: 511, 146
+  offset: 0, 0
+  index: -1
+weapon_d_2_fx_1
+  rotate: true
+  xy: 917, 303
+  size: 236, 58
+  orig: 236, 58
+  offset: 0, 0
+  index: -1
+weapon_d_2_fx_2
+  rotate: false
+  xy: 760, 541
+  size: 243, 50
+  orig: 243, 50
+  offset: 0, 0
+  index: -1
+weapon_d_2_fx_3
+  rotate: true
+  xy: 946, 781
+  size: 235, 62
+  orig: 235, 62
+  offset: 0, 0
+  index: -1
+weapon_d_3
+  rotate: true
+  xy: 626, 138
+  size: 175, 274
+  orig: 175, 274
+  offset: 0, 0
+  index: -1
+weapon_d_4
+  rotate: false
+  xy: 782, 4
+  size: 143, 132
+  orig: 143, 132
+  offset: 0, 0
+  index: -1
+weapon_d_door_1
+  rotate: false
+  xy: 760, 593
+  size: 184, 423
+  orig: 184, 423
+  offset: 0, 0
+  index: -1
+weapon_d_door_1_damage
+  rotate: true
+  xy: 2, 198
+  size: 194, 420
+  orig: 194, 420
+  offset: 0, 0
+  index: -1
+weapon_d_door_2
+  rotate: true
+  xy: 2, 12
+  size: 184, 622
+  orig: 184, 622
+  offset: 0, 0
+  index: -1
+weapon_d_door_2_damage
+  rotate: false
+  xy: 2, 394
+  size: 186, 622
+  orig: 186, 622
+  offset: 0, 0
+  index: -1
+weapon_d_door_3
+  rotate: true
+  xy: 424, 248
+  size: 65, 167
+  orig: 65, 167
+  offset: 0, 0
+  index: -1
+weapon_d_door_3_damage
+  rotate: false
+  xy: 946, 612
+  size: 67, 167
+  orig: 67, 167
+  offset: 0, 0
+  index: -1

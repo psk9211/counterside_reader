@@ -1,0 +1,195 @@
+
+UNIT_REAPER_SA_COMMANDER_SUMMON_SHIELD_SUMMER.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+F_Hair
+  rotate: true
+  xy: 831, 410
+  size: 109, 107
+  orig: 109, 107
+  offset: 0, 0
+  index: -1
+back_body_1
+  rotate: true
+  xy: 1, 33
+  size: 153, 320
+  orig: 153, 320
+  offset: 0, 0
+  index: -1
+face_a
+  rotate: false
+  xy: 1, 3
+  size: 83, 29
+  orig: 83, 30
+  offset: 0, 0
+  index: -1
+face_b
+  rotate: false
+  xy: 85, 3
+  size: 83, 29
+  orig: 83, 30
+  offset: 0, 0
+  index: -1
+front_body
+  rotate: false
+  xy: 677, 200
+  size: 153, 319
+  orig: 153, 319
+  offset: 0, 0
+  index: -1
+front_body_ac_1
+  rotate: false
+  xy: 935, 721
+  size: 70, 84
+  orig: 72, 86
+  offset: 1, 1
+  index: -1
+front_body_ac_2
+  rotate: true
+  xy: 935, 956
+  size: 67, 88
+  orig: 69, 90
+  offset: 1, 1
+  index: -1
+front_face_eyebrow
+  rotate: false
+  xy: 811, 64
+  size: 74, 5
+  orig: 74, 5
+  offset: 0, 0
+  index: -1
+front_head
+  rotate: false
+  xy: 527, 5
+  size: 126, 141
+  orig: 127, 141
+  offset: 0, 0
+  index: -1
+front_left_arm_3
+  rotate: true
+  xy: 977, 885
+  size: 70, 45
+  orig: 73, 67
+  offset: 3, 13
+  index: -1
+front_left_arm_4
+  rotate: false
+  xy: 698, 2
+  size: 98, 45
+  orig: 121, 73
+  offset: 11, 10
+  index: -1
+front_left_leg_3
+  rotate: false
+  xy: 811, 70
+  size: 90, 129
+  orig: 90, 131
+  offset: 0, 0
+  index: -1
+front_left_leg_parts_2
+  rotate: true
+  xy: 935, 567
+  size: 80, 51
+  orig: 82, 53
+  offset: 1, 1
+  index: -1
+front_right_arm_1
+  rotate: true
+  xy: 654, 1
+  size: 145, 43
+  orig: 145, 43
+  offset: 0, 0
+  index: -1
+front_right_arm_2
+  rotate: true
+  xy: 935, 806
+  size: 149, 41
+  orig: 149, 41
+  offset: 0, 0
+  index: -1
+front_right_arm_3a
+  rotate: true
+  xy: 831, 274
+  size: 68, 45
+  orig: 77, 62
+  offset: 0, 8
+  index: -1
+front_right_leg_3
+  rotate: true
+  xy: 322, 1
+  size: 145, 112
+  orig: 145, 115
+  offset: 0, 0
+  index: -1
+front_right_leg_parts_2
+  rotate: true
+  xy: 935, 648
+  size: 72, 65
+  orig: 74, 67
+  offset: 1, 1
+  index: -1
+head_gear
+  rotate: true
+  xy: 883, 352
+  size: 57, 48
+  orig: 59, 49
+  offset: 2, 0
+  index: -1
+helmet1
+  rotate: true
+  xy: 435, 1
+  size: 145, 91
+  orig: 145, 91
+  offset: 0, 0
+  index: -1
+helmet2
+  rotate: true
+  xy: 698, 48
+  size: 151, 112
+  orig: 151, 112
+  offset: 0, 0
+  index: -1
+helmet3
+  rotate: false
+  xy: 831, 343
+  size: 51, 66
+  orig: 51, 66
+  offset: 0, 0
+  index: -1
+left_leg
+  rotate: false
+  xy: 841, 525
+  size: 93, 498
+  orig: 93, 498
+  offset: 0, 0
+  index: -1
+mouth_a
+  rotate: false
+  xy: 527, 1
+  size: 6, 3
+  orig: 6, 3
+  offset: 0, 0
+  index: -1
+right_leg
+  rotate: false
+  xy: 677, 520
+  size: 163, 503
+  orig: 163, 503
+  offset: 0, 0
+  index: -1
+weapon_1
+  rotate: false
+  xy: 377, 147
+  size: 299, 876
+  orig: 299, 876
+  offset: 0, 0
+  index: -1
+weapon_2
+  rotate: false
+  xy: 1, 187
+  size: 375, 836
+  orig: 375, 836
+  offset: 0, 0
+  index: -1

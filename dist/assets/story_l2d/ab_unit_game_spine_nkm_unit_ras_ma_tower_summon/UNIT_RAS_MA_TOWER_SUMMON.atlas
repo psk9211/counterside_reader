@@ -1,0 +1,34 @@
+
+UNIT_RAS_MA_TOWER_SUMMON.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+terrabrain_01
+  rotate: true
+  xy: 2, 2
+  size: 171, 462
+  orig: 171, 462
+  offset: 0, 0
+  index: -1
+terrabrain_02
+  rotate: false
+  xy: 712, 110
+  size: 305, 395
+  orig: 305, 395
+  offset: 0, 0
+  index: -1
+terrabrain_03
+  rotate: true
+  xy: 2, 310
+  size: 195, 671
+  orig: 195, 671
+  offset: 0, 0
+  index: -1
+terrabrain_04
+  rotate: true
+  xy: 2, 175
+  size: 133, 708
+  orig: 133, 708
+  offset: 0, 0
+  index: -1

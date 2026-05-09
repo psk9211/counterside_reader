@@ -1,0 +1,195 @@
+
+UNIT_C_DELTA_KING.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back_body
+  rotate: true
+  xy: 369, 571
+  size: 266, 327
+  orig: 266, 327
+  offset: 0, 0
+  index: -1
+back_left_leg_3
+  rotate: true
+  xy: 928, 840
+  size: 77, 82
+  orig: 77, 82
+  offset: 0, 0
+  index: -1
+back_pelvis
+  rotate: true
+  xy: 911, 259
+  size: 156, 98
+  orig: 156, 98
+  offset: 0, 0
+  index: -1
+back_right_leg_3
+  rotate: false
+  xy: 899, 8
+  size: 107, 79
+  orig: 107, 79
+  offset: 0, 0
+  index: -1
+front_body_1
+  rotate: false
+  xy: 665, 230
+  size: 244, 339
+  orig: 244, 339
+  offset: 0, 0
+  index: -1
+front_head_a
+  rotate: false
+  xy: 284, 2
+  size: 120, 139
+  orig: 120, 139
+  offset: 0, 0
+  index: -1
+front_head_b
+  rotate: true
+  xy: 658, 108
+  size: 120, 139
+  orig: 120, 139
+  offset: 0, 0
+  index: -1
+front_head_c
+  rotate: false
+  xy: 899, 89
+  size: 120, 139
+  orig: 120, 139
+  offset: 0, 0
+  index: -1
+front_left_arm1
+  rotate: true
+  xy: 911, 417
+  size: 206, 99
+  orig: 206, 99
+  offset: 0, 0
+  index: -1
+front_left_arm2
+  rotate: true
+  xy: 486, 16
+  size: 164, 73
+  orig: 164, 73
+  offset: 0, 0
+  index: -1
+front_left_leg1
+  rotate: true
+  xy: 369, 464
+  size: 105, 294
+  orig: 105, 294
+  offset: 0, 0
+  index: -1
+front_left_leg2
+  rotate: true
+  xy: 2, 51
+  size: 90, 280
+  orig: 90, 280
+  offset: 0, 0
+  index: -1
+front_left_leg3
+  rotate: true
+  xy: 561, 57
+  size: 123, 80
+  orig: 123, 80
+  offset: 0, 0
+  index: -1
+front_right_arm1
+  rotate: true
+  xy: 799, 17
+  size: 211, 98
+  orig: 211, 98
+  offset: 0, 0
+  index: -1
+front_right_arm2
+  rotate: true
+  xy: 409, 13
+  size: 168, 75
+  orig: 168, 75
+  offset: 0, 0
+  index: -1
+front_right_leg1
+  rotate: true
+  xy: 698, 625
+  size: 212, 318
+  orig: 212, 318
+  offset: 0, 0
+  index: -1
+front_right_leg2
+  rotate: false
+  xy: 409, 183
+  size: 139, 279
+  orig: 139, 279
+  offset: 0, 0
+  index: -1
+front_right_leg3
+  rotate: false
+  xy: 928, 919
+  size: 83, 100
+  orig: 83, 100
+  offset: 0, 0
+  index: -1
+front_right_shoulder_02
+  rotate: false
+  xy: 643, 40
+  size: 80, 66
+  orig: 80, 66
+  offset: 0, 0
+  index: -1
+fx_back_body
+  rotate: false
+  xy: 2, 453
+  size: 365, 566
+  orig: 365, 566
+  offset: 0, 0
+  index: -1
+fx_front_body_1
+  rotate: true
+  xy: 369, 839
+  size: 180, 557
+  orig: 180, 557
+  offset: 0, 0
+  index: -1
+fx_front_wing_01
+  rotate: false
+  xy: 698, 599
+  size: 25, 24
+  orig: 25, 24
+  offset: 0, 0
+  index: -1
+fx_front_wing_02
+  rotate: false
+  xy: 725, 599
+  size: 25, 24
+  orig: 25, 24
+  offset: 0, 0
+  index: -1
+hand_test
+  rotate: false
+  xy: 752, 603
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+left_body_1
+  rotate: true
+  xy: 2, 143
+  size: 308, 405
+  orig: 308, 405
+  offset: 0, 0
+  index: -1
+side_head_a
+  rotate: false
+  xy: 550, 323
+  size: 106, 139
+  orig: 106, 139
+  offset: 0, 0
+  index: -1
+side_head_b
+  rotate: false
+  xy: 550, 182
+  size: 106, 139
+  orig: 106, 139
+  offset: 0, 0
+  index: -1

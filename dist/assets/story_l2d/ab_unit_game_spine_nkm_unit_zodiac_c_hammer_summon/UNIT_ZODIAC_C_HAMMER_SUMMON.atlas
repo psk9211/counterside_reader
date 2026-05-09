@@ -1,0 +1,118 @@
+
+UNIT_ZODIAC_C_HAMMER_SUMMON.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_summon
+  rotate: false
+  xy: 0, 199
+  size: 205, 310
+  orig: 205, 310
+  offset: 0, 0
+  index: -1
+fx_summon_1
+  rotate: false
+  xy: 205, 211
+  size: 204, 298
+  orig: 204, 298
+  offset: 0, 0
+  index: -1
+fx_summon_2
+  rotate: false
+  xy: 237, 58
+  size: 129, 153
+  orig: 129, 153
+  offset: 0, 0
+  index: -1
+fx_summon_3
+  rotate: false
+  xy: 409, 371
+  size: 103, 138
+  orig: 103, 138
+  offset: 0, 0
+  index: -1
+fx_summon_4
+  rotate: false
+  xy: 366, 6
+  size: 97, 71
+  orig: 97, 71
+  offset: 0, 0
+  index: -1
+fx_summon_5
+  rotate: false
+  xy: 366, 77
+  size: 110, 129
+  orig: 110, 129
+  offset: 0, 0
+  index: -1
+fx_summon_6
+  rotate: true
+  xy: 409, 206
+  size: 165, 97
+  orig: 165, 97
+  offset: 0, 0
+  index: -1
+fx_summon_7
+  rotate: true
+  xy: 149, 25
+  size: 174, 88
+  orig: 174, 88
+  offset: 0, 0
+  index: -1
+fx_summon_crack_1
+  rotate: false
+  xy: 476, 156
+  size: 13, 23
+  orig: 13, 23
+  offset: 0, 0
+  index: -1
+fx_summon_crack_1b
+  rotate: false
+  xy: 237, 26
+  size: 13, 32
+  orig: 13, 32
+  offset: 0, 0
+  index: -1
+fx_summon_crack_2
+  rotate: false
+  xy: 52, 16
+  size: 16, 27
+  orig: 16, 27
+  offset: 0, 0
+  index: -1
+fx_summon_crack_2b
+  rotate: false
+  xy: 476, 179
+  size: 19, 27
+  orig: 19, 27
+  offset: 0, 0
+  index: -1
+fx_summon_crack_3
+  rotate: false
+  xy: 463, 51
+  size: 13, 26
+  orig: 13, 26
+  offset: 0, 0
+  index: -1
+fx_summon_crack_3b
+  rotate: true
+  xy: 0, 0
+  size: 14, 27
+  orig: 14, 27
+  offset: 0, 0
+  index: -1
+fx_summon_crack_4
+  rotate: true
+  xy: 0, 14
+  size: 29, 52
+  orig: 29, 52
+  offset: 0, 0
+  index: -1
+fx_summon_smoke
+  rotate: false
+  xy: 0, 43
+  size: 149, 156
+  orig: 149, 156
+  offset: 0, 0
+  index: -1

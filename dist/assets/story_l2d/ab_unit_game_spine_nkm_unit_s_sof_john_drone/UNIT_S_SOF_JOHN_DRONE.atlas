@@ -1,0 +1,174 @@
+
+UNIT_S_SOF_JOHN_DRONE.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_01
+  rotate: false
+  xy: 461, 809
+  size: 414, 207
+  orig: 414, 207
+  offset: 0, 0
+  index: -1
+body_02
+  rotate: false
+  xy: 278, 65
+  size: 222, 113
+  orig: 222, 113
+  offset: 0, 0
+  index: -1
+body_03
+  rotate: false
+  xy: 2, 180
+  size: 221, 223
+  orig: 221, 223
+  offset: 0, 0
+  index: -1
+body_04
+  rotate: false
+  xy: 877, 632
+  size: 133, 134
+  orig: 133, 134
+  offset: 0, 0
+  index: -1
+body_05
+  rotate: true
+  xy: 877, 768
+  size: 248, 124
+  orig: 248, 124
+  offset: 0, 0
+  index: -1
+body_b_01
+  rotate: false
+  xy: 2, 405
+  size: 414, 207
+  orig: 414, 207
+  offset: 0, 0
+  index: -1
+body_b_03
+  rotate: false
+  xy: 225, 180
+  size: 221, 223
+  orig: 221, 223
+  offset: 0, 0
+  index: -1
+ef_01
+  rotate: false
+  xy: 593, 35
+  size: 61, 61
+  orig: 61, 61
+  offset: 0, 0
+  index: -1
+fx_01
+  rotate: true
+  xy: 704, 413
+  size: 79, 84
+  orig: 79, 84
+  offset: 0, 0
+  index: -1
+fx_02
+  rotate: false
+  xy: 612, 494
+  size: 132, 119
+  orig: 132, 119
+  offset: 0, 0
+  index: -1
+fx_03
+  rotate: false
+  xy: 502, 98
+  size: 126, 112
+  orig: 126, 112
+  offset: 0, 0
+  index: -1
+weapon_01
+  rotate: true
+  xy: 612, 413
+  size: 79, 90
+  orig: 79, 90
+  offset: 0, 0
+  index: -1
+weapon_02
+  rotate: false
+  xy: 461, 615
+  size: 297, 192
+  orig: 297, 192
+  offset: 0, 0
+  index: -1
+weapon_03
+  rotate: true
+  xy: 760, 629
+  size: 178, 115
+  orig: 178, 115
+  offset: 0, 0
+  index: -1
+weapon_04
+  rotate: false
+  xy: 2, 2
+  size: 47, 54
+  orig: 47, 54
+  offset: 0, 0
+  index: -1
+wing_01
+  rotate: false
+  xy: 642, 314
+  size: 93, 97
+  orig: 93, 97
+  offset: 0, 0
+  index: -1
+wing_02
+  rotate: false
+  xy: 2, 816
+  size: 457, 200
+  orig: 457, 200
+  offset: 0, 0
+  index: -1
+wing_03
+  rotate: true
+  xy: 418, 413
+  size: 199, 192
+  orig: 199, 192
+  offset: 0, 0
+  index: -1
+wing_04
+  rotate: false
+  xy: 642, 223
+  size: 89, 89
+  orig: 89, 89
+  offset: 0, 0
+  index: -1
+wing_05
+  rotate: false
+  xy: 2, 58
+  size: 274, 120
+  orig: 274, 120
+  offset: 0, 0
+  index: -1
+wing_06
+  rotate: false
+  xy: 2, 614
+  size: 457, 200
+  orig: 457, 200
+  offset: 0, 0
+  index: -1
+wing_b_03
+  rotate: true
+  xy: 448, 212
+  size: 199, 192
+  orig: 199, 192
+  offset: 0, 0
+  index: -1
+wing_b_04
+  rotate: false
+  xy: 737, 322
+  size: 89, 89
+  orig: 89, 89
+  offset: 0, 0
+  index: -1
+wing_ef01
+  rotate: false
+  xy: 502, 7
+  size: 89, 89
+  orig: 89, 89
+  offset: 0, 0
+  index: -1

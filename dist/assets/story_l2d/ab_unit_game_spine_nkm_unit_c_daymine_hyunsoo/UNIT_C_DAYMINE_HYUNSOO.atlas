@@ -1,0 +1,244 @@
+
+UNIT_C_DAYMINE_HYUNSOO.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back_body_1
+  rotate: true
+  xy: 238, 238
+  size: 135, 214
+  orig: 135, 214
+  offset: 0, 0
+  index: -1
+back_body_2
+  rotate: false
+  xy: 410, 95
+  size: 97, 69
+  orig: 97, 69
+  offset: 0, 0
+  index: -1
+front_body_1
+  rotate: true
+  xy: 238, 375
+  size: 135, 215
+  orig: 135, 215
+  offset: 0, 0
+  index: -1
+front_body_2
+  rotate: false
+  xy: 410, 166
+  size: 97, 70
+  orig: 97, 70
+  offset: 0, 0
+  index: -1
+front_face_a
+  rotate: true
+  xy: 455, 430
+  size: 50, 54
+  orig: 50, 54
+  offset: 0, 0
+  index: -1
+front_face_b
+  rotate: true
+  xy: 455, 378
+  size: 50, 54
+  orig: 50, 54
+  offset: 0, 0
+  index: -1
+front_face_c
+  rotate: true
+  xy: 410, 43
+  size: 50, 60
+  orig: 50, 60
+  offset: 0, 0
+  index: -1
+front_face_d
+  rotate: true
+  xy: 455, 326
+  size: 50, 54
+  orig: 50, 54
+  offset: 0, 0
+  index: -1
+front_head
+  rotate: true
+  xy: 63, 324
+  size: 86, 103
+  orig: 86, 103
+  offset: 0, 0
+  index: -1
+front_left_arm_1
+  rotate: false
+  xy: 63, 462
+  size: 119, 48
+  orig: 119, 48
+  offset: 0, 0
+  index: -1
+front_left_arm_2
+  rotate: false
+  xy: 63, 186
+  size: 101, 46
+  orig: 101, 46
+  offset: 0, 0
+  index: -1
+front_left_leg_1
+  rotate: true
+  xy: 41, 7
+  size: 61, 195
+  orig: 61, 195
+  offset: 0, 0
+  index: -1
+front_left_leg_2
+  rotate: false
+  xy: 184, 324
+  size: 50, 186
+  orig: 50, 186
+  offset: 0, 0
+  index: -1
+front_left_leg_3
+  rotate: true
+  xy: 454, 238
+  size: 86, 52
+  orig: 86, 52
+  offset: 0, 0
+  index: -1
+front_right_arm_1
+  rotate: false
+  xy: 63, 412
+  size: 119, 48
+  orig: 119, 48
+  offset: 0, 0
+  index: -1
+front_right_arm_2
+  rotate: false
+  xy: 63, 138
+  size: 101, 46
+  orig: 101, 46
+  offset: 0, 0
+  index: -1
+front_right_leg_1
+  rotate: false
+  xy: 238, 41
+  size: 89, 195
+  orig: 89, 195
+  offset: 0, 0
+  index: -1
+front_right_leg_2
+  rotate: false
+  xy: 329, 43
+  size: 79, 193
+  orig: 79, 193
+  offset: 0, 0
+  index: -1
+front_right_leg_3
+  rotate: false
+  xy: 63, 78
+  size: 44, 58
+  orig: 44, 58
+  offset: 0, 0
+  index: -1
+hand_a
+  rotate: false
+  xy: 392, 6
+  size: 81, 35
+  orig: 81, 35
+  offset: 0, 0
+  index: -1
+hand_ac
+  rotate: true
+  xy: 475, 25
+  size: 17, 26
+  orig: 17, 26
+  offset: 0, 0
+  index: -1
+hand_b
+  rotate: false
+  xy: 307, 4
+  size: 83, 35
+  orig: 83, 35
+  offset: 0, 0
+  index: -1
+hand_c
+  rotate: false
+  xy: 167, 291
+  size: 68, 31
+  orig: 68, 31
+  offset: 0, 0
+  index: -1
+hand_d
+  rotate: false
+  xy: 167, 258
+  size: 68, 31
+  orig: 68, 31
+  offset: 0, 0
+  index: -1
+hand_e
+  rotate: true
+  xy: 2, 2
+  size: 66, 37
+  orig: 66, 37
+  offset: 0, 0
+  index: -1
+hand_f
+  rotate: false
+  xy: 238, 2
+  size: 67, 37
+  orig: 67, 37
+  offset: 0, 0
+  index: -1
+hand_h
+  rotate: true
+  xy: 167, 179
+  size: 77, 58
+  orig: 77, 58
+  offset: 0, 0
+  index: -1
+hand_i
+  rotate: false
+  xy: 109, 79
+  size: 76, 57
+  orig: 76, 57
+  offset: 0, 0
+  index: -1
+side_face_a
+  rotate: false
+  xy: 472, 44
+  size: 28, 49
+  orig: 28, 49
+  offset: 0, 0
+  index: -1
+side_face_b
+  rotate: true
+  xy: 187, 149
+  size: 28, 49
+  orig: 28, 49
+  offset: 0, 0
+  index: -1
+side_face_c
+  rotate: true
+  xy: 455, 482
+  size: 28, 55
+  orig: 28, 55
+  offset: 0, 0
+  index: -1
+side_face_d
+  rotate: true
+  xy: 187, 119
+  size: 28, 49
+  orig: 28, 49
+  offset: 0, 0
+  index: -1
+side_head
+  rotate: true
+  xy: 63, 234
+  size: 88, 102
+  orig: 88, 102
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 2, 70
+  size: 59, 440
+  orig: 59, 440
+  offset: 0, 0
+  index: -1

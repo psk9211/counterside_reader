@@ -1,0 +1,48 @@
+
+M_SL_AIR_HELI.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_1
+  rotate: false
+  xy: 2, 77
+  size: 700, 291
+  orig: 700, 291
+  offset: 0, 0
+  index: -1
+body_2
+  rotate: false
+  xy: 2, 2
+  size: 88, 73
+  orig: 88, 73
+  offset: 0, 0
+  index: -1
+body_damage
+  rotate: true
+  xy: 704, 166
+  size: 700, 276
+  orig: 700, 276
+  offset: 0, 0
+  index: -1
+wing_1
+  rotate: false
+  xy: 2, 370
+  size: 496, 496
+  orig: 496, 496
+  offset: 0, 0
+  index: -1
+wing_2
+  rotate: false
+  xy: 500, 829
+  size: 84, 37
+  orig: 84, 37
+  offset: 0, 0
+  index: -1
+wing_3
+  rotate: false
+  xy: 704, 135
+  size: 71, 29
+  orig: 71, 29
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,181 @@
+
+UNIT_JAPAN_C_OROCHI_SNAKE_VOLCANO.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_black_a_1
+  rotate: false
+  xy: 577, 19
+  size: 52, 41
+  orig: 52, 41
+  offset: 0, 0
+  index: -1
+fx_black_a_2
+  rotate: false
+  xy: 929, 398
+  size: 61, 44
+  orig: 61, 44
+  offset: 0, 0
+  index: -1
+fx_black_a_3
+  rotate: false
+  xy: 796, 314
+  size: 65, 44
+  orig: 65, 44
+  offset: 0, 0
+  index: -1
+fx_black_a_4
+  rotate: true
+  xy: 434, 114
+  size: 64, 28
+  orig: 64, 28
+  offset: 0, 0
+  index: -1
+fx_black_a_5
+  rotate: true
+  xy: 434, 47
+  size: 65, 22
+  orig: 65, 22
+  offset: 0, 0
+  index: -1
+fx_black_a_6
+  rotate: false
+  xy: 253, 2
+  size: 61, 12
+  orig: 61, 12
+  offset: 0, 0
+  index: -1
+fx_black_b_1
+  rotate: false
+  xy: 631, 20
+  size: 41, 40
+  orig: 41, 40
+  offset: 0, 0
+  index: -1
+fx_black_b_10
+  rotate: true
+  xy: 995, 600
+  size: 60, 11
+  orig: 60, 11
+  offset: 0, 0
+  index: -1
+fx_black_b_2
+  rotate: false
+  xy: 674, 22
+  size: 40, 38
+  orig: 40, 38
+  offset: 0, 0
+  index: -1
+fx_black_b_3
+  rotate: false
+  xy: 521, 10
+  size: 54, 50
+  orig: 54, 50
+  offset: 0, 0
+  index: -1
+fx_black_b_4
+  rotate: false
+  xy: 796, 360
+  size: 62, 67
+  orig: 62, 67
+  offset: 0, 0
+  index: -1
+fx_black_b_5
+  rotate: false
+  xy: 865, 434
+  size: 62, 65
+  orig: 62, 65
+  offset: 0, 0
+  index: -1
+fx_black_b_6
+  rotate: false
+  xy: 929, 444
+  size: 64, 55
+  orig: 64, 55
+  offset: 0, 0
+  index: -1
+fx_black_b_7
+  rotate: false
+  xy: 458, 5
+  size: 61, 55
+  orig: 61, 55
+  offset: 0, 0
+  index: -1
+fx_black_b_8
+  rotate: true
+  xy: 995, 662
+  size: 60, 21
+  orig: 60, 21
+  offset: 0, 0
+  index: -1
+fx_black_b_9
+  rotate: false
+  xy: 316, 2
+  size: 60, 12
+  orig: 60, 12
+  offset: 0, 0
+  index: -1
+fx_smoke
+  rotate: false
+  xy: 796, 429
+  size: 67, 70
+  orig: 67, 70
+  offset: 0, 0
+  index: -1
+weapon_snake_body_1
+  rotate: false
+  xy: 2, 180
+  size: 461, 842
+  orig: 461, 842
+  offset: 0, 0
+  index: -1
+weapon_snake_body_2
+  rotate: true
+  xy: 465, 305
+  size: 717, 329
+  orig: 717, 329
+  offset: 0, 0
+  index: -1
+weapon_snake_body_3
+  rotate: true
+  xy: 465, 62
+  size: 241, 439
+  orig: 241, 439
+  offset: 0, 0
+  index: -1
+weapon_snake_eye
+  rotate: false
+  xy: 434, 25
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+weapon_snake_head_bottom
+  rotate: false
+  xy: 253, 16
+  size: 179, 162
+  orig: 179, 162
+  offset: 0, 0
+  index: -1
+weapon_snake_head_mouth
+  rotate: true
+  xy: 2, 3
+  size: 175, 249
+  orig: 175, 249
+  offset: 0, 0
+  index: -1
+weapon_snake_head_top
+  rotate: true
+  xy: 796, 501
+  size: 221, 197
+  orig: 221, 197
+  offset: 0, 0
+  index: -1
+weapon_snake_move_fx
+  rotate: true
+  xy: 796, 724
+  size: 298, 214
+  orig: 298, 214
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,216 @@
+
+UNIT_ESPR_S_DOCTOR.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+front_body
+  rotate: true
+  xy: 301, 372
+  size: 167, 389
+  orig: 167, 389
+  offset: 0, 0
+  index: -1
+front_coat1
+  rotate: true
+  xy: 301, 821
+  size: 199, 672
+  orig: 199, 672
+  offset: 0, 0
+  index: -1
+front_coat3
+  rotate: false
+  xy: 2, 370
+  size: 297, 650
+  orig: 297, 650
+  offset: 0, 0
+  index: -1
+front_face
+  rotate: false
+  xy: 714, 294
+  size: 98, 125
+  orig: 98, 125
+  offset: 0, 0
+  index: -1
+front_hat
+  rotate: false
+  xy: 570, 231
+  size: 142, 139
+  orig: 142, 139
+  offset: 0, 0
+  index: -1
+front_hood
+  rotate: true
+  xy: 381, 101
+  size: 144, 160
+  orig: 144, 160
+  offset: 0, 0
+  index: -1
+front_left_leg1
+  rotate: false
+  xy: 200, 90
+  size: 100, 278
+  orig: 100, 278
+  offset: 0, 0
+  index: -1
+front_left_leg2
+  rotate: false
+  xy: 302, 120
+  size: 77, 250
+  orig: 77, 250
+  offset: 0, 0
+  index: -1
+front_left_leg3
+  rotate: true
+  xy: 903, 305
+  size: 114, 80
+  orig: 114, 80
+  offset: 0, 0
+  index: -1
+front_left_shoulder
+  rotate: false
+  xy: 814, 305
+  size: 87, 114
+  orig: 87, 114
+  offset: 0, 0
+  index: -1
+front_legunder
+  rotate: false
+  xy: 985, 289
+  size: 37, 48
+  orig: 37, 48
+  offset: 0, 0
+  index: -1
+front_right_arm1
+  rotate: false
+  xy: 2, 16
+  size: 192, 63
+  orig: 192, 63
+  offset: 0, 0
+  index: -1
+front_right_arm2
+  rotate: false
+  xy: 814, 248
+  size: 159, 55
+  orig: 159, 55
+  offset: 0, 0
+  index: -1
+front_right_arm3
+  rotate: true
+  xy: 728, 127
+  size: 38, 56
+  orig: 38, 56
+  offset: 0, 0
+  index: -1
+front_right_knee
+  rotate: true
+  xy: 543, 120
+  size: 109, 131
+  orig: 109, 131
+  offset: 0, 0
+  index: -1
+front_right_leg1
+  rotate: false
+  xy: 2, 81
+  size: 196, 287
+  orig: 196, 287
+  offset: 0, 0
+  index: -1
+front_right_leg2
+  rotate: true
+  xy: 692, 421
+  size: 118, 264
+  orig: 118, 264
+  offset: 0, 0
+  index: -1
+front_right_leg3
+  rotate: true
+  xy: 543, 59
+  size: 59, 101
+  orig: 59, 101
+  offset: 0, 0
+  index: -1
+front_right_shoulder
+  rotate: false
+  xy: 381, 247
+  size: 187, 123
+  orig: 187, 123
+  offset: 0, 0
+  index: -1
+hand_a
+  rotate: true
+  xy: 975, 913
+  size: 107, 46
+  orig: 107, 46
+  offset: 0, 0
+  index: -1
+hand_b
+  rotate: true
+  xy: 958, 427
+  size: 112, 50
+  orig: 112, 50
+  offset: 0, 0
+  index: -1
+hand_c1
+  rotate: true
+  xy: 975, 235
+  size: 52, 42
+  orig: 52, 42
+  offset: 0, 0
+  index: -1
+hand_c2
+  rotate: true
+  xy: 985, 339
+  size: 86, 37
+  orig: 86, 37
+  offset: 0, 0
+  index: -1
+hand_d
+  rotate: true
+  xy: 676, 117
+  size: 112, 50
+  orig: 112, 50
+  offset: 0, 0
+  index: -1
+hand_f
+  rotate: false
+  xy: 714, 241
+  size: 67, 51
+  orig: 67, 51
+  offset: 0, 0
+  index: -1
+hand_h
+  rotate: true
+  xy: 728, 167
+  size: 72, 65
+  orig: 72, 65
+  offset: 0, 0
+  index: -1
+weapon1
+  rotate: false
+  xy: 301, 681
+  size: 695, 138
+  orig: 695, 138
+  offset: 0, 0
+  index: -1
+weapon1_2
+  rotate: false
+  xy: 301, 541
+  size: 695, 138
+  orig: 695, 138
+  offset: 0, 0
+  index: -1
+weapon2
+  rotate: false
+  xy: 975, 830
+  size: 45, 81
+  orig: 45, 81
+  offset: 0, 0
+  index: -1
+weapon_shell
+  rotate: false
+  xy: 302, 97
+  size: 71, 21
+  orig: 71, 21
+  offset: 0, 0
+  index: -1

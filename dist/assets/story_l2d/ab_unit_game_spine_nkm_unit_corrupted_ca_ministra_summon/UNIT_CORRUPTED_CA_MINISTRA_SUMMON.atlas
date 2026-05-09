@@ -1,0 +1,83 @@
+
+UNIT_CORRUPTED_CA_MINISTRA_SUMMON.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+weapon_01
+  rotate: true
+  xy: 2, 181
+  size: 48, 504
+  orig: 48, 504
+  offset: 0, 0
+  index: -1
+weapon_02
+  rotate: false
+  xy: 206, 60
+  size: 138, 35
+  orig: 138, 35
+  offset: 0, 0
+  index: -1
+weapon_03
+  rotate: false
+  xy: 2, 41
+  size: 137, 37
+  orig: 137, 37
+  offset: 0, 0
+  index: -1
+weapon_06
+  rotate: true
+  xy: 2, 114
+  size: 15, 215
+  orig: 15, 215
+  offset: 0, 0
+  index: -1
+weapon_07
+  rotate: true
+  xy: 2, 97
+  size: 15, 211
+  orig: 15, 211
+  offset: 0, 0
+  index: -1
+weapon_08
+  rotate: true
+  xy: 219, 114
+  size: 15, 207
+  orig: 15, 207
+  offset: 0, 0
+  index: -1
+weapon_09
+  rotate: true
+  xy: 2, 80
+  size: 15, 202
+  orig: 15, 202
+  offset: 0, 0
+  index: -1
+weapon_10
+  rotate: true
+  xy: 215, 97
+  size: 15, 198
+  orig: 15, 198
+  offset: 0, 0
+  index: -1
+weapon_fx_01
+  rotate: true
+  xy: 2, 131
+  size: 48, 504
+  orig: 48, 504
+  offset: 0, 0
+  index: -1
+weapon_fx_02
+  rotate: false
+  xy: 141, 23
+  size: 138, 35
+  orig: 138, 35
+  offset: 0, 0
+  index: -1
+weapon_fx_03
+  rotate: false
+  xy: 2, 2
+  size: 137, 37
+  orig: 137, 37
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,363 @@
+
+UNIT_S_MILITIA_SEONGTAE.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX_SHOT_2_1
+  rotate: false
+  xy: 564, 646
+  size: 134, 121
+  orig: 134, 121
+  offset: 0, 0
+  index: -1
+FX_SHOT_2_3
+  rotate: false
+  xy: 705, 756
+  size: 128, 114
+  orig: 128, 114
+  offset: 0, 0
+  index: -1
+FX_SHOT_2_5
+  rotate: false
+  xy: 809, 481
+  size: 81, 86
+  orig: 81, 86
+  offset: 0, 0
+  index: -1
+back_weapon
+  rotate: false
+  xy: 2, 436
+  size: 168, 437
+  orig: 168, 437
+  offset: 0, 0
+  index: -1
+backpack
+  rotate: false
+  xy: 172, 542
+  size: 263, 331
+  orig: 263, 331
+  offset: 0, 0
+  index: -1
+bomb_1
+  rotate: false
+  xy: 835, 803
+  size: 161, 88
+  orig: 161, 88
+  offset: 0, 0
+  index: -1
+bomb_2
+  rotate: true
+  xy: 869, 651
+  size: 150, 83
+  orig: 150, 83
+  offset: 0, 0
+  index: -1
+front_body
+  rotate: false
+  xy: 2, 104
+  size: 232, 330
+  orig: 232, 330
+  offset: 0, 0
+  index: -1
+front_face_1
+  rotate: true
+  xy: 967, 513
+  size: 76, 55
+  orig: 76, 55
+  offset: 0, 0
+  index: -1
+front_face_2
+  rotate: true
+  xy: 967, 435
+  size: 76, 55
+  orig: 76, 55
+  offset: 0, 0
+  index: -1
+front_face_3
+  rotate: false
+  xy: 317, 2
+  size: 73, 61
+  orig: 73, 61
+  offset: 0, 0
+  index: -1
+front_face_4
+  rotate: true
+  xy: 561, 154
+  size: 73, 53
+  orig: 73, 53
+  offset: 0, 0
+  index: -1
+front_face_5
+  rotate: true
+  xy: 561, 76
+  size: 76, 54
+  orig: 76, 54
+  offset: 0, 0
+  index: -1
+front_head
+  rotate: false
+  xy: 437, 618
+  size: 125, 149
+  orig: 125, 149
+  offset: 0, 0
+  index: -1
+front_left_arm_1
+  rotate: false
+  xy: 2, 18
+  size: 183, 84
+  orig: 183, 84
+  offset: 0, 0
+  index: -1
+front_left_arm_2
+  rotate: false
+  xy: 700, 569
+  size: 182, 78
+  orig: 182, 78
+  offset: 0, 0
+  index: -1
+front_left_leg_1
+  rotate: false
+  xy: 397, 167
+  size: 116, 268
+  orig: 116, 268
+  offset: 0, 0
+  index: -1
+front_left_leg_2a
+  rotate: true
+  xy: 172, 437
+  size: 103, 312
+  orig: 103, 312
+  offset: 0, 0
+  index: -1
+front_left_leg_2b
+  rotate: true
+  xy: 884, 571
+  size: 78, 62
+  orig: 78, 62
+  offset: 0, 0
+  index: -1
+front_left_leg_3
+  rotate: true
+  xy: 317, 65
+  size: 113, 78
+  orig: 113, 78
+  offset: 0, 0
+  index: -1
+front_left_leg_knee
+  rotate: true
+  xy: 437, 545
+  size: 71, 119
+  orig: 71, 119
+  offset: 0, 0
+  index: -1
+front_pelvis
+  rotate: false
+  xy: 700, 649
+  size: 167, 105
+  orig: 167, 105
+  offset: 0, 0
+  index: -1
+front_right_arm_1
+  rotate: true
+  xy: 568, 461
+  size: 183, 79
+  orig: 183, 79
+  offset: 0, 0
+  index: -1
+front_right_arm_2a
+  rotate: true
+  xy: 236, 2
+  size: 176, 79
+  orig: 176, 79
+  offset: 0, 0
+  index: -1
+front_right_arm_2b
+  rotate: false
+  xy: 617, 131
+  size: 44, 56
+  orig: 44, 56
+  offset: 0, 0
+  index: -1
+front_right_leg_1
+  rotate: false
+  xy: 236, 180
+  size: 159, 255
+  orig: 159, 255
+  offset: 0, 0
+  index: -1
+front_right_leg_2a
+  rotate: true
+  xy: 531, 872
+  size: 150, 299
+  orig: 150, 299
+  offset: 0, 0
+  index: -1
+front_right_leg_2b
+  rotate: true
+  xy: 509, 91
+  size: 74, 50
+  orig: 74, 50
+  offset: 0, 0
+  index: -1
+front_right_leg_3
+  rotate: false
+  xy: 892, 480
+  size: 73, 89
+  orig: 73, 89
+  offset: 0, 0
+  index: -1
+front_right_leg_bag
+  rotate: false
+  xy: 486, 442
+  size: 80, 101
+  orig: 80, 101
+  offset: 0, 0
+  index: -1
+front_right_leg_knee
+  rotate: true
+  xy: 397, 72
+  size: 93, 110
+  orig: 93, 110
+  offset: 0, 0
+  index: -1
+hand_1
+  rotate: true
+  xy: 649, 537
+  size: 107, 49
+  orig: 107, 49
+  offset: 0, 0
+  index: -1
+hand_2
+  rotate: false
+  xy: 700, 513
+  size: 107, 54
+  orig: 107, 54
+  offset: 0, 0
+  index: -1
+hand_3a
+  rotate: true
+  xy: 509, 26
+  size: 63, 50
+  orig: 63, 50
+  offset: 0, 0
+  index: -1
+hand_3b
+  rotate: true
+  xy: 187, 15
+  size: 87, 41
+  orig: 87, 41
+  offset: 0, 0
+  index: -1
+hand_4
+  rotate: false
+  xy: 690, 455
+  size: 84, 56
+  orig: 84, 56
+  offset: 0, 0
+  index: -1
+side_face_1
+  rotate: true
+  xy: 561, 29
+  size: 45, 57
+  orig: 45, 57
+  offset: 0, 0
+  index: -1
+side_face_2
+  rotate: false
+  xy: 616, 189
+  size: 45, 57
+  orig: 45, 57
+  offset: 0, 0
+  index: -1
+side_face_3
+  rotate: false
+  xy: 515, 168
+  size: 44, 60
+  orig: 44, 60
+  offset: 0, 0
+  index: -1
+side_face_4
+  rotate: true
+  xy: 617, 84
+  size: 45, 56
+  orig: 45, 56
+  offset: 0, 0
+  index: -1
+side_head
+  rotate: true
+  xy: 832, 893
+  size: 129, 151
+  orig: 129, 151
+  offset: 0, 0
+  index: -1
+smoke
+  rotate: false
+  xy: 649, 457
+  size: 39, 78
+  orig: 39, 78
+  offset: 0, 0
+  index: -1
+weapon_1
+  rotate: false
+  xy: 2, 875
+  size: 527, 147
+  orig: 527, 147
+  offset: 0, 0
+  index: -1
+weapon_1_fx
+  rotate: false
+  xy: 437, 769
+  size: 266, 101
+  orig: 266, 101
+  offset: 0, 0
+  index: -1
+weapon_2
+  rotate: true
+  xy: 954, 591
+  size: 210, 44
+  orig: 210, 44
+  offset: 0, 0
+  index: -1
+weapon_2_fx
+  rotate: true
+  xy: 515, 230
+  size: 210, 44
+  orig: 210, 44
+  offset: 0, 0
+  index: -1
+weapon_3
+  rotate: true
+  xy: 561, 229
+  size: 211, 40
+  orig: 211, 40
+  offset: 0, 0
+  index: -1
+weapon_4
+  rotate: true
+  xy: 603, 248
+  size: 211, 40
+  orig: 211, 40
+  offset: 0, 0
+  index: -1
+weapon_5
+  rotate: false
+  xy: 2, 2
+  size: 23, 14
+  orig: 23, 14
+  offset: 0, 0
+  index: -1
+weapon_5_fx
+  rotate: false
+  xy: 27, 2
+  size: 23, 14
+  orig: 23, 14
+  offset: 0, 0
+  index: -1
+weapon_cc
+  rotate: false
+  xy: 561, 2
+  size: 57, 25
+  orig: 57, 25
+  offset: 0, 0
+  index: -1

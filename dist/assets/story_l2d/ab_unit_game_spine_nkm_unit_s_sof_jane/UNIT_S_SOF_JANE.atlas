@@ -1,0 +1,265 @@
+
+UNIT_S_SOF_JANE.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back_gun_b
+  rotate: true
+  xy: 753, 39
+  size: 53, 110
+  orig: 53, 110
+  offset: 0, 0
+  index: -1
+back_head
+  rotate: false
+  xy: 327, 83
+  size: 131, 162
+  orig: 131, 162
+  offset: 0, 0
+  index: -1
+back_jacket_1
+  rotate: false
+  xy: 666, 316
+  size: 181, 196
+  orig: 181, 196
+  offset: 0, 0
+  index: -1
+back_right_leg_3
+  rotate: false
+  xy: 961, 203
+  size: 57, 70
+  orig: 57, 70
+  offset: 0, 0
+  index: -1
+front_belt_a
+  rotate: true
+  xy: 458, 88
+  size: 157, 85
+  orig: 157, 85
+  offset: 0, 0
+  index: -1
+front_belt_b
+  rotate: true
+  xy: 664, 105
+  size: 150, 89
+  orig: 150, 89
+  offset: 0, 0
+  index: -1
+front_body_1
+  rotate: false
+  xy: 327, 245
+  size: 148, 267
+  orig: 148, 267
+  offset: 0, 0
+  index: -1
+front_body_ac_1
+  rotate: true
+  xy: 753, 92
+  size: 44, 114
+  orig: 44, 114
+  offset: 0, 0
+  index: -1
+front_breast
+  rotate: true
+  xy: 874, 160
+  size: 113, 87
+  orig: 113, 87
+  offset: 0, 0
+  index: -1
+front_face_a
+  rotate: true
+  xy: 936, 14
+  size: 74, 43
+  orig: 74, 43
+  offset: 0, 0
+  index: -1
+front_face_b_01
+  rotate: false
+  xy: 0, 0
+  size: 17, 5
+  orig: 17, 5
+  offset: 0, 0
+  index: -1
+front_face_b_02
+  rotate: true
+  xy: 526, 0
+  size: 21, 14
+  orig: 21, 14
+  offset: 0, 0
+  index: -1
+front_face_c
+  rotate: false
+  xy: 594, 50
+  size: 35, 36
+  orig: 35, 36
+  offset: 0, 0
+  index: -1
+front_gun_a
+  rotate: true
+  xy: 327, 24
+  size: 59, 114
+  orig: 59, 114
+  offset: 0, 0
+  index: -1
+front_hair_1
+  rotate: false
+  xy: 847, 373
+  size: 121, 139
+  orig: 121, 139
+  offset: 0, 0
+  index: -1
+front_hair_2
+  rotate: true
+  xy: 543, 86
+  size: 32, 120
+  orig: 32, 120
+  offset: 0, 0
+  index: -1
+front_hair_3
+  rotate: true
+  xy: 847, 273
+  size: 100, 121
+  orig: 100, 121
+  offset: 0, 0
+  index: -1
+front_head
+  rotate: false
+  xy: 543, 118
+  size: 121, 137
+  orig: 121, 137
+  offset: 0, 0
+  index: -1
+front_head_b
+  rotate: false
+  xy: 753, 136
+  size: 121, 137
+  orig: 121, 137
+  offset: 0, 0
+  index: -1
+front_jacket_1
+  rotate: false
+  xy: 475, 304
+  size: 191, 208
+  orig: 191, 208
+  offset: 0, 0
+  index: -1
+front_left_leg_1b
+  rotate: false
+  xy: 222, 15
+  size: 105, 497
+  orig: 105, 497
+  offset: 0, 0
+  index: -1
+front_left_leg_3
+  rotate: false
+  xy: 441, 0
+  size: 85, 64
+  orig: 85, 64
+  offset: 0, 0
+  index: -1
+front_radio
+  rotate: true
+  xy: 874, 126
+  size: 34, 97
+  orig: 34, 97
+  offset: 0, 0
+  index: -1
+front_right_arm_1_ac
+  rotate: false
+  xy: 863, 20
+  size: 73, 68
+  orig: 73, 68
+  offset: 0, 0
+  index: -1
+front_right_arm_2
+  rotate: false
+  xy: 475, 255
+  size: 255, 49
+  orig: 255, 49
+  offset: 0, 0
+  index: -1
+front_right_leg_1a
+  rotate: false
+  xy: 0, 5
+  size: 222, 507
+  orig: 222, 507
+  offset: 0, 0
+  index: -1
+front_right_leg_2C
+  rotate: false
+  xy: 526, 21
+  size: 33, 23
+  orig: 33, 23
+  offset: 0, 0
+  index: -1
+front_right_leg_2a
+  rotate: false
+  xy: 867, 88
+  size: 92, 38
+  orig: 92, 38
+  offset: 0, 0
+  index: -1
+front_right_leg_3
+  rotate: false
+  xy: 971, 88
+  size: 51, 73
+  orig: 51, 73
+  offset: 0, 0
+  index: -1
+front_right_leg_3a
+  rotate: false
+  xy: 629, 63
+  size: 30, 23
+  orig: 30, 23
+  offset: 0, 0
+  index: -1
+hand_d1
+  rotate: false
+  xy: 663, 64
+  size: 90, 41
+  orig: 90, 41
+  offset: 0, 0
+  index: -1
+hand_d2
+  rotate: false
+  xy: 961, 161
+  size: 57, 42
+  orig: 57, 42
+  offset: 0, 0
+  index: -1
+hand_e1
+  rotate: true
+  xy: 979, 17
+  size: 71, 43
+  orig: 71, 43
+  offset: 0, 0
+  index: -1
+hand_e2
+  rotate: false
+  xy: 968, 273
+  size: 54, 45
+  orig: 54, 45
+  offset: 0, 0
+  index: -1
+hand_f
+  rotate: false
+  xy: 526, 44
+  size: 68, 42
+  orig: 68, 42
+  offset: 0, 0
+  index: -1
+side_hair_3
+  rotate: false
+  xy: 666, 306
+  size: 162, 10
+  orig: 162, 10
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 968, 318
+  size: 56, 194
+  orig: 56, 194
+  offset: 0, 0
+  index: -1
