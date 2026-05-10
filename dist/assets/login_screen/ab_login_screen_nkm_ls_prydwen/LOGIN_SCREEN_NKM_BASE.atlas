@@ -1,0 +1,20 @@
+
+LOGIN_SCREEN_NKM_BASE.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image
+  rotate: false
+  xy: 2, 2
+  size: 1805, 1015
+  orig: 1805, 1015
+  offset: 0, 0
+  index: -1
+image_black
+  rotate: false
+  xy: 1809, 1004
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
